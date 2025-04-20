@@ -1,929 +1,929 @@
 Company Name,Model Name,RAM,Processor,Battery Capacity,Screen Size,Launched Year,Condition,age_years,Launched Price (USA),price_drop,refurbished_price
-Apple,iPhone 16 128GB,6,A17 Bionic,3600,6.1,2024,Good,2,799.0,0.4,462.51
-Apple,iPhone 16 256GB,6,A17 Bionic,3600,6.1,2024,regular,2,849.0,0.55,380.58
-Apple,iPhone 16 512GB,6,A17 Bionic,3600,6.1,2024,Good,2,899.0,0.4,532.69
-Apple,iPhone 16 Plus 128GB,6,A17 Bionic,4200,6.7,2024,Good,2,899.0,0.4,529.82
-Apple,iPhone 16 Plus 256GB,6,A17 Bionic,4200,6.7,2024,Excellent,2,949.0,0.25,701.27
-Apple,iPhone 16 Plus 512GB,6,A17 Bionic,4200,6.7,2024,Excellent,2,999.0,0.25,741.92
-Apple,iPhone 16 Pro 128GB,6,A17 Pro,4400,6.1,2024,Excellent,2,999.0,0.25,731.95
-Apple,iPhone 16 Pro 256GB,8,A17 Pro,4400,6.1,2024,regular,2,1049.0,0.55,459.46
-Apple,iPhone 16 Pro 512GB,8,A17 Pro,4400,6.1,2024,Good,2,1099.0,0.4,651.45
-Apple,iPhone 16 Pro Max 128GB,6,A17 Pro,4500,6.7,2024,Good,2,1099.0,0.4,639.83
-Apple,iPhone 16 Pro Max 256GB,8,A17 Pro,4500,6.7,2024,Excellent,2,1199.0,0.25,891.27
-Apple,iPhone 16 Pro Max 512GB,8,A17 Pro,4500,6.7,2024,regular,2,1299.0,0.55,560.85
-Apple,iPhone 15 128GB,6,A16 Bionic,3200,6.1,2023,regular,3,799.0,0.6000000000000001,319.74
-Apple,iPhone 15 256GB,6,A16 Bionic,3200,6.1,2023,Good,3,849.0,0.45,463.26
-Apple,iPhone 15 512GB,6,A16 Bionic,3200,6.1,2023,Excellent,3,949.0,0.30000000000000004,656.89
-Apple,iPhone 15 Plus 128GB,6,A16 Bionic,4300,6.7,2023,Excellent,3,899.0,0.30000000000000004,629.14
-Apple,iPhone 15 Plus 256GB,6,A16 Bionic,4300,6.7,2023,Good,3,999.0,0.45,554.93
-Apple,iPhone 15 Plus 512GB,6,A16 Bionic,4300,6.7,2023,Good,3,1049.0,0.45,577.07
-Apple,iPhone 15 Pro 128GB,6,A16 Bionic,4400,6.1,2023,Good,3,1099.0,0.45,578.69
-Apple,iPhone 15 Pro 256GB,8,A16 Bionic,4400,6.1,2023,Good,3,1199.0,0.45,636.9
-Apple,iPhone 15 Pro 512GB,8,A16 Bionic,4400,6.1,2023,Good,3,1299.0,0.45,697.04
-Apple,iPhone 15 Pro Max 128GB,6,A16 Bionic,4500,6.7,2023,Excellent,3,1199.0,0.30000000000000004,827.04
-Apple,iPhone 15 Pro Max 256GB,8,A16 Bionic,4500,6.7,2023,Good,3,1299.0,0.45,709.28
-Apple,iPhone 15 Pro Max 512GB,8,A16 Bionic,4500,6.7,2023,Good,3,1399.0,0.45,749.53
-Apple,iPhone 14 128GB,6,A15 Bionic,3200,6.1,2022,Good,4,799.0,0.5,394.63
-Apple,iPhone 14 256GB,6,A15 Bionic,3200,6.1,2022,Good,4,849.0,0.5,413.32
-Apple,iPhone 14 512GB,6,A15 Bionic,3200,6.1,2022,Excellent,4,949.0,0.35,601.94
-Apple,iPhone 14 Plus 128GB,6,A15 Bionic,4325,6.7,2022,Good,4,899.0,0.5,433.27
-Apple,iPhone 14 Plus 256GB,6,A15 Bionic,4325,6.7,2022,Good,4,999.0,0.5,485.09
-Apple,iPhone 14 Plus 512GB,6,A15 Bionic,4325,6.7,2022,Excellent,4,1049.0,0.35,657.8
-Apple,iPhone 14 Pro 128GB,6,A16 Bionic,4200,6.1,2022,Good,4,1099.0,0.5,533.21
-Apple,iPhone 14 Pro 256GB,8,A16 Bionic,4200,6.1,2022,Excellent,4,1199.0,0.35,779.98
-Apple,iPhone 14 Pro 512GB,8,A16 Bionic,4200,6.1,2022,Excellent,4,1299.0,0.35,819.66
-Apple,iPhone 14 Pro Max 128GB,6,A16 Bionic,4500,6.7,2022,regular,4,1199.0,0.65,429.93
-Apple,iPhone 14 Pro Max 256GB,8,A16 Bionic,4500,6.7,2022,regular,4,1299.0,0.65,451.19
-Apple,iPhone 14 Pro Max 512GB,8,A16 Bionic,4500,6.7,2022,regular,4,1399.0,0.65,483.66
-Apple,iPhone 13 mini 128GB,4,A15 Bionic,2438,5.4,2021,Good,5,699.0,0.55,305.78
-Apple,iPhone 13 mini 256GB,4,A15 Bionic,2438,5.4,2021,Excellent,5,799.0,0.4,477.24
-Apple,iPhone 13 mini 512GB,4,A15 Bionic,2438,5.4,2021,Good,5,899.0,0.55,394.99
-Apple,iPhone 13 128GB,4,A15 Bionic,3240,6.1,2021,Good,5,799.0,0.55,354.81
-Apple,iPhone 13 256GB,4,A15 Bionic,3240,6.1,2021,Excellent,5,899.0,0.4,552.02
-Apple,iPhone 13 512GB,4,A15 Bionic,3240,6.1,2021,Good,5,999.0,0.55,442.16
-Apple,iPhone 13 Pro 128GB,6,A15 Bionic,3095,6.1,2021,Excellent,5,999.0,0.4,600.74
-Apple,iPhone 13 Pro 256GB,6,A15 Bionic,3095,6.1,2021,regular,5,1099.0,0.7,321.28
-Apple,iPhone 13 Pro 512GB,6,A15 Bionic,3095,6.1,2021,Good,5,1199.0,0.55,531.17
-Apple,iPhone 13 Pro Max 128GB,6,A15 Bionic,4352,6.7,2021,Good,5,1099.0,0.55,500.27
-Apple,iPhone 13 Pro Max 256GB,6,A15 Bionic,4352,6.7,2021,Good,5,1199.0,0.55,526.38
-Apple,iPhone 13 Pro Max 512GB,6,A15 Bionic,4352,6.7,2021,Good,5,1399.0,0.55,637.22
-Apple,iPhone 12 mini 64GB,4,A14 Bionic,2227,5.4,2020,Good,6,699.0,0.6000000000000001,278.37
-Apple,iPhone 12 mini 128GB,4,A14 Bionic,2227,5.4,2020,Excellent,6,799.0,0.45000000000000007,429.15
-Apple,iPhone 12 mini 256GB,4,A14 Bionic,2227,5.4,2020,regular,6,899.0,0.7,268.21
-Apple,iPhone 12 64GB,4,A14 Bionic,2815,6.1,2020,Good,6,799.0,0.6000000000000001,319.47
-Apple,iPhone 12 128GB,4,A14 Bionic,2815,6.1,2020,regular,6,899.0,0.7,268.17
-Apple,iPhone 12 256GB,4,A14 Bionic,2815,6.1,2020,regular,6,999.0,0.7,288.15
-Apple,iPhone 12 Pro 128GB,6,A14 Bionic,2815,6.1,2020,Good,6,999.0,0.6000000000000001,389.25
-Apple,iPhone 12 Pro 256GB,6,A14 Bionic,2815,6.1,2020,regular,6,1099.0,0.7,323.53
-Apple,iPhone 12 Pro 512GB,6,A14 Bionic,2815,6.1,2020,Excellent,6,1199.0,0.45000000000000007,648.82
-Apple,iPhone 12 Pro Max 128GB,6,A14 Bionic,3687,6.7,2020,Excellent,6,1099.0,0.45000000000000007,601.01
-Apple,iPhone 12 Pro Max 256GB,6,A14 Bionic,3687,6.7,2020,Excellent,6,1199.0,0.45000000000000007,651.32
-Apple,iPhone 12 Pro Max 512GB,6,A14 Bionic,3687,6.7,2020,Good,6,1399.0,0.6000000000000001,540.0
-Apple,iPhone 11 64GB,4,A13 Bionic,3110,6.1,2019,Good,7,699.0,0.65,242.38
-Apple,iPhone 11 128GB,4,A13 Bionic,3110,6.1,2019,Good,7,799.0,0.65,278.02
-Apple,iPhone 11 256GB,4,A13 Bionic,3110,6.1,2019,regular,7,899.0,0.7,267.92
-Apple,iPhone 11 Pro 64GB,4,A13 Bionic,3046,5.8,2019,Good,7,999.0,0.65,350.07
-Apple,iPhone 11 Pro 256GB,4,A13 Bionic,3046,5.8,2019,Good,7,1099.0,0.65,383.69
-Apple,iPhone 11 Pro 512GB,4,A13 Bionic,3046,5.8,2019,Good,7,1199.0,0.65,416.25
-Apple,iPhone 11 Pro Max 64GB,4,A13 Bionic,3969,6.5,2019,Excellent,7,1099.0,0.5,540.68
-Apple,iPhone 11 Pro Max 256GB,4,A13 Bionic,3969,6.5,2019,regular,7,1199.0,0.7,345.34
-Apple,iPhone 11 Pro Max 512GB,4,A13 Bionic,3969,6.5,2019,Excellent,7,1399.0,0.5,693.52
-Apple,iPhone X 64GB,3,A11 Bionic,2716,5.8,2017,regular,9,999.0,0.7,296.14
-Apple,iPhone X 256GB,3,A11 Bionic,2716,5.8,2017,Good,9,1099.0,0.7,326.1
-Apple,iPhone XS 64GB,4,A12 Bionic,2658,5.8,2018,Excellent,8,999.0,0.55,434.2
-Apple,iPhone XS 256GB,4,A12 Bionic,2658,5.8,2018,Excellent,8,1099.0,0.55,479.11
-Apple,iPhone XS 512GB,4,A12 Bionic,2658,5.8,2018,regular,8,1299.0,0.7,390.01
-Apple,iPhone XS Max 64GB,4,A12 Bionic,3174,6.5,2018,Good,8,1099.0,0.7,324.56
-Apple,iPhone XS Max 256GB,4,A12 Bionic,3174,6.5,2018,Good,8,1249.0,0.7,372.91
-Apple,iPhone XS Max 512GB,4,A12 Bionic,3174,6.5,2018,Good,8,1399.0,0.7,413.58
-Apple,iPhone XR 64GB,3,A12 Bionic,2942,6.1,2018,Excellent,8,749.0,0.55,332.14
-Apple,iPhone XR 128GB,3,A12 Bionic,2942,6.1,2018,Good,8,799.0,0.7,239.48
-Apple,iPhone XR 256GB,3,A12 Bionic,2942,6.1,2018,Excellent,8,899.0,0.55,395.35
-Apple,iPad Air 10.9-inch 64GB,4,A14 Bionic,7608,10.9,2020,regular,6,599.0,0.7,177.26
-Apple,iPad Air 10.9-inch 256GB,4,A14 Bionic,7608,10.9,2020,Good,6,749.0,0.6000000000000001,293.03
-Apple,iPad 10.2-inch 32GB,3,A13 Bionic,8612,10.2,2020,Good,6,329.0,0.6000000000000001,128.77
-Apple,iPad 10.2-inch 128GB,3,A13 Bionic,8612,10.2,2020,Excellent,6,429.0,0.45000000000000007,231.32
-Apple,iPad Mini 7.9-inch 64GB,3,A12 Bionic,5124,7.9,2019,Good,7,399.0,0.65,138.02
-Apple,iPad Mini 7.9-inch 256GB,3,A12 Bionic,5124,7.9,2019,Good,7,499.0,0.65,170.78
-Apple,iPad Pro 11-inch 128GB,4,A12Z Bionic,7812,11.0,2020,Good,6,799.0,0.6000000000000001,320.83
-Apple,iPad Pro 11-inch 256GB,4,A12Z Bionic,7812,11.0,2020,Good,6,899.0,0.6000000000000001,349.38
-Apple,iPad Pro 11-inch 512GB,6,A12Z Bionic,7812,11.0,2020,regular,6,1099.0,0.7,323.83
-Apple,iPad Pro 12.9-inch 128GB,6,A12Z Bionic,9720,12.9,2020,Good,6,999.0,0.6000000000000001,390.97
-Apple,iPad Pro 12.9-inch 256GB,6,A12Z Bionic,9720,12.9,2020,Excellent,6,1099.0,0.45000000000000007,608.5
-Apple,iPad Pro 12.9-inch 512GB,6,A12Z Bionic,9720,12.9,2020,Good,6,1299.0,0.6000000000000001,513.34
-Apple,iPad Pro 13-inch 128GB,6,A12Z Bionic,10307,13.0,2020,Good,6,1099.0,0.6000000000000001,439.81
-Apple,iPad Pro 13-inch 256GB,6,A12Z Bionic,10307,13.0,2020,Good,6,1199.0,0.6000000000000001,461.72
-Apple,iPad Pro 13-inch 512GB,6,A12Z Bionic,10307,13.0,2020,Good,6,1399.0,0.6000000000000001,553.45
-Apple,iPad Pro 13-inch 1TB,6,A12Z Bionic,10307,13.0,2020,Good,6,1599.0,0.6000000000000001,638.54
-Apple,iPad Pro 13-inch 2TB,6,A12Z Bionic,10307,13.0,2020,Good,6,1799.0,0.6000000000000001,709.69
-Samsung,Galaxy S24 Ultra 128GB,12,Exynos 2400,5000,6.8,2024,Good,2,1199.0,0.4,720.11
-Samsung,Galaxy S24 Ultra 256GB,12,Exynos 2400,5000,6.8,2024,Excellent,2,1299.0,0.25,952.08
-Samsung,Galaxy S24+ 128GB,8,Exynos 2400,4800,6.6,2024,Excellent,2,899.0,0.25,678.39
-Samsung,Galaxy S24+ 256GB,8,Exynos 2400,4800,6.6,2024,Excellent,2,999.0,0.25,763.85
-Samsung,Galaxy S24 128GB,8,Exynos 2400,4000,6.1,2024,Good,2,799.0,0.4,469.6
-Samsung,Galaxy S24 256GB,8,Exynos 2400,4000,6.1,2024,Good,2,899.0,0.4,527.7
-Samsung,Galaxy S23 Ultra 128GB,12,Snapdragon 8 Gen 2,5000,6.8,2023,Good,3,1199.0,0.45,663.93
-Samsung,Galaxy S23 Ultra 256GB,12,Snapdragon 8 Gen 2,5000,6.8,2023,regular,3,1299.0,0.6000000000000001,524.12
-Samsung,Galaxy S23+ 128GB,8,Snapdragon 8 Gen 2,4700,6.6,2023,Good,3,899.0,0.45,483.16
-Samsung,Galaxy S23+ 256GB,8,Snapdragon 8 Gen 2,4700,6.6,2023,Good,3,999.0,0.45,537.75
-Samsung,Galaxy S23 128GB,8,Snapdragon 8 Gen 2,3900,6.1,2023,Good,3,799.0,0.45,431.0
-Samsung,Galaxy S23 256GB,8,Snapdragon 8 Gen 2,3900,6.1,2023,Good,3,899.0,0.45,477.06
-Samsung,Galaxy S22 Ultra 128GB,12,Exynos 2200,5000,6.8,2022,Excellent,4,1099.0,0.35,693.79
-Samsung,Galaxy S22 Ultra 256GB,12,Exynos 2200,5000,6.8,2022,Good,4,1199.0,0.5,581.48
-Samsung,Galaxy S22+ 128GB,8,Exynos 2200,4500,6.6,2022,Excellent,4,799.0,0.35,505.58
-Samsung,Galaxy S22+ 256GB,8,Exynos 2200,4500,6.6,2022,regular,4,899.0,0.65,309.77
-Samsung,Galaxy S22 128GB,8,Exynos 2200,3800,6.1,2022,regular,4,699.0,0.65,241.84
-Samsung,Galaxy S22 256GB,8,Exynos 2200,3800,6.1,2022,Good,4,799.0,0.5,402.8
-Samsung,Galaxy Z Fold 5 256GB,12,Snapdragon 8 Gen 2,4400,7.6,2023,regular,3,1799.0,0.6000000000000001,698.03
-Samsung,Galaxy Z Fold 5 512GB,12,Snapdragon 8 Gen 2,4400,7.6,2023,regular,3,1899.0,0.6000000000000001,759.42
-Samsung,Galaxy Z Flip 5 256GB,8,Snapdragon 8 Gen 2,3700,6.7,2023,Excellent,3,999.0,0.30000000000000004,686.57
-Samsung,Galaxy Z Flip 5 512GB,8,Snapdragon 8 Gen 2,3700,6.7,2023,regular,3,1099.0,0.6000000000000001,432.68
-Samsung,Galaxy Z Fold 4 256GB,12,Snapdragon 8 Gen 1,4400,7.6,2022,Good,4,1799.0,0.5,895.11
-Samsung,Galaxy Z Fold 4 512GB,12,Snapdragon 8 Gen 1,4400,7.6,2022,regular,4,1899.0,0.65,643.49
-Samsung,Galaxy Z Flip 4 256GB,8,Snapdragon 8 Gen 1,3700,6.7,2022,regular,4,999.0,0.65,346.41
-Samsung,Galaxy Z Flip 4 512GB,8,Snapdragon 8 Gen 1,3700,6.7,2022,Good,4,1099.0,0.5,542.63
-Samsung,Galaxy A54 128GB,6,Exynos 1380,5000,6.4,2023,Excellent,3,399.0,0.30000000000000004,277.17
-Samsung,Galaxy A54 256GB,6,Exynos 1380,5000,6.4,2023,Good,3,449.0,0.45,244.32
-Samsung,Galaxy A34 128GB,6,MediaTek Dimensity 1080,5000,6.6,2023,Good,3,349.0,0.45,196.14
-Samsung,Galaxy A34 256GB,6,MediaTek Dimensity 1080,5000,6.6,2023,regular,3,399.0,0.6000000000000001,155.68
-Samsung,Galaxy A24 128GB,6,MediaTek Helio G99,5000,6.5,2023,regular,3,299.0,0.6000000000000001,116.85
-Samsung,Galaxy A24 256GB,6,MediaTek Helio G99,5000,6.5,2023,Excellent,3,349.0,0.30000000000000004,238.35
-Samsung,Galaxy A14 128GB,4,Exynos 850,5000,6.6,2023,Good,3,249.0,0.45,133.75
-Samsung,Galaxy A14 256GB,4,Exynos 850,5000,6.6,2023,Good,3,299.0,0.45,160.41
-Samsung,Galaxy A04 64GB,4,Exynos 850,5000,6.5,2022,Good,4,199.0,0.5,99.78
-Samsung,Galaxy A04 128GB,4,Exynos 850,5000,6.5,2022,Excellent,4,249.0,0.35,162.87
-Samsung,Galaxy M54 128GB,8,Exynos 1380,6000,6.7,2023,Good,3,349.0,0.45,187.43
-Samsung,Galaxy M54 256GB,8,Exynos 1380,6000,6.7,2023,regular,3,399.0,0.6000000000000001,155.21
-Samsung,Galaxy M34 128GB,6,Exynos 1280,6000,6.5,2023,Good,3,299.0,0.45,163.15
-Samsung,Galaxy M34 256GB,6,Exynos 1280,6000,6.5,2023,Good,3,349.0,0.45,187.48
-Samsung,Galaxy M14 128GB,4,Exynos 850,6000,6.6,2023,Good,3,249.0,0.45,136.2
-Samsung,Galaxy M14 256GB,4,Exynos 850,6000,6.6,2023,Good,3,299.0,0.45,162.48
-Samsung,Galaxy M04 64GB,4,MediaTek Helio P35,5000,6.5,2022,regular,4,199.0,0.65,67.02
-Samsung,Galaxy M04 128GB,4,MediaTek Helio P35,5000,6.5,2022,regular,4,249.0,0.65,87.87
-Samsung,Galaxy F54 128GB,8,Exynos 1380,6000,6.7,2023,Good,3,349.0,0.45,194.24
-Samsung,Galaxy F54 256GB,8,Exynos 1380,6000,6.7,2023,Good,3,399.0,0.45,214.14
-Samsung,Galaxy F34 128GB,6,Exynos 1280,6000,6.5,2023,Good,3,299.0,0.45,161.03
-Samsung,Galaxy F34 256GB,6,Exynos 1280,6000,6.5,2023,Good,3,349.0,0.45,189.89
-Samsung,Galaxy F14 128GB,4,Exynos 850,6000,6.6,2023,Excellent,3,249.0,0.30000000000000004,172.56
-Samsung,Galaxy F14 256GB,4,Exynos 850,6000,6.6,2023,Good,3,299.0,0.45,163.61
-Samsung,Galaxy Note 20 Ultra 128GB,12,Exynos 990,4500,6.9,2020,Good,6,1299.0,0.6000000000000001,527.47
-Samsung,Galaxy Note 20 Ultra 256GB,12,Exynos 990,4500,6.9,2020,Excellent,6,1399.0,0.45000000000000007,755.87
-Samsung,Galaxy Note 20 128GB,8,Exynos 990,4300,6.7,2020,Good,6,999.0,0.6000000000000001,388.82
-Samsung,Galaxy Note 20 256GB,8,Exynos 990,4300,6.7,2020,regular,6,1099.0,0.7,317.93
-Samsung,Galaxy Note 10+ 256GB,12,Exynos 9825,4300,6.8,2019,Good,7,1099.0,0.65,374.66
-Samsung,Galaxy Note 10+ 512GB,12,Exynos 9825,4300,6.8,2019,Excellent,7,1199.0,0.5,590.21
-Samsung,Galaxy Note 10 256GB,8,Exynos 9825,3500,6.3,2019,Good,7,949.0,0.65,336.11
-Samsung,Galaxy Note 10 128GB,8,Exynos 9825,3500,6.3,2019,regular,7,899.0,0.7,263.56
-Samsung,Galaxy Xcover 6 Pro 128GB,6,Exynos 1380,4050,6.6,2022,Good,4,499.0,0.5,246.6
-Samsung,Galaxy Xcover 5 64GB,4,Exynos 850,3000,5.3,2020,Good,6,249.0,0.6000000000000001,98.08
-Samsung,Galaxy J8 64GB,4,Snapdragon 450,3500,6.0,2018,Good,8,199.0,0.7,59.87
-Samsung,Galaxy J7 Pro 64GB,3,Exynos 7870,3600,5.5,2017,Good,9,179.0,0.7,54.93
-Samsung,Galaxy J6+ 64GB,4,Snapdragon 425,3300,6.0,2018,Good,8,169.0,0.7,49.54
-Samsung,Galaxy J4 16GB,2,Exynos 7570,3000,5.5,2018,Good,8,129.0,0.7,37.84
-Samsung,Galaxy C9 Pro 64GB,6,Snapdragon 653,4000,6.0,2016,Good,10,399.0,0.7,119.78
-Samsung,Galaxy C7 Pro 64GB,4,Snapdragon 625,3300,5.7,2017,Good,9,299.0,0.7,89.27
-Samsung,Galaxy C5 32GB,4,Snapdragon 617,2600,5.2,2016,Good,10,249.0,0.7,75.65
-Samsung,Galaxy W22 5G 256GB,12,Snapdragon 888,4500,7.6,2021,Excellent,5,1499.0,0.4,893.79
-Samsung,Galaxy W21 5G 256GB,12,Snapdragon 888,4500,7.6,2020,regular,6,1399.0,0.7,411.14
-Samsung,Galaxy Tab S9 Ultra 256GB,12,Snapdragon 8 Gen 2,11200,14.6,2023,Good,3,1199.0,0.45,655.4
-Samsung,Galaxy Tab S9+ 256GB,12,Snapdragon 8 Gen 2,10090,12.4,2023,Excellent,3,999.0,0.30000000000000004,700.44
-Samsung,Galaxy Tab S9 128GB,8,Snapdragon 8 Gen 2,8400,11.0,2023,Excellent,3,799.0,0.30000000000000004,557.79
-Samsung,Galaxy Tab S9 FE 128GB,6,Exynos 1380,8000,10.9,2023,Good,3,549.0,0.45,299.72
-Samsung,Galaxy Tab S8 Ultra 256GB,12,Snapdragon 8 Gen 1,11200,14.6,2022,Good,4,1099.0,0.5,550.05
-Samsung,Galaxy Tab S8+ 256GB,8,Snapdragon 8 Gen 1,10090,12.4,2022,Excellent,4,899.0,0.35,585.83
-Samsung,Galaxy Tab S8 128GB,8,Snapdragon 8 Gen 1,8000,11.0,2022,Good,4,699.0,0.5,351.5
-Samsung,Galaxy Tab A9+ 128GB,8,Snapdragon 695,7040,11.0,2023,Good,3,229.0,0.45,125.29
-Samsung,Galaxy Tab A9 64GB,4,MediaTek Helio G99,5100,8.7,2023,Good,3,179.0,0.45,96.73
-Samsung,Galaxy Tab A8 64GB,4,Unisoc T618,7040,10.5,2022,Excellent,4,199.0,0.35,127.69
-Samsung,Galaxy Tab A7 Lite 32GB,3,MediaTek Helio P22T,5100,8.7,2021,Good,5,149.0,0.55,67.26
-Samsung,Galaxy Tab Active 5 128GB,6,Exynos 1380,5050,8.0,2024,Good,2,549.0,0.4,320.42
-Samsung,Galaxy Tab Active 4 Pro 128GB,6,Snapdragon 778G,7600,10.1,2022,regular,4,649.0,0.65,225.0
-Samsung,Galaxy Tab Active 3 64GB,4,Exynos 9810,5050,8.0,2020,Excellent,6,499.0,0.45000000000000007,268.71
-OnePlus,OnePlus 12 256GB,12,Snapdragon 8 Gen 3,5000,6.7,2024,Good,2,799.0,0.4,472.42
-OnePlus,OnePlus 12R 256GB,12,Snapdragon 8 Gen 2,4500,6.7,2024,Excellent,2,699.0,0.25,526.44
-OnePlus,OnePlus 11 256GB,12,Snapdragon 8 Gen 1,5000,6.7,2023,regular,3,699.0,0.6000000000000001,276.21
-OnePlus,OnePlus 11R 256GB,12,Snapdragon 8 Gen 1,5000,6.7,2023,regular,3,599.0,0.6000000000000001,236.17
-OnePlus,OnePlus Nord 3 256GB,12,MediaTek Dimensity 9000,5000,6.74,2023,Good,3,499.0,0.45,264.74
-OnePlus,OnePlus Nord CE 3 128GB,8,Snapdragon 782G,5000,6.72,2023,Good,3,399.0,0.45,218.61
-OnePlus,OnePlus Nord CE 3 Lite 128GB,8,Snapdragon 695,5000,6.72,2023,regular,3,299.0,0.6000000000000001,118.96
-OnePlus,OnePlus Nord N30 5G 128GB,8,MediaTek Dimensity 6020,5000,6.72,2023,Good,3,249.0,0.45,139.34
-OnePlus,OnePlus Open 256GB,16,Snapdragon 8 Gen 2,4800,7.8,2024,Good,2,1099.0,0.4,646.46
-OnePlus,OnePlus 10 Pro 256GB,12,Snapdragon 8 Gen 1,5000,6.7,2022,Good,4,899.0,0.5,444.24
-OnePlus,OnePlus 10T 256GB,12,Snapdragon 8+ Gen 1,4500,6.7,2022,Excellent,4,749.0,0.35,481.37
-OnePlus,OnePlus 9 Pro 256GB,12,Snapdragon 888,4500,6.7,2021,regular,5,699.0,0.7,211.52
-OnePlus,OnePlus 9 128GB,8,Snapdragon 888,4500,6.55,2021,regular,5,599.0,0.7,176.75
-OnePlus,OnePlus 11 Pro 256GB,16,Snapdragon 8 Gen 2,5000,6.7,2023,Good,3,899.0,0.45,489.1
-OnePlus,OnePlus Nord 2T 128GB,8,MediaTek Dimensity 1300,4500,6.43,2022,Good,4,399.0,0.5,198.33
-OnePlus,OnePlus Nord 2 128GB,8,MediaTek Dimensity 1200-AI,4500,6.43,2021,Good,5,349.0,0.55,155.13
-OnePlus,OnePlus Nord N200 64GB,4,Snapdragon 480,5000,6.49,2021,Good,5,199.0,0.55,87.61
-OnePlus,OnePlus Nord N100 64GB,4,Qualcomm Snapdragon 460,5000,6.52,2020,regular,6,179.0,0.7,53.05
-OnePlus,OnePlus 8T Cyberpunk 2077 Edition 256GB,12,Snapdragon 865,4500,6.55,2020,regular,6,749.0,0.7,224.95
-OnePlus,OnePlus 9T 128GB,8,Snapdragon 888,4500,6.55,2021,Good,5,649.0,0.55,283.17
-OnePlus,OnePlus 8T 256GB,12,Snapdragon 865,4500,6.55,2020,Good,6,599.0,0.6000000000000001,236.48
-OnePlus,OnePlus 10T 5G 256GB,12,Snapdragon 8+ Gen 1,4500,6.7,2022,Excellent,4,749.0,0.35,474.43
-OnePlus,OnePlus 9R 5G 128GB,8,Snapdragon 870,4500,6.55,2021,Excellent,5,599.0,0.4,360.45
-OnePlus,OnePlus 8 Pro 256GB,12,Snapdragon 865,4510,6.78,2020,regular,6,749.0,0.7,216.2
-OnePlus,OnePlus 8 128GB,8,Snapdragon 865,4300,6.55,2020,Good,6,699.0,0.6000000000000001,273.06
-OnePlus,OnePlus Nord CE 2 Lite 128GB,6,MediaTek Dimensity 900,5000,6.59,2022,Excellent,4,249.0,0.35,160.34
-OnePlus,OnePlus Nord CE 2 128GB,8,MediaTek Dimensity 1200,4500,6.43,2022,Excellent,4,299.0,0.35,196.0
-OnePlus,OnePlus Nord 1 128GB,6,Snapdragon 765G,4115,6.44,2020,Good,6,349.0,0.6000000000000001,137.37
-OnePlus,OnePlus Nord CE 5G 128GB,6,Snapdragon 750G,4500,6.43,2021,Excellent,5,299.0,0.4,175.21
-OnePlus,OnePlus Nord 2 5G 128GB,8,MediaTek Dimensity 1200-AI,4500,6.43,2021,Excellent,5,399.0,0.4,242.56
-OnePlus,OnePlus Nord N100 5G 64GB,4,Qualcomm Snapdragon 460,5000,6.52,2020,Good,6,179.0,0.6000000000000001,68.97
-OnePlus,OnePlus Nord N10 5G 128GB,6,Qualcomm Snapdragon 690,4300,6.49,2020,Good,6,299.0,0.6000000000000001,113.86
-OnePlus,OnePlus 8R 128GB,8,Snapdragon 865,4300,6.55,2020,Good,6,649.0,0.6000000000000001,257.42
-OnePlus,OnePlus 7R 128GB,6,Snapdragon 855,3700,6.41,2020,Good,6,599.0,0.6000000000000001,234.2
-OnePlus,OnePlus 6T McLaren Edition 256GB,10,Snapdragon 845,3700,6.41,2018,Good,8,799.0,0.7,232.43
-OnePlus,OnePlus 5T Star Wars Edition 128GB,6,Snapdragon 835,3300,6.01,2017,Good,9,649.0,0.7,193.85
-OnePlus,OnePlus 13R 128GB,8,Snapdragon 8 Gen 2,4500,6.7,2023,Good,3,849.0,0.45,461.65
-OnePlus,OnePlus 11T 128GB,12,Snapdragon 8 Gen 2,5000,6.7,2023,Good,3,799.0,0.45,429.14
-OnePlus,OnePlus 10R 128GB,8,MediaTek Dimensity 8100,4500,6.7,2022,Good,4,599.0,0.5,289.26
-OnePlus,OnePlus 7 Pro 5G 256GB,12,Snapdragon 855,4000,6.67,2019,regular,7,799.0,0.7,239.24
-OnePlus,OnePlus 6 Special Edition 128GB,6,Snapdragon 845,3300,6.28,2018,Good,8,599.0,0.7,178.76
-OnePlus,OnePlus 5 Special Edition 128GB,8,Snapdragon 835,3300,5.5,2017,Good,9,599.0,0.7,176.74
-OnePlus,OnePlus Nord X 128GB,8,Snapdragon 765G,4000,6.44,2020,Excellent,6,299.0,0.45000000000000007,166.54
-OnePlus,OnePlus 8 Pro McLaren Edition 256GB,12,Snapdragon 865,4510,6.78,2020,Good,6,899.0,0.6000000000000001,348.43
-OnePlus,OnePlus 8T Cyberpunk Edition 256GB,12,Snapdragon 865,4500,6.55,2020,Good,6,799.0,0.6000000000000001,307.49
-OnePlus,OnePlus 7T Pro 5G McLaren Edition 256GB,12,Snapdragon 855,4085,6.67,2019,Good,7,899.0,0.65,306.66
-OnePlus,OnePlus 15R 128GB,12,Snapdragon 8 Gen 3,5000,6.7,2023,regular,3,849.0,0.6000000000000001,334.27
-OnePlus,OnePlus 14+ 128GB,8,Snapdragon 8 Gen 2,4800,6.55,2023,Good,3,799.0,0.45,434.46
-OnePlus,OnePlus 13 Pro 256GB,12,Snapdragon 8 Gen 2,5000,6.7,2023,regular,3,899.0,0.6000000000000001,352.9
-OnePlus,OnePlus 12T 5G 256GB,12,Snapdragon 8 Gen 2,5000,6.7,2023,Good,3,849.0,0.45,462.41
-OnePlus,OnePlus Pad,8,MediaTek Dimensity 9000,9510,11.61,2023,Good,3,499.0,0.45,265.18
-OnePlus,OnePlus Pad 2,8,MediaTek Dimensity 9000,9510,11.61,2024,Good,2,549.0,0.4,331.59
-OnePlus,OnePlus Pad Pro,12,Snapdragon 8 Gen 3,11000,12.4,2024,Good,2,799.0,0.4,471.62
-Vivo,X200 128GB,12,Dimensity 9400,6000,6.78,2024,Good,2,999.0,0.4,600.45
-Vivo,X200 256GB,12,Dimensity 9400,6000,6.78,2024,Excellent,2,1099.0,0.25,816.12
-Vivo,X200 Pro 256GB,16,Dimensity 9400,6000,6.78,2024,Good,2,1199.0,0.4,713.54
-Vivo,X200 Pro 512GB,16,Dimensity 9400,6000,6.78,2024,Good,2,1299.0,0.4,774.37
-Vivo,X200 Pro Mini 256GB,16,Dimensity 9400,5700,6.31,2024,Excellent,2,949.0,0.25,705.85
-Vivo,V40e 128GB,8,Snapdragon 778G,4100,6.44,2024,Good,2,449.0,0.4,267.96
-Vivo,Y200 GT 128GB,12,Dimensity 1200,5000,6.58,2024,Excellent,2,399.0,0.25,300.73
-Vivo,T3 5G 128GB,8,Snapdragon 870,5000,6.67,2024,regular,2,349.0,0.55,155.16
-Vivo,Y100 5G 128GB,8,Dimensity 900,4500,6.38,2024,regular,2,299.0,0.55,133.96
-Vivo,S18 Pro 256GB,12,Snapdragon 8 Gen 2,4700,6.56,2024,regular,2,599.0,0.55,265.14
-Vivo,V30 Pro 128GB,12,Dimensity 1100,4500,6.44,2024,Good,2,549.0,0.4,331.57
-Vivo,iQOO 12 256GB,16,Snapdragon 8 Gen 3,5000,6.78,2024,Excellent,2,699.0,0.25,511.07
-Vivo,Z3 64GB,6,Snapdragon 710,3315,6.3,2018,regular,8,249.0,0.7,75.6
-Vivo,V9 64GB,4,Snapdragon 626,3260,6.3,2018,Good,8,219.0,0.7,64.67
-Vivo,X9 Plus 128GB,6,Snapdragon 653,4000,5.88,2017,regular,9,299.0,0.7,86.43
-Vivo,Y81 32GB,3,MediaTek Helio P22,3260,6.22,2018,regular,8,149.0,0.7,44.12
-Vivo,X5Max 16GB,2,Snapdragon 615,2300,5.5,2014,regular,12,199.0,0.7,58.19
-Vivo,V5 Plus 64GB,4,Snapdragon 625,3055,5.5,2017,Good,9,249.0,0.7,74.52
-Vivo,Y95 64GB,4,Snapdragon 439,4030,6.22,2018,Good,8,199.0,0.7,58.22
-Vivo,V3 Max 32GB,4,Snapdragon 652,3000,5.5,2016,regular,10,179.0,0.7,52.54
-Vivo,X3S 16GB,1,MediaTek MT6592,2000,5.0,2014,Good,12,139.0,0.7,39.89
-Vivo,Y66 32GB,3,Snapdragon 430,3000,5.5,2017,Excellent,9,179.0,0.6,70.04
-Vivo,V19 128GB,8,Qualcomm Snapdragon 712,4500,6.44,2020,Good,6,399.0,0.6000000000000001,151.4
-Vivo,V19 256GB,8,Qualcomm Snapdragon 712,4500,6.44,2020,regular,6,429.0,0.7,123.71
-Vivo,V17 Pro 128GB,8,Qualcomm Snapdragon 675,4100,6.44,2019,Good,7,399.0,0.65,139.15
-Vivo,V17 Pro 256GB,8,Qualcomm Snapdragon 675,4100,6.44,2019,Good,7,429.0,0.65,149.67
-Vivo,Y12s 64GB,3,MediaTek Helio P35,5000,6.51,2020,Excellent,6,159.0,0.45000000000000007,86.7
-Vivo,Y12s 128GB,4,MediaTek Helio P35,5000,6.51,2020,Good,6,179.0,0.6000000000000001,69.49
-Vivo,S1 Pro 128GB,6,MediaTek Helio P65,4500,6.38,2019,regular,7,249.0,0.7,73.53
-Vivo,S1 Pro 256GB,6,MediaTek Helio P65,4500,6.38,2019,Excellent,7,269.0,0.5,132.48
-Vivo,Y11 32GB,3,Qualcomm Snapdragon 439,5000,6.35,2019,Good,7,149.0,0.65,50.46
-Vivo,Y11 64GB,3,Qualcomm Snapdragon 439,5000,6.35,2019,regular,7,169.0,0.7,51.08
-Vivo,V15 128GB,6,MediaTek Helio P70,4000,6.53,2019,Good,7,299.0,0.65,104.46
-Vivo,V15 256GB,6,MediaTek Helio P70,4000,6.53,2019,Good,7,319.0,0.65,109.61
-Vivo,X27 Pro 128GB,8,Qualcomm Snapdragon 710,4000,6.39,2019,Good,7,499.0,0.65,172.1
-Vivo,X27 Pro 256GB,8,Qualcomm Snapdragon 710,4000,6.39,2019,Good,7,549.0,0.65,189.87
-Vivo,Y30 128GB,4,MediaTek Helio P35,5000,6.47,2020,Good,6,199.0,0.6000000000000001,75.97
-Vivo,Y30 64GB,3,MediaTek Helio P35,5000,6.47,2020,regular,6,169.0,0.7,49.75
-Vivo,Z1 Pro 64GB,4,Qualcomm Snapdragon 712,4500,6.53,2019,regular,7,249.0,0.7,72.82
-Vivo,Z1 Pro 128GB,6,Qualcomm Snapdragon 712,4500,6.53,2019,regular,7,299.0,0.7,87.01
-Vivo,X21 128GB,6,Qualcomm Snapdragon 660,3200,6.28,2018,regular,8,349.0,0.7,102.69
-Vivo,X21 64GB,4,Qualcomm Snapdragon 660,3200,6.28,2018,Good,8,299.0,0.7,90.77
-Vivo,V23e 128GB,8,MediaTek Helio G96,4050,6.44,2021,Good,5,299.0,0.55,133.83
-Vivo,V23e 256GB,8,MediaTek Helio G96,4050,6.44,2021,Good,5,349.0,0.55,153.35
-Vivo,Y33s 128GB,8,MediaTek Helio G80,5000,6.58,2021,Good,5,239.0,0.55,106.86
-Vivo,Y33s 64GB,4,MediaTek Helio G80,5000,6.58,2021,Good,5,179.0,0.55,81.03
-Vivo,X60 Pro 256GB,12,Qualcomm Snapdragon 870,4200,6.56,2021,Good,5,899.0,0.55,404.09
-Vivo,X60 Pro 512GB,12,Qualcomm Snapdragon 870,4200,6.56,2021,regular,5,999.0,0.7,295.47
-Vivo,V20 Pro 128GB,8,Qualcomm Snapdragon 765G,4000,6.44,2020,Good,6,499.0,0.6000000000000001,194.67
-Vivo,V20 Pro 256GB,8,Qualcomm Snapdragon 765G,4000,6.44,2020,Good,6,549.0,0.6000000000000001,218.61
-Vivo,Y75 5G 128GB,8,MediaTek Dimensity 700,5000,6.58,2021,Excellent,5,349.0,0.4,207.49
-Vivo,Y75 5G 256GB,8,MediaTek Dimensity 700,5000,6.58,2021,Good,5,399.0,0.55,179.27
-Vivo,Y53s 128GB,6,MediaTek Helio G80,5000,6.58,2021,Excellent,5,229.0,0.4,136.65
-Vivo,Y53s 64GB,6,MediaTek Helio G80,5000,6.58,2021,Good,5,179.0,0.55,80.61
-Vivo,V15 Pro 128GB,6,Qualcomm Snapdragon 675,3700,6.39,2019,Good,7,399.0,0.65,136.43
-Vivo,V15 Pro 256GB,6,Qualcomm Snapdragon 675,3700,6.39,2019,Good,7,449.0,0.65,157.9
-Vivo,X70 Pro 128GB,8,MediaTek Dimensity 1200,4450,6.56,2021,Good,5,749.0,0.55,332.99
-Vivo,X70 Pro 256GB,8,MediaTek Dimensity 1200,4450,6.56,2021,Excellent,5,799.0,0.4,487.13
-Vivo,T1 5G 128GB,6,Qualcomm Snapdragon 695,5000,6.58,2022,Excellent,4,269.0,0.35,170.42
-Vivo,T1 5G 256GB,8,Qualcomm Snapdragon 695,5000,6.58,2022,regular,4,319.0,0.65,112.88
-Vivo,X30 Pro 128GB,8,Qualcomm Snapdragon 855,4200,6.44,2019,Good,7,899.0,0.65,310.86
-Vivo,X30 Pro 256GB,8,Qualcomm Snapdragon 855,4200,6.44,2019,Excellent,7,949.0,0.5,462.75
-Vivo,V27 128GB,8,MediaTek Dimensity 8200,4600,6.78,2023,Good,3,599.0,0.45,322.12
-Vivo,V27 256GB,8,MediaTek Dimensity 8200,4600,6.78,2023,Good,3,649.0,0.45,349.88
-Vivo,V27 Pro 128GB,8,MediaTek Dimensity 8200,4600,6.78,2023,Good,3,699.0,0.45,381.13
-Vivo,V27 Pro 256GB,8,MediaTek Dimensity 8200,4600,6.78,2023,Good,3,749.0,0.45,409.0
-Vivo,V25 Pro 128GB,8,MediaTek Dimensity 1300,4830,6.56,2022,Excellent,4,599.0,0.35,380.16
-Vivo,V25 Pro 256GB,8,MediaTek Dimensity 1300,4830,6.56,2022,Excellent,4,649.0,0.35,415.37
-Vivo,X90 Pro 256GB,12,MediaTek Dimensity 9200,4870,6.78,2022,Good,4,1099.0,0.5,558.92
-Vivo,X90 Pro 512GB,12,MediaTek Dimensity 9200,4870,6.78,2022,Good,4,1199.0,0.5,606.04
-Vivo,Y100 128GB,8,MediaTek Dimensity 900,4500,6.44,2023,Good,3,399.0,0.45,217.59
-Vivo,Y100 256GB,8,MediaTek Dimensity 900,4500,6.44,2023,Good,3,449.0,0.45,243.39
-Vivo,T2 Series 128GB,8,Qualcomm Snapdragon 695,4500,6.44,2023,regular,3,299.0,0.6000000000000001,118.02
-Vivo,T2 Series 256GB,8,Qualcomm Snapdragon 695,4500,6.44,2023,Good,3,349.0,0.45,190.84
-Vivo,V23 5G 128GB,8,MediaTek Dimensity 920,4200,6.44,2022,Good,4,499.0,0.5,241.93
-Vivo,V23 5G 256GB,8,MediaTek Dimensity 920,4200,6.44,2022,Good,4,549.0,0.5,269.32
-Vivo,X80 256GB,12,MediaTek Dimensity 9000,4700,6.78,2022,Good,4,899.0,0.5,431.51
-Vivo,X80 512GB,12,MediaTek Dimensity 9000,4700,6.78,2022,Good,4,999.0,0.5,495.0
-Vivo,Y21 128GB,4,MediaTek Helio P35,5000,6.51,2021,Excellent,5,199.0,0.4,118.77
-Vivo,Y21 64GB,4,MediaTek Helio P35,5000,6.51,2021,Excellent,5,179.0,0.4,105.01
-Vivo,Pad 128GB,6,Snapdragon 870,8040,11.0,2022,regular,4,329.0,0.65,116.14
-Vivo,Pad 2 256GB,8,MediaTek Dimensity 1200,8040,11.0,2023,regular,3,399.0,0.6000000000000001,154.27
-Vivo,Pad Air 128GB,6,Snapdragon 870,8040,10.4,2023,Good,3,279.0,0.45,147.78
-Vivo,Pad 3 128GB,6,Snapdragon 750G,8040,11.0,2023,Good,3,349.0,0.45,189.72
-Vivo,Pad 3 Pro 256GB,8,Snapdragon 888,8040,12.3,2023,Excellent,3,449.0,0.30000000000000004,314.52
-Vivo,Pad 4 Pro 256GB,8,MediaTek Dimensity 9000,8040,12.9,2024,Excellent,2,499.0,0.25,378.09
-iQOO,Pad 128GB,6,Snapdragon 870,8040,11.0,2023,Good,3,349.0,0.45,187.75
-iQOO,Pad 2 256GB,8,Snapdragon 888,8040,12.3,2024,Good,2,399.0,0.4,239.68
-iQOO,Pad 2 Pro 256GB,8,Snapdragon 8 Gen 1,8040,12.3,2024,Good,2,449.0,0.4,265.2
-Oppo,Find N3 512GB,12,Snapdragon 8 Gen 2,4805,7.82,2023,Good,3,1399.0,0.45,755.92
-Oppo,Find N3 Flip 256GB,12,MediaTek Dimensity 9200,4300,6.8,2023,Good,3,999.0,0.45,548.49
-Oppo,Find X8 Pro 256GB,12,Snapdragon 8 Gen 2,5000,6.8,2024,regular,2,1299.0,0.55,581.5
-Oppo,Find X8 256GB,8,Snapdragon 8 Gen 2,4800,6.7,2024,Good,2,1099.0,0.4,633.92
+Apple,iPhone 16 128GB,6,A17 Bionic,3600,6.1,2024,Good,1,799.0,0.35,501.06
+Apple,iPhone 16 256GB,6,A17 Bionic,3600,6.1,2024,regular,1,849.0,0.5,422.87
+Apple,iPhone 16 512GB,6,A17 Bionic,3600,6.1,2024,Good,1,899.0,0.35,577.08
+Apple,iPhone 16 Plus 128GB,6,A17 Bionic,4200,6.7,2024,Good,1,899.0,0.35,573.97
+Apple,iPhone 16 Plus 256GB,6,A17 Bionic,4200,6.7,2024,Excellent,1,949.0,0.2,748.02
+Apple,iPhone 16 Plus 512GB,6,A17 Bionic,4200,6.7,2024,Excellent,1,999.0,0.2,791.38
+Apple,iPhone 16 Pro 128GB,6,A17 Pro,4400,6.1,2024,Excellent,1,999.0,0.2,780.74
+Apple,iPhone 16 Pro 256GB,8,A17 Pro,4400,6.1,2024,regular,1,1049.0,0.5,510.51
+Apple,iPhone 16 Pro 512GB,8,A17 Pro,4400,6.1,2024,Good,1,1099.0,0.35,705.73
+Apple,iPhone 16 Pro Max 128GB,6,A17 Pro,4500,6.7,2024,Good,1,1099.0,0.35,693.15
+Apple,iPhone 16 Pro Max 256GB,8,A17 Pro,4500,6.7,2024,Excellent,1,1199.0,0.2,950.69
+Apple,iPhone 16 Pro Max 512GB,8,A17 Pro,4500,6.7,2024,regular,1,1299.0,0.5,623.17
+Apple,iPhone 15 128GB,6,A16 Bionic,3200,6.1,2023,regular,2,799.0,0.55,359.71
+Apple,iPhone 15 256GB,6,A16 Bionic,3200,6.1,2023,Good,2,849.0,0.4,505.37
+Apple,iPhone 15 512GB,6,A16 Bionic,3200,6.1,2023,Excellent,2,949.0,0.25,703.81
+Apple,iPhone 15 Plus 128GB,6,A16 Bionic,4300,6.7,2023,Excellent,2,899.0,0.25,674.07
+Apple,iPhone 15 Plus 256GB,6,A16 Bionic,4300,6.7,2023,Good,2,999.0,0.4,605.38
+Apple,iPhone 15 Plus 512GB,6,A16 Bionic,4300,6.7,2023,Good,2,1049.0,0.4,629.54
+Apple,iPhone 15 Pro 128GB,6,A16 Bionic,4400,6.1,2023,Good,2,1099.0,0.4,631.3
+Apple,iPhone 15 Pro 256GB,8,A16 Bionic,4400,6.1,2023,Good,2,1199.0,0.4,694.8
+Apple,iPhone 15 Pro 512GB,8,A16 Bionic,4400,6.1,2023,Good,2,1299.0,0.4,760.4
+Apple,iPhone 15 Pro Max 128GB,6,A16 Bionic,4500,6.7,2023,Excellent,2,1199.0,0.25,886.11
+Apple,iPhone 15 Pro Max 256GB,8,A16 Bionic,4500,6.7,2023,Good,2,1299.0,0.4,773.76
+Apple,iPhone 15 Pro Max 512GB,8,A16 Bionic,4500,6.7,2023,Good,2,1399.0,0.4,817.67
+Apple,iPhone 14 128GB,6,A15 Bionic,3200,6.1,2022,Good,3,799.0,0.45,434.09
+Apple,iPhone 14 256GB,6,A15 Bionic,3200,6.1,2022,Good,3,849.0,0.45,454.65
+Apple,iPhone 14 512GB,6,A15 Bionic,3200,6.1,2022,Excellent,3,949.0,0.30000000000000004,648.24
+Apple,iPhone 14 Plus 128GB,6,A15 Bionic,4325,6.7,2022,Good,3,899.0,0.45,476.6
+Apple,iPhone 14 Plus 256GB,6,A15 Bionic,4325,6.7,2022,Good,3,999.0,0.45,533.6
+Apple,iPhone 14 Plus 512GB,6,A15 Bionic,4325,6.7,2022,Excellent,3,1049.0,0.30000000000000004,708.4
+Apple,iPhone 14 Pro 128GB,6,A16 Bionic,4200,6.1,2022,Good,3,1099.0,0.45,586.54
+Apple,iPhone 14 Pro 256GB,8,A16 Bionic,4200,6.1,2022,Excellent,3,1199.0,0.30000000000000004,839.98
+Apple,iPhone 14 Pro 512GB,8,A16 Bionic,4200,6.1,2022,Excellent,3,1299.0,0.30000000000000004,882.71
+Apple,iPhone 14 Pro Max 128GB,6,A16 Bionic,4500,6.7,2022,regular,3,1199.0,0.6000000000000001,491.34
+Apple,iPhone 14 Pro Max 256GB,8,A16 Bionic,4500,6.7,2022,regular,3,1299.0,0.6000000000000001,515.65
+Apple,iPhone 14 Pro Max 512GB,8,A16 Bionic,4500,6.7,2022,regular,3,1399.0,0.6000000000000001,552.76
+Apple,iPhone 13 mini 128GB,4,A15 Bionic,2438,5.4,2021,Good,4,699.0,0.5,339.76
+Apple,iPhone 13 mini 256GB,4,A15 Bionic,2438,5.4,2021,Excellent,4,799.0,0.35,517.02
+Apple,iPhone 13 mini 512GB,4,A15 Bionic,2438,5.4,2021,Good,4,899.0,0.5,438.88
+Apple,iPhone 13 128GB,4,A15 Bionic,3240,6.1,2021,Good,4,799.0,0.5,394.24
+Apple,iPhone 13 256GB,4,A15 Bionic,3240,6.1,2021,Excellent,4,899.0,0.35,598.02
+Apple,iPhone 13 512GB,4,A15 Bionic,3240,6.1,2021,Good,4,999.0,0.5,491.29
+Apple,iPhone 13 Pro 128GB,6,A15 Bionic,3095,6.1,2021,Excellent,4,999.0,0.35,650.8
+Apple,iPhone 13 Pro 256GB,6,A15 Bionic,3095,6.1,2021,regular,4,1099.0,0.65,374.82
+Apple,iPhone 13 Pro 512GB,6,A15 Bionic,3095,6.1,2021,Good,4,1199.0,0.5,590.19
+Apple,iPhone 13 Pro Max 128GB,6,A15 Bionic,4352,6.7,2021,Good,4,1099.0,0.5,555.85
+Apple,iPhone 13 Pro Max 256GB,6,A15 Bionic,4352,6.7,2021,Good,4,1199.0,0.5,584.87
+Apple,iPhone 13 Pro Max 512GB,6,A15 Bionic,4352,6.7,2021,Good,4,1399.0,0.5,708.02
+Apple,iPhone 12 mini 64GB,4,A14 Bionic,2227,5.4,2020,Good,5,699.0,0.55,313.17
+Apple,iPhone 12 mini 128GB,4,A14 Bionic,2227,5.4,2020,Excellent,5,799.0,0.4,468.16
+Apple,iPhone 12 mini 256GB,4,A14 Bionic,2227,5.4,2020,regular,5,899.0,0.7,268.21
+Apple,iPhone 12 64GB,4,A14 Bionic,2815,6.1,2020,Good,5,799.0,0.55,359.4
+Apple,iPhone 12 128GB,4,A14 Bionic,2815,6.1,2020,regular,5,899.0,0.7,268.17
+Apple,iPhone 12 256GB,4,A14 Bionic,2815,6.1,2020,regular,5,999.0,0.7,288.15
+Apple,iPhone 12 Pro 128GB,6,A14 Bionic,2815,6.1,2020,Good,5,999.0,0.55,437.9
+Apple,iPhone 12 Pro 256GB,6,A14 Bionic,2815,6.1,2020,regular,5,1099.0,0.7,323.53
+Apple,iPhone 12 Pro 512GB,6,A14 Bionic,2815,6.1,2020,Excellent,5,1199.0,0.4,707.81
+Apple,iPhone 12 Pro Max 128GB,6,A14 Bionic,3687,6.7,2020,Excellent,5,1099.0,0.4,655.65
+Apple,iPhone 12 Pro Max 256GB,6,A14 Bionic,3687,6.7,2020,Excellent,5,1199.0,0.4,710.53
+Apple,iPhone 12 Pro Max 512GB,6,A14 Bionic,3687,6.7,2020,Good,5,1399.0,0.55,607.5
+Apple,iPhone 11 64GB,4,A13 Bionic,3110,6.1,2019,Good,6,699.0,0.6000000000000001,277.0
+Apple,iPhone 11 128GB,4,A13 Bionic,3110,6.1,2019,Good,6,799.0,0.6000000000000001,317.73
+Apple,iPhone 11 256GB,4,A13 Bionic,3110,6.1,2019,regular,6,899.0,0.7,267.92
+Apple,iPhone 11 Pro 64GB,4,A13 Bionic,3046,5.8,2019,Good,6,999.0,0.6000000000000001,400.08
+Apple,iPhone 11 Pro 256GB,4,A13 Bionic,3046,5.8,2019,Good,6,1099.0,0.6000000000000001,438.5
+Apple,iPhone 11 Pro 512GB,4,A13 Bionic,3046,5.8,2019,Good,6,1199.0,0.6000000000000001,475.71
+Apple,iPhone 11 Pro Max 64GB,4,A13 Bionic,3969,6.5,2019,Excellent,6,1099.0,0.45000000000000007,594.75
+Apple,iPhone 11 Pro Max 256GB,4,A13 Bionic,3969,6.5,2019,regular,6,1199.0,0.7,345.34
+Apple,iPhone 11 Pro Max 512GB,4,A13 Bionic,3969,6.5,2019,Excellent,6,1399.0,0.45000000000000007,762.87
+Apple,iPhone X 64GB,3,A11 Bionic,2716,5.8,2017,regular,8,999.0,0.7,296.14
+Apple,iPhone X 256GB,3,A11 Bionic,2716,5.8,2017,Good,8,1099.0,0.7,326.1
+Apple,iPhone XS 64GB,4,A12 Bionic,2658,5.8,2018,Excellent,7,999.0,0.5,482.44
+Apple,iPhone XS 256GB,4,A12 Bionic,2658,5.8,2018,Excellent,7,1099.0,0.5,532.35
+Apple,iPhone XS 512GB,4,A12 Bionic,2658,5.8,2018,regular,7,1299.0,0.7,390.01
+Apple,iPhone XS Max 64GB,4,A12 Bionic,3174,6.5,2018,Good,7,1099.0,0.65,378.65
+Apple,iPhone XS Max 256GB,4,A12 Bionic,3174,6.5,2018,Good,7,1249.0,0.65,435.06
+Apple,iPhone XS Max 512GB,4,A12 Bionic,3174,6.5,2018,Good,7,1399.0,0.65,482.51
+Apple,iPhone XR 64GB,3,A12 Bionic,2942,6.1,2018,Excellent,7,749.0,0.5,369.05
+Apple,iPhone XR 128GB,3,A12 Bionic,2942,6.1,2018,Good,7,799.0,0.65,279.39
+Apple,iPhone XR 256GB,3,A12 Bionic,2942,6.1,2018,Excellent,7,899.0,0.5,439.28
+Apple,iPad Air 10.9-inch 64GB,4,A14 Bionic,7608,10.9,2020,regular,5,599.0,0.7,177.26
+Apple,iPad Air 10.9-inch 256GB,4,A14 Bionic,7608,10.9,2020,Good,5,749.0,0.55,329.66
+Apple,iPad 10.2-inch 32GB,3,A13 Bionic,8612,10.2,2020,Good,5,329.0,0.55,144.86
+Apple,iPad 10.2-inch 128GB,3,A13 Bionic,8612,10.2,2020,Excellent,5,429.0,0.4,252.35
+Apple,iPad Mini 7.9-inch 64GB,3,A12 Bionic,5124,7.9,2019,Good,6,399.0,0.6000000000000001,157.74
+Apple,iPad Mini 7.9-inch 256GB,3,A12 Bionic,5124,7.9,2019,Good,6,499.0,0.6000000000000001,195.17
+Apple,iPad Pro 11-inch 128GB,4,A12Z Bionic,7812,11.0,2020,Good,5,799.0,0.55,360.93
+Apple,iPad Pro 11-inch 256GB,4,A12Z Bionic,7812,11.0,2020,Good,5,899.0,0.55,393.05
+Apple,iPad Pro 11-inch 512GB,6,A12Z Bionic,7812,11.0,2020,regular,5,1099.0,0.7,323.83
+Apple,iPad Pro 12.9-inch 128GB,6,A12Z Bionic,9720,12.9,2020,Good,5,999.0,0.55,439.84
+Apple,iPad Pro 12.9-inch 256GB,6,A12Z Bionic,9720,12.9,2020,Excellent,5,1099.0,0.4,663.82
+Apple,iPad Pro 12.9-inch 512GB,6,A12Z Bionic,9720,12.9,2020,Good,5,1299.0,0.55,577.51
+Apple,iPad Pro 13-inch 128GB,6,A12Z Bionic,10307,13.0,2020,Good,5,1099.0,0.55,494.79
+Apple,iPad Pro 13-inch 256GB,6,A12Z Bionic,10307,13.0,2020,Good,5,1199.0,0.55,519.43
+Apple,iPad Pro 13-inch 512GB,6,A12Z Bionic,10307,13.0,2020,Good,5,1399.0,0.55,622.63
+Apple,iPad Pro 13-inch 1TB,6,A12Z Bionic,10307,13.0,2020,Good,5,1599.0,0.55,718.36
+Apple,iPad Pro 13-inch 2TB,6,A12Z Bionic,10307,13.0,2020,Good,5,1799.0,0.55,798.41
+Samsung,Galaxy S24 Ultra 128GB,12,Exynos 2400,5000,6.8,2024,Good,1,1199.0,0.35,780.12
+Samsung,Galaxy S24 Ultra 256GB,12,Exynos 2400,5000,6.8,2024,Excellent,1,1299.0,0.2,1015.55
+Samsung,Galaxy S24+ 128GB,8,Exynos 2400,4800,6.6,2024,Excellent,1,899.0,0.2,723.62
+Samsung,Galaxy S24+ 256GB,8,Exynos 2400,4800,6.6,2024,Excellent,1,999.0,0.2,814.77
+Samsung,Galaxy S24 128GB,8,Exynos 2400,4000,6.1,2024,Good,1,799.0,0.35,508.73
+Samsung,Galaxy S24 256GB,8,Exynos 2400,4000,6.1,2024,Good,1,899.0,0.35,571.68
+Samsung,Galaxy S23 Ultra 128GB,12,Snapdragon 8 Gen 2,5000,6.8,2023,Good,2,1199.0,0.4,724.29
+Samsung,Galaxy S23 Ultra 256GB,12,Snapdragon 8 Gen 2,5000,6.8,2023,regular,2,1299.0,0.55,589.63
+Samsung,Galaxy S23+ 128GB,8,Snapdragon 8 Gen 2,4700,6.6,2023,Good,2,899.0,0.4,527.08
+Samsung,Galaxy S23+ 256GB,8,Snapdragon 8 Gen 2,4700,6.6,2023,Good,2,999.0,0.4,586.63
+Samsung,Galaxy S23 128GB,8,Snapdragon 8 Gen 2,3900,6.1,2023,Good,2,799.0,0.4,470.18
+Samsung,Galaxy S23 256GB,8,Snapdragon 8 Gen 2,3900,6.1,2023,Good,2,899.0,0.4,520.43
+Samsung,Galaxy S22 Ultra 128GB,12,Exynos 2200,5000,6.8,2022,Excellent,3,1099.0,0.30000000000000004,747.16
+Samsung,Galaxy S22 Ultra 256GB,12,Exynos 2200,5000,6.8,2022,Good,3,1199.0,0.45,639.63
+Samsung,Galaxy S22+ 128GB,8,Exynos 2200,4500,6.6,2022,Excellent,3,799.0,0.30000000000000004,544.47
+Samsung,Galaxy S22+ 256GB,8,Exynos 2200,4500,6.6,2022,regular,3,899.0,0.6000000000000001,354.02
+Samsung,Galaxy S22 128GB,8,Exynos 2200,3800,6.1,2022,regular,3,699.0,0.6000000000000001,276.39
+Samsung,Galaxy S22 256GB,8,Exynos 2200,3800,6.1,2022,Good,3,799.0,0.45,443.08
+Samsung,Galaxy Z Fold 5 256GB,12,Snapdragon 8 Gen 2,4400,7.6,2023,regular,2,1799.0,0.55,785.28
+Samsung,Galaxy Z Fold 5 512GB,12,Snapdragon 8 Gen 2,4400,7.6,2023,regular,2,1899.0,0.55,854.35
+Samsung,Galaxy Z Flip 5 256GB,8,Snapdragon 8 Gen 2,3700,6.7,2023,Excellent,2,999.0,0.25,735.61
+Samsung,Galaxy Z Flip 5 512GB,8,Snapdragon 8 Gen 2,3700,6.7,2023,regular,2,1099.0,0.55,486.76
+Samsung,Galaxy Z Fold 4 256GB,12,Snapdragon 8 Gen 1,4400,7.6,2022,Good,3,1799.0,0.45,984.62
+Samsung,Galaxy Z Fold 4 512GB,12,Snapdragon 8 Gen 1,4400,7.6,2022,regular,3,1899.0,0.6000000000000001,735.41
+Samsung,Galaxy Z Flip 4 256GB,8,Snapdragon 8 Gen 1,3700,6.7,2022,regular,3,999.0,0.6000000000000001,395.9
+Samsung,Galaxy Z Flip 4 512GB,8,Snapdragon 8 Gen 1,3700,6.7,2022,Good,3,1099.0,0.45,596.89
+Samsung,Galaxy A54 128GB,6,Exynos 1380,5000,6.4,2023,Excellent,2,399.0,0.25,296.97
+Samsung,Galaxy A54 256GB,6,Exynos 1380,5000,6.4,2023,Good,2,449.0,0.4,266.53
+Samsung,Galaxy A34 128GB,6,MediaTek Dimensity 1080,5000,6.6,2023,Good,2,349.0,0.4,213.97
+Samsung,Galaxy A34 256GB,6,MediaTek Dimensity 1080,5000,6.6,2023,regular,2,399.0,0.55,175.14
+Samsung,Galaxy A24 128GB,6,MediaTek Helio G99,5000,6.5,2023,regular,2,299.0,0.55,131.46
+Samsung,Galaxy A24 256GB,6,MediaTek Helio G99,5000,6.5,2023,Excellent,2,349.0,0.25,255.38
+Samsung,Galaxy A14 128GB,4,Exynos 850,5000,6.6,2023,Good,2,249.0,0.4,145.91
+Samsung,Galaxy A14 256GB,4,Exynos 850,5000,6.6,2023,Good,2,299.0,0.4,174.99
+Samsung,Galaxy A04 64GB,4,Exynos 850,5000,6.5,2022,Good,3,199.0,0.45,109.76
+Samsung,Galaxy A04 128GB,4,Exynos 850,5000,6.5,2022,Excellent,3,249.0,0.30000000000000004,175.4
+Samsung,Galaxy M54 128GB,8,Exynos 1380,6000,6.7,2023,Good,2,349.0,0.4,204.47
+Samsung,Galaxy M54 256GB,8,Exynos 1380,6000,6.7,2023,regular,2,399.0,0.55,174.62
+Samsung,Galaxy M34 128GB,6,Exynos 1280,6000,6.5,2023,Good,2,299.0,0.4,177.98
+Samsung,Galaxy M34 256GB,6,Exynos 1280,6000,6.5,2023,Good,2,349.0,0.4,204.52
+Samsung,Galaxy M14 128GB,4,Exynos 850,6000,6.6,2023,Good,2,249.0,0.4,148.58
+Samsung,Galaxy M14 256GB,4,Exynos 850,6000,6.6,2023,Good,2,299.0,0.4,177.26
+Samsung,Galaxy M04 64GB,4,MediaTek Helio P35,5000,6.5,2022,regular,3,199.0,0.6000000000000001,76.6
+Samsung,Galaxy M04 128GB,4,MediaTek Helio P35,5000,6.5,2022,regular,3,249.0,0.6000000000000001,100.42
+Samsung,Galaxy F54 128GB,8,Exynos 1380,6000,6.7,2023,Good,2,349.0,0.4,211.9
+Samsung,Galaxy F54 256GB,8,Exynos 1380,6000,6.7,2023,Good,2,399.0,0.4,233.61
+Samsung,Galaxy F34 128GB,6,Exynos 1280,6000,6.5,2023,Good,2,299.0,0.4,175.67
+Samsung,Galaxy F34 256GB,6,Exynos 1280,6000,6.5,2023,Good,2,349.0,0.4,207.16
+Samsung,Galaxy F14 128GB,4,Exynos 850,6000,6.6,2023,Excellent,2,249.0,0.25,184.89
+Samsung,Galaxy F14 256GB,4,Exynos 850,6000,6.6,2023,Good,2,299.0,0.4,178.48
+Samsung,Galaxy Note 20 Ultra 128GB,12,Exynos 990,4500,6.9,2020,Good,5,1299.0,0.55,593.41
+Samsung,Galaxy Note 20 Ultra 256GB,12,Exynos 990,4500,6.9,2020,Excellent,5,1399.0,0.4,824.58
+Samsung,Galaxy Note 20 128GB,8,Exynos 990,4300,6.7,2020,Good,5,999.0,0.55,437.42
+Samsung,Galaxy Note 20 256GB,8,Exynos 990,4300,6.7,2020,regular,5,1099.0,0.7,317.93
+Samsung,Galaxy Note 10+ 256GB,12,Exynos 9825,4300,6.8,2019,Good,6,1099.0,0.6000000000000001,428.19
+Samsung,Galaxy Note 10+ 512GB,12,Exynos 9825,4300,6.8,2019,Excellent,6,1199.0,0.45000000000000007,649.23
+Samsung,Galaxy Note 10 256GB,8,Exynos 9825,3500,6.3,2019,Good,6,949.0,0.6000000000000001,384.12
+Samsung,Galaxy Note 10 128GB,8,Exynos 9825,3500,6.3,2019,regular,6,899.0,0.7,263.56
+Samsung,Galaxy Xcover 6 Pro 128GB,6,Exynos 1380,4050,6.6,2022,Good,3,499.0,0.45,271.25
+Samsung,Galaxy Xcover 5 64GB,4,Exynos 850,3000,5.3,2020,Good,5,249.0,0.55,110.34
+Samsung,Galaxy J8 64GB,4,Snapdragon 450,3500,6.0,2018,Good,7,199.0,0.65,69.85
+Samsung,Galaxy J7 Pro 64GB,3,Exynos 7870,3600,5.5,2017,Good,8,179.0,0.7,54.93
+Samsung,Galaxy J6+ 64GB,4,Snapdragon 425,3300,6.0,2018,Good,7,169.0,0.65,57.79
+Samsung,Galaxy J4 16GB,2,Exynos 7570,3000,5.5,2018,Good,7,129.0,0.65,44.14
+Samsung,Galaxy C9 Pro 64GB,6,Snapdragon 653,4000,6.0,2016,Good,9,399.0,0.7,119.78
+Samsung,Galaxy C7 Pro 64GB,4,Snapdragon 625,3300,5.7,2017,Good,8,299.0,0.7,89.27
+Samsung,Galaxy C5 32GB,4,Snapdragon 617,2600,5.2,2016,Good,9,249.0,0.7,75.65
+Samsung,Galaxy W22 5G 256GB,12,Snapdragon 888,4500,7.6,2021,Excellent,4,1499.0,0.35,968.27
+Samsung,Galaxy W21 5G 256GB,12,Snapdragon 888,4500,7.6,2020,regular,5,1399.0,0.7,411.14
+Samsung,Galaxy Tab S9 Ultra 256GB,12,Snapdragon 8 Gen 2,11200,14.6,2023,Good,2,1199.0,0.4,714.98
+Samsung,Galaxy Tab S9+ 256GB,12,Snapdragon 8 Gen 2,10090,12.4,2023,Excellent,2,999.0,0.25,750.47
+Samsung,Galaxy Tab S9 128GB,8,Snapdragon 8 Gen 2,8400,11.0,2023,Excellent,2,799.0,0.25,597.64
+Samsung,Galaxy Tab S9 FE 128GB,6,Exynos 1380,8000,10.9,2023,Good,2,549.0,0.4,326.97
+Samsung,Galaxy Tab S8 Ultra 256GB,12,Snapdragon 8 Gen 1,11200,14.6,2022,Good,3,1099.0,0.45,605.05
+Samsung,Galaxy Tab S8+ 256GB,8,Snapdragon 8 Gen 1,10090,12.4,2022,Excellent,3,899.0,0.30000000000000004,630.9
+Samsung,Galaxy Tab S8 128GB,8,Snapdragon 8 Gen 1,8000,11.0,2022,Good,3,699.0,0.45,386.65
+Samsung,Galaxy Tab A9+ 128GB,8,Snapdragon 695,7040,11.0,2023,Good,2,229.0,0.4,136.68
+Samsung,Galaxy Tab A9 64GB,4,MediaTek Helio G99,5100,8.7,2023,Good,2,179.0,0.4,105.52
+Samsung,Galaxy Tab A8 64GB,4,Unisoc T618,7040,10.5,2022,Excellent,3,199.0,0.30000000000000004,137.52
+Samsung,Galaxy Tab A7 Lite 32GB,3,MediaTek Helio P22T,5100,8.7,2021,Good,4,149.0,0.5,74.73
+Samsung,Galaxy Tab Active 5 128GB,6,Exynos 1380,5050,8.0,2024,Good,1,549.0,0.35,347.12
+Samsung,Galaxy Tab Active 4 Pro 128GB,6,Snapdragon 778G,7600,10.1,2022,regular,3,649.0,0.6000000000000001,257.14
+Samsung,Galaxy Tab Active 3 64GB,4,Exynos 9810,5050,8.0,2020,Excellent,5,499.0,0.4,293.14
+OnePlus,OnePlus 12 256GB,12,Snapdragon 8 Gen 3,5000,6.7,2024,Good,1,799.0,0.35,511.78
+OnePlus,OnePlus 12R 256GB,12,Snapdragon 8 Gen 2,4500,6.7,2024,Excellent,1,699.0,0.2,561.54
+OnePlus,OnePlus 11 256GB,12,Snapdragon 8 Gen 1,5000,6.7,2023,regular,2,699.0,0.55,310.73
+OnePlus,OnePlus 11R 256GB,12,Snapdragon 8 Gen 1,5000,6.7,2023,regular,2,599.0,0.55,265.69
+OnePlus,OnePlus Nord 3 256GB,12,MediaTek Dimensity 9000,5000,6.74,2023,Good,2,499.0,0.4,288.8
+OnePlus,OnePlus Nord CE 3 128GB,8,Snapdragon 782G,5000,6.72,2023,Good,2,399.0,0.4,238.49
+OnePlus,OnePlus Nord CE 3 Lite 128GB,8,Snapdragon 695,5000,6.72,2023,regular,2,299.0,0.55,133.83
+OnePlus,OnePlus Nord N30 5G 128GB,8,MediaTek Dimensity 6020,5000,6.72,2023,Good,2,249.0,0.4,152.01
+OnePlus,OnePlus Open 256GB,16,Snapdragon 8 Gen 2,4800,7.8,2024,Good,1,1099.0,0.35,700.34
+OnePlus,OnePlus 10 Pro 256GB,12,Snapdragon 8 Gen 1,5000,6.7,2022,Good,3,899.0,0.45,488.66
+OnePlus,OnePlus 10T 256GB,12,Snapdragon 8+ Gen 1,4500,6.7,2022,Excellent,3,749.0,0.30000000000000004,518.4
+OnePlus,OnePlus 9 Pro 256GB,12,Snapdragon 888,4500,6.7,2021,regular,4,699.0,0.65,246.77
+OnePlus,OnePlus 9 128GB,8,Snapdragon 888,4500,6.55,2021,regular,4,599.0,0.65,206.21
+OnePlus,OnePlus 11 Pro 256GB,16,Snapdragon 8 Gen 2,5000,6.7,2023,Good,2,899.0,0.4,533.57
+OnePlus,OnePlus Nord 2T 128GB,8,MediaTek Dimensity 1300,4500,6.43,2022,Good,3,399.0,0.45,218.16
+OnePlus,OnePlus Nord 2 128GB,8,MediaTek Dimensity 1200-AI,4500,6.43,2021,Good,4,349.0,0.5,172.37
+OnePlus,OnePlus Nord N200 64GB,4,Snapdragon 480,5000,6.49,2021,Good,4,199.0,0.5,97.34
+OnePlus,OnePlus Nord N100 64GB,4,Qualcomm Snapdragon 460,5000,6.52,2020,regular,5,179.0,0.7,53.05
+OnePlus,OnePlus 8T Cyberpunk 2077 Edition 256GB,12,Snapdragon 865,4500,6.55,2020,regular,5,749.0,0.7,224.95
+OnePlus,OnePlus 9T 128GB,8,Snapdragon 888,4500,6.55,2021,Good,4,649.0,0.5,314.64
+OnePlus,OnePlus 8T 256GB,12,Snapdragon 865,4500,6.55,2020,Good,5,599.0,0.55,266.04
+OnePlus,OnePlus 10T 5G 256GB,12,Snapdragon 8+ Gen 1,4500,6.7,2022,Excellent,3,749.0,0.30000000000000004,510.93
+OnePlus,OnePlus 9R 5G 128GB,8,Snapdragon 870,4500,6.55,2021,Excellent,4,599.0,0.35,390.49
+OnePlus,OnePlus 8 Pro 256GB,12,Snapdragon 865,4510,6.78,2020,regular,5,749.0,0.7,216.2
+OnePlus,OnePlus 8 128GB,8,Snapdragon 865,4300,6.55,2020,Good,5,699.0,0.55,307.19
+OnePlus,OnePlus Nord CE 2 Lite 128GB,6,MediaTek Dimensity 900,5000,6.59,2022,Excellent,3,249.0,0.30000000000000004,172.67
+OnePlus,OnePlus Nord CE 2 128GB,8,MediaTek Dimensity 1200,4500,6.43,2022,Excellent,3,299.0,0.30000000000000004,211.08
+OnePlus,OnePlus Nord 1 128GB,6,Snapdragon 765G,4115,6.44,2020,Good,5,349.0,0.55,154.54
+OnePlus,OnePlus Nord CE 5G 128GB,6,Snapdragon 750G,4500,6.43,2021,Excellent,4,299.0,0.35,189.82
+OnePlus,OnePlus Nord 2 5G 128GB,8,MediaTek Dimensity 1200-AI,4500,6.43,2021,Excellent,4,399.0,0.35,262.78
+OnePlus,OnePlus Nord N100 5G 64GB,4,Qualcomm Snapdragon 460,5000,6.52,2020,Good,5,179.0,0.55,77.59
+OnePlus,OnePlus Nord N10 5G 128GB,6,Qualcomm Snapdragon 690,4300,6.49,2020,Good,5,299.0,0.55,128.09
+OnePlus,OnePlus 8R 128GB,8,Snapdragon 865,4300,6.55,2020,Good,5,649.0,0.55,289.6
+OnePlus,OnePlus 7R 128GB,6,Snapdragon 855,3700,6.41,2020,Good,5,599.0,0.55,263.48
+OnePlus,OnePlus 6T McLaren Edition 256GB,10,Snapdragon 845,3700,6.41,2018,Good,7,799.0,0.65,271.17
+OnePlus,OnePlus 5T Star Wars Edition 128GB,6,Snapdragon 835,3300,6.01,2017,Good,8,649.0,0.7,193.85
+OnePlus,OnePlus 13R 128GB,8,Snapdragon 8 Gen 2,4500,6.7,2023,Good,2,849.0,0.4,503.62
+OnePlus,OnePlus 11T 128GB,12,Snapdragon 8 Gen 2,5000,6.7,2023,Good,2,799.0,0.4,468.15
+OnePlus,OnePlus 10R 128GB,8,MediaTek Dimensity 8100,4500,6.7,2022,Good,3,599.0,0.45,318.18
+OnePlus,OnePlus 7 Pro 5G 256GB,12,Snapdragon 855,4000,6.67,2019,regular,6,799.0,0.7,239.24
+OnePlus,OnePlus 6 Special Edition 128GB,6,Snapdragon 845,3300,6.28,2018,Good,7,599.0,0.65,208.55
+OnePlus,OnePlus 5 Special Edition 128GB,8,Snapdragon 835,3300,5.5,2017,Good,8,599.0,0.7,176.74
+OnePlus,OnePlus Nord X 128GB,8,Snapdragon 765G,4000,6.44,2020,Excellent,5,299.0,0.4,181.68
+OnePlus,OnePlus 8 Pro McLaren Edition 256GB,12,Snapdragon 865,4510,6.78,2020,Good,5,899.0,0.55,391.99
+OnePlus,OnePlus 8T Cyberpunk Edition 256GB,12,Snapdragon 865,4500,6.55,2020,Good,5,799.0,0.55,345.93
+OnePlus,OnePlus 7T Pro 5G McLaren Edition 256GB,12,Snapdragon 855,4085,6.67,2019,Good,6,899.0,0.6000000000000001,350.47
+OnePlus,OnePlus 15R 128GB,12,Snapdragon 8 Gen 3,5000,6.7,2023,regular,2,849.0,0.55,376.06
+OnePlus,OnePlus 14+ 128GB,8,Snapdragon 8 Gen 2,4800,6.55,2023,Good,2,799.0,0.4,473.96
+OnePlus,OnePlus 13 Pro 256GB,12,Snapdragon 8 Gen 2,5000,6.7,2023,regular,2,899.0,0.55,397.02
+OnePlus,OnePlus 12T 5G 256GB,12,Snapdragon 8 Gen 2,5000,6.7,2023,Good,2,849.0,0.4,504.45
+OnePlus,OnePlus Pad,8,MediaTek Dimensity 9000,9510,11.61,2023,Good,2,499.0,0.4,289.29
+OnePlus,OnePlus Pad 2,8,MediaTek Dimensity 9000,9510,11.61,2024,Good,1,549.0,0.35,359.23
+OnePlus,OnePlus Pad Pro,12,Snapdragon 8 Gen 3,11000,12.4,2024,Good,1,799.0,0.35,510.92
+Vivo,X200 128GB,12,Dimensity 9400,6000,6.78,2024,Good,1,999.0,0.35,650.49
+Vivo,X200 256GB,12,Dimensity 9400,6000,6.78,2024,Excellent,1,1099.0,0.2,870.53
+Vivo,X200 Pro 256GB,16,Dimensity 9400,6000,6.78,2024,Good,1,1199.0,0.35,773.0
+Vivo,X200 Pro 512GB,16,Dimensity 9400,6000,6.78,2024,Good,1,1299.0,0.35,838.9
+Vivo,X200 Pro Mini 256GB,16,Dimensity 9400,5700,6.31,2024,Excellent,1,949.0,0.2,752.91
+Vivo,V40e 128GB,8,Snapdragon 778G,4100,6.44,2024,Good,1,449.0,0.35,290.29
+Vivo,Y200 GT 128GB,12,Dimensity 1200,5000,6.58,2024,Excellent,1,399.0,0.2,320.78
+Vivo,T3 5G 128GB,8,Snapdragon 870,5000,6.67,2024,regular,1,349.0,0.5,172.4
+Vivo,Y100 5G 128GB,8,Dimensity 900,4500,6.38,2024,regular,1,299.0,0.5,148.85
+Vivo,S18 Pro 256GB,12,Snapdragon 8 Gen 2,4700,6.56,2024,regular,1,599.0,0.5,294.6
+Vivo,V30 Pro 128GB,12,Dimensity 1100,4500,6.44,2024,Good,1,549.0,0.35,359.21
+Vivo,iQOO 12 256GB,16,Snapdragon 8 Gen 3,5000,6.78,2024,Excellent,1,699.0,0.2,545.14
+Vivo,Z3 64GB,6,Snapdragon 710,3315,6.3,2018,regular,7,249.0,0.7,75.6
+Vivo,V9 64GB,4,Snapdragon 626,3260,6.3,2018,Good,7,219.0,0.65,75.45
+Vivo,X9 Plus 128GB,6,Snapdragon 653,4000,5.88,2017,regular,8,299.0,0.7,86.43
+Vivo,Y81 32GB,3,MediaTek Helio P22,3260,6.22,2018,regular,7,149.0,0.7,44.12
+Vivo,X5Max 16GB,2,Snapdragon 615,2300,5.5,2014,regular,11,199.0,0.7,58.19
+Vivo,V5 Plus 64GB,4,Snapdragon 625,3055,5.5,2017,Good,8,249.0,0.7,74.52
+Vivo,Y95 64GB,4,Snapdragon 439,4030,6.22,2018,Good,7,199.0,0.65,67.92
+Vivo,V3 Max 32GB,4,Snapdragon 652,3000,5.5,2016,regular,9,179.0,0.7,52.54
+Vivo,X3S 16GB,1,MediaTek MT6592,2000,5.0,2014,Good,11,139.0,0.7,39.89
+Vivo,Y66 32GB,3,Snapdragon 430,3000,5.5,2017,Excellent,8,179.0,0.55,78.8
+Vivo,V19 128GB,8,Qualcomm Snapdragon 712,4500,6.44,2020,Good,5,399.0,0.55,170.33
+Vivo,V19 256GB,8,Qualcomm Snapdragon 712,4500,6.44,2020,regular,5,429.0,0.7,123.71
+Vivo,V17 Pro 128GB,8,Qualcomm Snapdragon 675,4100,6.44,2019,Good,6,399.0,0.6000000000000001,159.03
+Vivo,V17 Pro 256GB,8,Qualcomm Snapdragon 675,4100,6.44,2019,Good,6,429.0,0.6000000000000001,171.05
+Vivo,Y12s 64GB,3,MediaTek Helio P35,5000,6.51,2020,Excellent,5,159.0,0.4,94.58
+Vivo,Y12s 128GB,4,MediaTek Helio P35,5000,6.51,2020,Good,5,179.0,0.55,78.17
+Vivo,S1 Pro 128GB,6,MediaTek Helio P65,4500,6.38,2019,regular,6,249.0,0.7,73.53
+Vivo,S1 Pro 256GB,6,MediaTek Helio P65,4500,6.38,2019,Excellent,6,269.0,0.45000000000000007,145.72
+Vivo,Y11 32GB,3,Qualcomm Snapdragon 439,5000,6.35,2019,Good,6,149.0,0.6000000000000001,57.67
+Vivo,Y11 64GB,3,Qualcomm Snapdragon 439,5000,6.35,2019,regular,6,169.0,0.7,51.08
+Vivo,V15 128GB,6,MediaTek Helio P70,4000,6.53,2019,Good,6,299.0,0.6000000000000001,119.38
+Vivo,V15 256GB,6,MediaTek Helio P70,4000,6.53,2019,Good,6,319.0,0.6000000000000001,125.26
+Vivo,X27 Pro 128GB,8,Qualcomm Snapdragon 710,4000,6.39,2019,Good,6,499.0,0.6000000000000001,196.69
+Vivo,X27 Pro 256GB,8,Qualcomm Snapdragon 710,4000,6.39,2019,Good,6,549.0,0.6000000000000001,216.99
+Vivo,Y30 128GB,4,MediaTek Helio P35,5000,6.47,2020,Good,5,199.0,0.55,85.46
+Vivo,Y30 64GB,3,MediaTek Helio P35,5000,6.47,2020,regular,5,169.0,0.7,49.75
+Vivo,Z1 Pro 64GB,4,Qualcomm Snapdragon 712,4500,6.53,2019,regular,6,249.0,0.7,72.82
+Vivo,Z1 Pro 128GB,6,Qualcomm Snapdragon 712,4500,6.53,2019,regular,6,299.0,0.7,87.01
+Vivo,X21 128GB,6,Qualcomm Snapdragon 660,3200,6.28,2018,regular,7,349.0,0.7,102.69
+Vivo,X21 64GB,4,Qualcomm Snapdragon 660,3200,6.28,2018,Good,7,299.0,0.65,105.9
+Vivo,V23e 128GB,8,MediaTek Helio G96,4050,6.44,2021,Good,4,299.0,0.5,148.69
+Vivo,V23e 256GB,8,MediaTek Helio G96,4050,6.44,2021,Good,4,349.0,0.5,170.39
+Vivo,Y33s 128GB,8,MediaTek Helio G80,5000,6.58,2021,Good,4,239.0,0.5,118.73
+Vivo,Y33s 64GB,4,MediaTek Helio G80,5000,6.58,2021,Good,4,179.0,0.5,90.04
+Vivo,X60 Pro 256GB,12,Qualcomm Snapdragon 870,4200,6.56,2021,Good,4,899.0,0.5,448.99
+Vivo,X60 Pro 512GB,12,Qualcomm Snapdragon 870,4200,6.56,2021,regular,4,999.0,0.65,344.72
+Vivo,V20 Pro 128GB,8,Qualcomm Snapdragon 765G,4000,6.44,2020,Good,5,499.0,0.55,219.0
+Vivo,V20 Pro 256GB,8,Qualcomm Snapdragon 765G,4000,6.44,2020,Good,5,549.0,0.55,245.93
+Vivo,Y75 5G 128GB,8,MediaTek Dimensity 700,5000,6.58,2021,Excellent,4,349.0,0.35,224.79
+Vivo,Y75 5G 256GB,8,MediaTek Dimensity 700,5000,6.58,2021,Good,4,399.0,0.5,199.19
+Vivo,Y53s 128GB,6,MediaTek Helio G80,5000,6.58,2021,Excellent,4,229.0,0.35,148.04
+Vivo,Y53s 64GB,6,MediaTek Helio G80,5000,6.58,2021,Good,4,179.0,0.5,89.57
+Vivo,V15 Pro 128GB,6,Qualcomm Snapdragon 675,3700,6.39,2019,Good,6,399.0,0.6000000000000001,155.92
+Vivo,V15 Pro 256GB,6,Qualcomm Snapdragon 675,3700,6.39,2019,Good,6,449.0,0.6000000000000001,180.46
+Vivo,X70 Pro 128GB,8,MediaTek Dimensity 1200,4450,6.56,2021,Good,4,749.0,0.5,369.99
+Vivo,X70 Pro 256GB,8,MediaTek Dimensity 1200,4450,6.56,2021,Excellent,4,799.0,0.35,527.73
+Vivo,T1 5G 128GB,6,Qualcomm Snapdragon 695,5000,6.58,2022,Excellent,3,269.0,0.30000000000000004,183.53
+Vivo,T1 5G 256GB,8,Qualcomm Snapdragon 695,5000,6.58,2022,regular,3,319.0,0.6000000000000001,129.01
+Vivo,X30 Pro 128GB,8,Qualcomm Snapdragon 855,4200,6.44,2019,Good,6,899.0,0.6000000000000001,355.27
+Vivo,X30 Pro 256GB,8,Qualcomm Snapdragon 855,4200,6.44,2019,Excellent,6,949.0,0.45000000000000007,509.02
+Vivo,V27 128GB,8,MediaTek Dimensity 8200,4600,6.78,2023,Good,2,599.0,0.4,351.4
+Vivo,V27 256GB,8,MediaTek Dimensity 8200,4600,6.78,2023,Good,2,649.0,0.4,381.69
+Vivo,V27 Pro 128GB,8,MediaTek Dimensity 8200,4600,6.78,2023,Good,2,699.0,0.4,415.78
+Vivo,V27 Pro 256GB,8,MediaTek Dimensity 8200,4600,6.78,2023,Good,2,749.0,0.4,446.18
+Vivo,V25 Pro 128GB,8,MediaTek Dimensity 1300,4830,6.56,2022,Excellent,3,599.0,0.30000000000000004,409.4
+Vivo,V25 Pro 256GB,8,MediaTek Dimensity 1300,4830,6.56,2022,Excellent,3,649.0,0.30000000000000004,447.32
+Vivo,X90 Pro 256GB,12,MediaTek Dimensity 9200,4870,6.78,2022,Good,3,1099.0,0.45,614.81
+Vivo,X90 Pro 512GB,12,MediaTek Dimensity 9200,4870,6.78,2022,Good,3,1199.0,0.45,666.65
+Vivo,Y100 128GB,8,MediaTek Dimensity 900,4500,6.44,2023,Good,2,399.0,0.4,237.38
+Vivo,Y100 256GB,8,MediaTek Dimensity 900,4500,6.44,2023,Good,2,449.0,0.4,265.51
+Vivo,T2 Series 128GB,8,Qualcomm Snapdragon 695,4500,6.44,2023,regular,2,299.0,0.55,132.77
+Vivo,T2 Series 256GB,8,Qualcomm Snapdragon 695,4500,6.44,2023,Good,2,349.0,0.4,208.19
+Vivo,V23 5G 128GB,8,MediaTek Dimensity 920,4200,6.44,2022,Good,3,499.0,0.45,266.12
+Vivo,V23 5G 256GB,8,MediaTek Dimensity 920,4200,6.44,2022,Good,3,549.0,0.45,296.26
+Vivo,X80 256GB,12,MediaTek Dimensity 9000,4700,6.78,2022,Good,3,899.0,0.45,474.66
+Vivo,X80 512GB,12,MediaTek Dimensity 9000,4700,6.78,2022,Good,3,999.0,0.45,544.5
+Vivo,Y21 128GB,4,MediaTek Helio P35,5000,6.51,2021,Excellent,4,199.0,0.35,128.67
+Vivo,Y21 64GB,4,MediaTek Helio P35,5000,6.51,2021,Excellent,4,179.0,0.35,113.76
+Vivo,Pad 128GB,6,Snapdragon 870,8040,11.0,2022,regular,3,329.0,0.6000000000000001,132.73
+Vivo,Pad 2 256GB,8,MediaTek Dimensity 1200,8040,11.0,2023,regular,2,399.0,0.55,173.56
+Vivo,Pad Air 128GB,6,Snapdragon 870,8040,10.4,2023,Good,2,279.0,0.4,161.21
+Vivo,Pad 3 128GB,6,Snapdragon 750G,8040,11.0,2023,Good,2,349.0,0.4,206.96
+Vivo,Pad 3 Pro 256GB,8,Snapdragon 888,8040,12.3,2023,Excellent,2,449.0,0.25,336.99
+Vivo,Pad 4 Pro 256GB,8,MediaTek Dimensity 9000,8040,12.9,2024,Excellent,1,499.0,0.2,403.3
+iQOO,Pad 128GB,6,Snapdragon 870,8040,11.0,2023,Good,2,349.0,0.4,204.82
+iQOO,Pad 2 256GB,8,Snapdragon 888,8040,12.3,2024,Good,1,399.0,0.35,259.66
+iQOO,Pad 2 Pro 256GB,8,Snapdragon 8 Gen 1,8040,12.3,2024,Good,1,449.0,0.35,287.3
+Oppo,Find N3 512GB,12,Snapdragon 8 Gen 2,4805,7.82,2023,Good,2,1399.0,0.4,824.64
+Oppo,Find N3 Flip 256GB,12,MediaTek Dimensity 9200,4300,6.8,2023,Good,2,999.0,0.4,598.35
+Oppo,Find X8 Pro 256GB,12,Snapdragon 8 Gen 2,5000,6.8,2024,regular,1,1299.0,0.5,646.11
+Oppo,Find X8 256GB,8,Snapdragon 8 Gen 2,4800,6.7,2024,Good,1,1099.0,0.35,686.74
 Oppo,Reno13 F 4G 256GB,8,MediaTek Helio G100,5800,6.67,2025,Good,1,499.0,0.35,326.67
 Oppo,Reno13 F 256GB,8,MediaTek Helio G100,5800,6.67,2025,Good,1,499.0,0.35,326.2
 Oppo,Reno13 Pro 512GB,12,MediaTek Dimensity 8350,5800,6.83,2025,Good,1,799.0,0.35,506.69
 Oppo,Reno13 256GB,12,MediaTek Dimensity 8350,5600,6.59,2025,Good,1,699.0,0.35,450.23
-Oppo,Reno12 F 4G 256GB,8,Snapdragon 685,5000,6.7,2024,Good,2,449.0,0.4,267.36
-Oppo,Reno12 F 256GB,8,Snapdragon 685,5000,6.7,2024,Good,2,449.0,0.4,266.41
-Oppo,Reno12 Pro 512GB,12,MediaTek Dimensity 8200,4600,6.74,2024,Excellent,2,749.0,0.25,548.69
-Oppo,Reno12 256GB,8,MediaTek Dimensity 7050,5000,6.7,2024,Excellent,2,599.0,0.25,437.99
-Oppo,Reno11 F 256GB,8,MediaTek Dimensity 7050,5000,6.7,2024,Excellent,2,499.0,0.25,368.49
-Oppo,Reno11 Pro 512GB,12,MediaTek Dimensity 8200,4600,6.74,2024,Excellent,2,699.0,0.25,525.61
-Oppo,A5 Pro 256GB,8,Dimensity 7300,6000,6.7,2024,regular,2,599.0,0.55,267.7
-Oppo,A5 Pro 512GB,12,Dimensity 7300,6000,6.7,2024,Good,2,699.0,0.4,410.78
-Oppo,A80 256GB,8,Dimensity 6300,5100,6.67,2024,Good,2,499.0,0.4,298.37
-Oppo,A3 4G 128GB,4,Snapdragon 6s 4G Gen 1,5000,6.7,2024,Excellent,2,399.0,0.25,281.97
-Oppo,A3x 4G 128GB,4,Snapdragon 6s 4G Gen 1,5100,6.67,2024,Good,2,449.0,0.4,270.0
-Oppo,A3x 4G 256GB,6,Snapdragon 6s 4G Gen 1,5100,6.67,2024,Good,2,499.0,0.4,287.1
-Oppo,A3 128GB,4,Snapdragon 6s 4G Gen 1,5000,6.7,2024,Excellent,2,399.0,0.25,293.13
-Oppo,A3x 128GB,4,Snapdragon 6s 4G Gen 1,5100,6.67,2024,Good,2,449.0,0.4,260.83
-Oppo,A3x 256GB,6,Snapdragon 6s 4G Gen 1,5100,6.67,2024,Good,2,499.0,0.4,289.09
-Oppo,A3 128GB,4,Snapdragon 6s 4G Gen 1,5000,6.7,2024,Good,2,399.0,0.4,239.98
-Oppo,A60 128GB,8,Snapdragon 680 4G,5000,6.67,2024,Good,2,449.0,0.4,263.47
-Oppo,A60 256GB,8,Snapdragon 680 4G,5000,6.67,2024,Excellent,2,499.0,0.25,370.58
-Oppo,K12 Plus 256GB,8,Snapdragon 7 Gen 3,6400,6.7,2024,Good,2,699.0,0.4,412.81
-Oppo,K12 Plus 512GB,12,Snapdragon 7 Gen 3,6400,6.7,2024,Good,2,799.0,0.4,475.64
-Oppo,F27 128GB,8,Dimensity 7050,5000,6.7,2024,Good,2,499.0,0.4,295.25
-Oppo,F27 256GB,8,Dimensity 7050,5000,6.7,2024,regular,2,549.0,0.55,238.59
-Oppo,F27 Pro+ 256GB,8,Dimensity 7050,5000,6.7,2024,Good,2,599.0,0.4,359.38
-Oppo,F27 Pro+ 512GB,12,Dimensity 7050,5000,6.7,2024,Excellent,2,699.0,0.25,512.5
-Oppo,F25 Pro 128GB,8,Snapdragon 778G,4500,6.55,2023,Excellent,3,549.0,0.30000000000000004,369.56
-Oppo,F25 Pro 256GB,8,Snapdragon 778G,4500,6.55,2023,Good,3,599.0,0.45,322.39
-Oppo,Pad 3 128GB,8,Dimensity 8350,9510,11.6,2024,Excellent,2,699.0,0.25,528.19
-Oppo,Pad 3 256GB,12,Dimensity 8350,9510,11.6,2024,Good,2,799.0,0.4,478.32
-Oppo,Pad 3 Pro 256GB,12,Snapdragon 8 Gen 3,9510,12.1,2024,regular,2,899.0,0.55,396.37
-Oppo,Pad 3 Pro 512GB,16,Snapdragon 8 Gen 3,9510,12.1,2024,Good,2,999.0,0.4,587.27
-Oppo,Pad Neo 128GB,6,Snapdragon 870,8360,11.0,2023,Good,3,499.0,0.45,269.01
-Oppo,Pad Neo 256GB,8,Snapdragon 870,8360,11.0,2023,Good,3,599.0,0.45,334.77
-Oppo,Find X7 Ultra 256GB,12,Snapdragon 8 Gen 3,5000,6.82,2024,Good,2,1199.0,0.4,712.73
-Oppo,Find X7 Ultra 512GB,16,Snapdragon 8 Gen 3,5000,6.82,2024,Good,2,1299.0,0.4,772.74
-Oppo,Find X7 256GB,12,Dimensity 9300,5000,6.78,2024,regular,2,1099.0,0.55,494.77
-Oppo,Find X7 512GB,16,Dimensity 9300,5000,6.78,2024,Good,2,1199.0,0.4,711.19
-Oppo,Find X6 Pro 256GB,12,Snapdragon 8 Gen 2,5000,6.82,2023,regular,3,999.0,0.6000000000000001,392.05
-Oppo,Find X6 Pro 512GB,16,Snapdragon 8 Gen 2,5000,6.82,2023,regular,3,1099.0,0.6000000000000001,431.71
-Oppo,Find X6 256GB,12,Dimensity 9200,4800,6.74,2023,Excellent,3,899.0,0.30000000000000004,619.18
-Oppo,Find X6 512GB,16,Dimensity 9200,4800,6.74,2023,Excellent,3,999.0,0.30000000000000004,688.42
-Oppo,Find X5 Pro 256GB,12,Snapdragon 8 Gen 1,5000,6.7,2022,Excellent,4,899.0,0.35,581.96
-Oppo,Find X5 Pro 512GB,16,Snapdragon 8 Gen 1,5000,6.7,2022,Excellent,4,999.0,0.35,640.12
-Oppo,Find X5 256GB,8,Snapdragon 888,4800,6.55,2022,Excellent,4,799.0,0.35,517.27
-Oppo,Find N2 Flip 256GB,8,Dimensity 9000+,4300,6.8,2023,Good,3,899.0,0.45,486.43
-Oppo,Find N2 Flip 512GB,12,Dimensity 9000+,4300,6.8,2023,Excellent,3,999.0,0.30000000000000004,689.64
-Oppo,Find N2 256GB,12,Snapdragon 8+ Gen 1,4520,7.1,2022,Good,4,1099.0,0.5,524.79
-Oppo,Reno10 5G 128GB,8,Dimensity 7050,5000,6.7,2023,regular,3,499.0,0.6000000000000001,199.35
-Oppo,Reno10 5G 256GB,8,Dimensity 7050,5000,6.7,2023,Excellent,3,549.0,0.30000000000000004,380.53
-Oppo,Reno10 Pro 5G 256GB,12,Snapdragon 778G,4600,6.7,2023,regular,3,599.0,0.6000000000000001,239.59
-Oppo,Reno10 Pro+ 5G 256GB,16,Snapdragon 8+ Gen 1,4700,6.74,2023,Good,3,699.0,0.45,361.98
-Oppo,Reno9 5G 128GB,8,Snapdragon 778G,4500,6.7,2022,Excellent,4,449.0,0.35,296.61
-Oppo,Reno9 5G 256GB,12,Snapdragon 778G,4500,6.7,2022,Good,4,499.0,0.5,245.24
-Oppo,Reno9 Pro 5G 256GB,16,Dimensity 8100,4500,6.7,2022,Good,4,599.0,0.5,299.99
-Oppo,Reno9 Pro+ 5G 256GB,16,Snapdragon 8+ Gen 1,4700,6.7,2022,regular,4,649.0,0.65,220.2
-Oppo,Reno8 5G 128GB,8,Dimensity 1300,4500,6.4,2022,Good,4,399.0,0.5,198.34
-Oppo,Reno8 5G 256GB,12,Dimensity 1300,4500,6.4,2022,regular,4,449.0,0.65,152.31
-Oppo,Reno8 Pro 5G 256GB,12,Dimensity 8100,4500,6.7,2022,Good,4,549.0,0.5,267.81
-Oppo,Reno8 Pro+ 5G 256GB,12,Dimensity 8100,4500,6.7,2022,Excellent,4,599.0,0.35,394.69
-Oppo,Reno7 5G 128GB,8,Dimensity 900,4500,6.4,2021,Good,5,349.0,0.55,154.25
-Oppo,Reno7 5G 256GB,12,Dimensity 900,4500,6.4,2021,regular,5,399.0,0.7,118.29
-Oppo,Reno7 Pro 5G 256GB,12,Dimensity 1200,4500,6.55,2021,regular,5,499.0,0.7,149.41
-Oppo,Reno6 5G 128GB,8,Dimensity 900,4300,6.43,2021,Good,5,349.0,0.55,155.86
-Oppo,Reno6 5G 256GB,12,Dimensity 900,4300,6.43,2021,Good,5,399.0,0.55,177.26
-Oppo,Reno6 Pro 5G 128GB,8,Dimensity 1200,4500,6.55,2021,Good,5,449.0,0.55,200.13
-Oppo,Reno6 Pro 5G 256GB,12,Dimensity 1200,4500,6.55,2021,Good,5,499.0,0.55,229.28
-Oppo,Reno6 Pro+ 5G 256GB,12,Snapdragon 870,4500,6.55,2021,regular,5,599.0,0.7,176.85
-Oppo,Reno5 5G 128GB,8,Snapdragon 765G,4300,6.43,2020,regular,6,299.0,0.7,88.63
-Oppo,Reno5 5G 256GB,12,Snapdragon 765G,4300,6.43,2020,Good,6,349.0,0.6000000000000001,139.71
-Oppo,Reno5 Pro 5G 128GB,8,Dimensity 1000+,4350,6.55,2020,Good,6,399.0,0.6000000000000001,159.85
-Oppo,Reno5 Pro 5G 256GB,12,Dimensity 1000+,4350,6.55,2020,Good,6,449.0,0.6000000000000001,180.1
-Oppo,Reno5 Pro+ 5G 256GB,12,Snapdragon 865,4500,6.55,2020,Excellent,6,599.0,0.45000000000000007,327.66
-Oppo,Reno4 5G 128GB,8,Snapdragon 765G,4000,6.43,2020,regular,6,299.0,0.7,86.82
-Oppo,Reno4 5G 256GB,8,Snapdragon 765G,4000,6.43,2020,Good,6,349.0,0.6000000000000001,140.93
-Oppo,Reno4 Pro 5G 256GB,12,Snapdragon 765G,4000,6.55,2020,regular,6,499.0,0.7,144.88
-Oppo,Reno3 5G 128GB,8,Dimensity 1000L,4025,6.4,2019,Good,7,249.0,0.65,86.24
-Oppo,Reno3 5G 256GB,12,Dimensity 1000L,4025,6.4,2019,regular,7,299.0,0.7,87.34
-Oppo,Reno3 Pro 5G 256GB,12,Snapdragon 765G,4025,6.5,2019,Good,7,499.0,0.65,171.86
-Oppo,A59 5G 128GB,6,MediaTek Dimensity 6020,5000,6.56,2023,Excellent,3,199.0,0.30000000000000004,137.9
-Oppo,A59 5G 256GB,8,MediaTek Dimensity 6020,5000,6.56,2023,regular,3,229.0,0.6000000000000001,90.67
-Oppo,A58 5G 256GB,8,MediaTek Dimensity 700,5000,6.56,2022,Excellent,4,249.0,0.35,160.45
-Oppo,A57 5G 128GB,6,MediaTek Dimensity 810,5000,6.56,2022,Good,4,219.0,0.5,110.51
-Oppo,A56 5G 128GB,6,MediaTek Dimensity 700,5000,6.5,2021,regular,5,199.0,0.7,59.21
-Oppo,A55 5G 128GB,6,MediaTek Dimensity 700,5000,6.5,2021,regular,5,189.0,0.7,55.64
-Oppo,A54 5G 128GB,6,Qualcomm Snapdragon 480,5000,6.5,2021,Good,5,219.0,0.55,98.5
-Oppo,A53 5G 128GB,4,MediaTek Dimensity 720,4040,6.5,2020,Good,6,179.0,0.6000000000000001,71.8
-Oppo,A52 5G 128GB,4,MediaTek Dimensity 720,4000,6.5,2020,Good,6,169.0,0.6000000000000001,65.34
-Oppo,A51 5G 128GB,4,MediaTek Dimensity 700,4000,6.5,2020,Good,6,149.0,0.6000000000000001,59.24
-Oppo,A50 5G 128GB,4,MediaTek Dimensity 700,4000,6.5,2020,Good,6,139.0,0.6000000000000001,55.35
-Oppo,A49 5G 128GB,4,MediaTek Dimensity 700,4000,6.5,2020,Good,6,129.0,0.6000000000000001,50.6
-Oppo,A40 128GB,4,Qualcomm Snapdragon 6s Gen 1,5100,6.67,2024,Good,2,199.0,0.4,120.07
-Oppo,A40 256GB,6,Qualcomm Snapdragon 6s Gen 1,5100,6.67,2024,Good,2,229.0,0.4,135.03
-Oppo,K11x 128GB,8,Qualcomm Snapdragon 695,5000,6.72,2023,Good,3,199.0,0.45,108.01
-Oppo,K11x 256GB,12,Qualcomm Snapdragon 695,5000,6.72,2023,Excellent,3,229.0,0.30000000000000004,157.48
-Oppo,K10x 128GB,6,Qualcomm Snapdragon 695,5000,6.59,2022,Good,4,199.0,0.5,98.03
-Oppo,K10x 256GB,8,Qualcomm Snapdragon 695,5000,6.59,2022,Excellent,4,229.0,0.35,144.17
-Oppo,K10 5G 128GB,8,MediaTek Dimensity 8000-Max,5000,6.59,2022,Good,4,249.0,0.5,119.94
-Oppo,K9x 128GB,6,MediaTek Dimensity 810,5000,6.5,2021,Good,5,199.0,0.55,90.35
-Oppo,K9x 256GB,8,MediaTek Dimensity 810,5000,6.5,2021,regular,5,229.0,0.7,66.8
-Oppo,K9 Pro 5G 128GB,8,MediaTek Dimensity 1200,4500,6.43,2021,Good,5,299.0,0.55,130.53
-Oppo,K9 Pro 5G 256GB,12,MediaTek Dimensity 1200,4500,6.43,2021,Excellent,5,329.0,0.4,188.06
-Oppo,K9 5G 128GB,8,Qualcomm Snapdragon 768G,4300,6.43,2021,Excellent,5,279.0,0.4,163.28
-Oppo,K9 5G 256GB,8,Qualcomm Snapdragon 768G,4300,6.43,2021,Good,5,299.0,0.55,129.86
-Oppo,K7x 128GB,6,MediaTek Dimensity 720,5000,6.5,2020,Good,6,199.0,0.6000000000000001,80.37
-Oppo,K7 5G 128GB,8,Qualcomm Snapdragon 765G,4025,6.4,2020,Excellent,6,279.0,0.45000000000000007,153.47
-Oppo,K7 5G 256GB,8,Qualcomm Snapdragon 765G,4025,6.4,2020,Excellent,6,299.0,0.45000000000000007,160.29
-Oppo,K11x 128GB,8,Qualcomm Snapdragon 695,5000,6.72,2023,Good,3,199.0,0.45,111.51
-Oppo,K11x 256GB,12,Qualcomm Snapdragon 695,5000,6.72,2023,Excellent,3,229.0,0.30000000000000004,160.26
-Oppo,K11 128GB,8,Qualcomm Snapdragon 782G,5000,6.7,2023,regular,3,259.0,0.6000000000000001,101.54
-Oppo,K11 256GB,12,Qualcomm Snapdragon 782G,5000,6.7,2023,Good,3,299.0,0.45,155.82
-Oppo,K10x 128GB,6,Qualcomm Snapdragon 695,5000,6.59,2022,Excellent,4,199.0,0.35,131.85
-Oppo,K10x 256GB,8,Qualcomm Snapdragon 695,5000,6.59,2022,Excellent,4,229.0,0.35,143.51
-Oppo,K10 5G 128GB,8,MediaTek Dimensity 8000-Max,5000,6.59,2022,regular,4,249.0,0.65,83.69
-Oppo,K10 5G 256GB,12,MediaTek Dimensity 8000-Max,5000,6.59,2022,Good,4,279.0,0.5,139.55
-Oppo,K9x 128GB,6,MediaTek Dimensity 810,5000,6.5,2021,Good,5,199.0,0.55,91.48
-Oppo,K9x 256GB,8,MediaTek Dimensity 810,5000,6.5,2021,regular,5,229.0,0.7,69.1
-Oppo,K9 Pro 5G 128GB,8,MediaTek Dimensity 1200,4500,6.43,2021,regular,5,299.0,0.7,89.11
-Oppo,K9 Pro 5G 256GB,12,MediaTek Dimensity 1200,4500,6.43,2021,regular,5,329.0,0.7,98.1
-Oppo,K9 5G 128GB,8,Qualcomm Snapdragon 768G,4300,6.43,2021,Good,5,279.0,0.55,125.27
-Oppo,K9 5G 256GB,8,Qualcomm Snapdragon 768G,4300,6.43,2021,Good,5,299.0,0.55,134.06
-Oppo,K7x 128GB,6,MediaTek Dimensity 720,5000,6.5,2020,Excellent,6,199.0,0.45000000000000007,108.27
-Oppo,K7 5G 128GB,8,Qualcomm Snapdragon 765G,4025,6.4,2020,Good,6,279.0,0.6000000000000001,110.1
-Realme,GT 7 Pro 128GB,12,Qualcomm Snapdragon 8 Elite,6500,6.78,2024,Good,2,470.0,0.4,277.51
-Realme,GT 7 Pro 256GB,16,Qualcomm Snapdragon 8 Elite,6500,6.78,2024,Good,2,500.0,0.4,292.11
-Realme,GT 6 128GB,8,Qualcomm Snapdragon 8s Gen 3,5500,6.78,2023,regular,3,380.0,0.6000000000000001,149.08
-Realme,GT 6 256GB,12,Qualcomm Snapdragon 8s Gen 3,5500,6.78,2023,Excellent,3,400.0,0.30000000000000004,268.69
-Realme,GT 6 512GB,16,Qualcomm Snapdragon 8s Gen 3,5500,6.78,2023,Good,3,420.0,0.45,227.19
-Realme,GT 6T 128GB,8,Qualcomm Snapdragon 7 Plus Gen 3,5500,6.78,2023,Excellent,3,360.0,0.30000000000000004,244.48
-Realme,GT 6T 256GB,8,Qualcomm Snapdragon 7 Plus Gen 3,5500,6.78,2023,Good,3,380.0,0.45,202.41
+Oppo,Reno12 F 4G 256GB,8,Snapdragon 685,5000,6.7,2024,Good,1,449.0,0.35,289.63
+Oppo,Reno12 F 256GB,8,Snapdragon 685,5000,6.7,2024,Good,1,449.0,0.35,288.61
+Oppo,Reno12 Pro 512GB,12,MediaTek Dimensity 8200,4600,6.74,2024,Excellent,1,749.0,0.2,585.27
+Oppo,Reno12 256GB,8,MediaTek Dimensity 7050,5000,6.7,2024,Excellent,1,599.0,0.2,467.18
+Oppo,Reno11 F 256GB,8,MediaTek Dimensity 7050,5000,6.7,2024,Excellent,1,499.0,0.2,393.06
+Oppo,Reno11 Pro 512GB,12,MediaTek Dimensity 8200,4600,6.74,2024,Excellent,1,699.0,0.2,560.65
+Oppo,A5 Pro 256GB,8,Dimensity 7300,6000,6.7,2024,regular,1,599.0,0.5,297.45
+Oppo,A5 Pro 512GB,12,Dimensity 7300,6000,6.7,2024,Good,1,699.0,0.35,445.01
+Oppo,A80 256GB,8,Dimensity 6300,5100,6.67,2024,Good,1,499.0,0.35,323.24
+Oppo,A3 4G 128GB,4,Snapdragon 6s 4G Gen 1,5000,6.7,2024,Excellent,1,399.0,0.2,300.77
+Oppo,A3x 4G 128GB,4,Snapdragon 6s 4G Gen 1,5100,6.67,2024,Good,1,449.0,0.35,292.5
+Oppo,A3x 4G 256GB,6,Snapdragon 6s 4G Gen 1,5100,6.67,2024,Good,1,499.0,0.35,311.02
+Oppo,A3 128GB,4,Snapdragon 6s 4G Gen 1,5000,6.7,2024,Excellent,1,399.0,0.2,312.68
+Oppo,A3x 128GB,4,Snapdragon 6s 4G Gen 1,5100,6.67,2024,Good,1,449.0,0.35,282.57
+Oppo,A3x 256GB,6,Snapdragon 6s 4G Gen 1,5100,6.67,2024,Good,1,499.0,0.35,313.19
+Oppo,A3 128GB,4,Snapdragon 6s 4G Gen 1,5000,6.7,2024,Good,1,399.0,0.35,259.98
+Oppo,A60 128GB,8,Snapdragon 680 4G,5000,6.67,2024,Good,1,449.0,0.35,285.42
+Oppo,A60 256GB,8,Snapdragon 680 4G,5000,6.67,2024,Excellent,1,499.0,0.2,395.29
+Oppo,K12 Plus 256GB,8,Snapdragon 7 Gen 3,6400,6.7,2024,Good,1,699.0,0.35,447.21
+Oppo,K12 Plus 512GB,12,Snapdragon 7 Gen 3,6400,6.7,2024,Good,1,799.0,0.35,515.28
+Oppo,F27 128GB,8,Dimensity 7050,5000,6.7,2024,Good,1,499.0,0.35,319.86
+Oppo,F27 256GB,8,Dimensity 7050,5000,6.7,2024,regular,1,549.0,0.5,265.1
+Oppo,F27 Pro+ 256GB,8,Dimensity 7050,5000,6.7,2024,Good,1,599.0,0.35,389.33
+Oppo,F27 Pro+ 512GB,12,Dimensity 7050,5000,6.7,2024,Excellent,1,699.0,0.2,546.67
+Oppo,F25 Pro 128GB,8,Snapdragon 778G,4500,6.55,2023,Excellent,2,549.0,0.25,395.96
+Oppo,F25 Pro 256GB,8,Snapdragon 778G,4500,6.55,2023,Good,2,599.0,0.4,351.7
+Oppo,Pad 3 128GB,8,Dimensity 8350,9510,11.6,2024,Excellent,1,699.0,0.2,563.4
+Oppo,Pad 3 256GB,12,Dimensity 8350,9510,11.6,2024,Good,1,799.0,0.35,518.18
+Oppo,Pad 3 Pro 256GB,12,Snapdragon 8 Gen 3,9510,12.1,2024,regular,1,899.0,0.5,440.41
+Oppo,Pad 3 Pro 512GB,16,Snapdragon 8 Gen 3,9510,12.1,2024,Good,1,999.0,0.35,636.21
+Oppo,Pad Neo 128GB,6,Snapdragon 870,8360,11.0,2023,Good,2,499.0,0.4,293.46
+Oppo,Pad Neo 256GB,8,Snapdragon 870,8360,11.0,2023,Good,2,599.0,0.4,365.2
+Oppo,Find X7 Ultra 256GB,12,Snapdragon 8 Gen 3,5000,6.82,2024,Good,1,1199.0,0.35,772.12
+Oppo,Find X7 Ultra 512GB,16,Snapdragon 8 Gen 3,5000,6.82,2024,Good,1,1299.0,0.35,837.13
+Oppo,Find X7 256GB,12,Dimensity 9300,5000,6.78,2024,regular,1,1099.0,0.5,549.75
+Oppo,Find X7 512GB,16,Dimensity 9300,5000,6.78,2024,Good,1,1199.0,0.35,770.45
+Oppo,Find X6 Pro 256GB,12,Snapdragon 8 Gen 2,5000,6.82,2023,regular,2,999.0,0.55,441.06
+Oppo,Find X6 Pro 512GB,16,Snapdragon 8 Gen 2,5000,6.82,2023,regular,2,1099.0,0.55,485.68
+Oppo,Find X6 256GB,12,Dimensity 9200,4800,6.74,2023,Excellent,2,899.0,0.25,663.41
+Oppo,Find X6 512GB,16,Dimensity 9200,4800,6.74,2023,Excellent,2,999.0,0.25,737.59
+Oppo,Find X5 Pro 256GB,12,Snapdragon 8 Gen 1,5000,6.7,2022,Excellent,3,899.0,0.30000000000000004,626.73
+Oppo,Find X5 Pro 512GB,16,Snapdragon 8 Gen 1,5000,6.7,2022,Excellent,3,999.0,0.30000000000000004,689.36
+Oppo,Find X5 256GB,8,Snapdragon 888,4800,6.55,2022,Excellent,3,799.0,0.30000000000000004,557.06
+Oppo,Find N2 Flip 256GB,8,Dimensity 9000+,4300,6.8,2023,Good,2,899.0,0.4,530.66
+Oppo,Find N2 Flip 512GB,12,Dimensity 9000+,4300,6.8,2023,Excellent,2,999.0,0.25,738.9
+Oppo,Find N2 256GB,12,Snapdragon 8+ Gen 1,4520,7.1,2022,Good,3,1099.0,0.45,577.27
+Oppo,Reno10 5G 128GB,8,Dimensity 7050,5000,6.7,2023,regular,2,499.0,0.55,224.27
+Oppo,Reno10 5G 256GB,8,Dimensity 7050,5000,6.7,2023,Excellent,2,549.0,0.25,407.71
+Oppo,Reno10 Pro 5G 256GB,12,Snapdragon 778G,4600,6.7,2023,regular,2,599.0,0.55,269.54
+Oppo,Reno10 Pro+ 5G 256GB,16,Snapdragon 8+ Gen 1,4700,6.74,2023,Good,2,699.0,0.4,394.89
+Oppo,Reno9 5G 128GB,8,Snapdragon 778G,4500,6.7,2022,Excellent,3,449.0,0.30000000000000004,319.43
+Oppo,Reno9 5G 256GB,12,Snapdragon 778G,4500,6.7,2022,Good,3,499.0,0.45,269.76
+Oppo,Reno9 Pro 5G 256GB,16,Dimensity 8100,4500,6.7,2022,Good,3,599.0,0.45,329.98
+Oppo,Reno9 Pro+ 5G 256GB,16,Snapdragon 8+ Gen 1,4700,6.7,2022,regular,3,649.0,0.6000000000000001,251.66
+Oppo,Reno8 5G 128GB,8,Dimensity 1300,4500,6.4,2022,Good,3,399.0,0.45,218.18
+Oppo,Reno8 5G 256GB,12,Dimensity 1300,4500,6.4,2022,regular,3,449.0,0.6000000000000001,174.07
+Oppo,Reno8 Pro 5G 256GB,12,Dimensity 8100,4500,6.7,2022,Good,3,549.0,0.45,294.6
+Oppo,Reno8 Pro+ 5G 256GB,12,Dimensity 8100,4500,6.7,2022,Excellent,3,599.0,0.30000000000000004,425.05
+Oppo,Reno7 5G 128GB,8,Dimensity 900,4500,6.4,2021,Good,4,349.0,0.5,171.38
+Oppo,Reno7 5G 256GB,12,Dimensity 900,4500,6.4,2021,regular,4,399.0,0.65,138.01
+Oppo,Reno7 Pro 5G 256GB,12,Dimensity 1200,4500,6.55,2021,regular,4,499.0,0.65,174.31
+Oppo,Reno6 5G 128GB,8,Dimensity 900,4300,6.43,2021,Good,4,349.0,0.5,173.18
+Oppo,Reno6 5G 256GB,12,Dimensity 900,4300,6.43,2021,Good,4,399.0,0.5,196.96
+Oppo,Reno6 Pro 5G 128GB,8,Dimensity 1200,4500,6.55,2021,Good,4,449.0,0.5,222.36
+Oppo,Reno6 Pro 5G 256GB,12,Dimensity 1200,4500,6.55,2021,Good,4,499.0,0.5,254.75
+Oppo,Reno6 Pro+ 5G 256GB,12,Snapdragon 870,4500,6.55,2021,regular,4,599.0,0.65,206.32
+Oppo,Reno5 5G 128GB,8,Snapdragon 765G,4300,6.43,2020,regular,5,299.0,0.7,88.63
+Oppo,Reno5 5G 256GB,12,Snapdragon 765G,4300,6.43,2020,Good,5,349.0,0.55,157.17
+Oppo,Reno5 Pro 5G 128GB,8,Dimensity 1000+,4350,6.55,2020,Good,5,399.0,0.55,179.83
+Oppo,Reno5 Pro 5G 256GB,12,Dimensity 1000+,4350,6.55,2020,Good,5,449.0,0.55,202.62
+Oppo,Reno5 Pro+ 5G 256GB,12,Snapdragon 865,4500,6.55,2020,Excellent,5,599.0,0.4,357.45
+Oppo,Reno4 5G 128GB,8,Snapdragon 765G,4000,6.43,2020,regular,5,299.0,0.7,86.82
+Oppo,Reno4 5G 256GB,8,Snapdragon 765G,4000,6.43,2020,Good,5,349.0,0.55,158.54
+Oppo,Reno4 Pro 5G 256GB,12,Snapdragon 765G,4000,6.55,2020,regular,5,499.0,0.7,144.88
+Oppo,Reno3 5G 128GB,8,Dimensity 1000L,4025,6.4,2019,Good,6,249.0,0.6000000000000001,98.56
+Oppo,Reno3 5G 256GB,12,Dimensity 1000L,4025,6.4,2019,regular,6,299.0,0.7,87.34
+Oppo,Reno3 Pro 5G 256GB,12,Snapdragon 765G,4025,6.5,2019,Good,6,499.0,0.6000000000000001,196.41
+Oppo,A59 5G 128GB,6,MediaTek Dimensity 6020,5000,6.56,2023,Excellent,2,199.0,0.25,147.75
+Oppo,A59 5G 256GB,8,MediaTek Dimensity 6020,5000,6.56,2023,regular,2,229.0,0.55,102.0
+Oppo,A58 5G 256GB,8,MediaTek Dimensity 700,5000,6.56,2022,Excellent,3,249.0,0.30000000000000004,172.79
+Oppo,A57 5G 128GB,6,MediaTek Dimensity 810,5000,6.56,2022,Good,3,219.0,0.45,121.56
+Oppo,A56 5G 128GB,6,MediaTek Dimensity 700,5000,6.5,2021,regular,4,199.0,0.65,69.08
+Oppo,A55 5G 128GB,6,MediaTek Dimensity 700,5000,6.5,2021,regular,4,189.0,0.65,64.92
+Oppo,A54 5G 128GB,6,Qualcomm Snapdragon 480,5000,6.5,2021,Good,4,219.0,0.5,109.44
+Oppo,A53 5G 128GB,4,MediaTek Dimensity 720,4040,6.5,2020,Good,5,179.0,0.55,80.78
+Oppo,A52 5G 128GB,4,MediaTek Dimensity 720,4000,6.5,2020,Good,5,169.0,0.55,73.51
+Oppo,A51 5G 128GB,4,MediaTek Dimensity 700,4000,6.5,2020,Good,5,149.0,0.55,66.65
+Oppo,A50 5G 128GB,4,MediaTek Dimensity 700,4000,6.5,2020,Good,5,139.0,0.55,62.27
+Oppo,A49 5G 128GB,4,MediaTek Dimensity 700,4000,6.5,2020,Good,5,129.0,0.55,56.92
+Oppo,A40 128GB,4,Qualcomm Snapdragon 6s Gen 1,5100,6.67,2024,Good,1,199.0,0.35,130.08
+Oppo,A40 256GB,6,Qualcomm Snapdragon 6s Gen 1,5100,6.67,2024,Good,1,229.0,0.35,146.28
+Oppo,K11x 128GB,8,Qualcomm Snapdragon 695,5000,6.72,2023,Good,2,199.0,0.4,117.83
+Oppo,K11x 256GB,12,Qualcomm Snapdragon 695,5000,6.72,2023,Excellent,2,229.0,0.25,168.73
+Oppo,K10x 128GB,6,Qualcomm Snapdragon 695,5000,6.59,2022,Good,3,199.0,0.45,107.83
+Oppo,K10x 256GB,8,Qualcomm Snapdragon 695,5000,6.59,2022,Excellent,3,229.0,0.30000000000000004,155.26
+Oppo,K10 5G 128GB,8,MediaTek Dimensity 8000-Max,5000,6.59,2022,Good,3,249.0,0.45,131.94
+Oppo,K9x 128GB,6,MediaTek Dimensity 810,5000,6.5,2021,Good,4,199.0,0.5,100.39
+Oppo,K9x 256GB,8,MediaTek Dimensity 810,5000,6.5,2021,regular,4,229.0,0.65,77.93
+Oppo,K9 Pro 5G 128GB,8,MediaTek Dimensity 1200,4500,6.43,2021,Good,4,299.0,0.5,145.03
+Oppo,K9 Pro 5G 256GB,12,MediaTek Dimensity 1200,4500,6.43,2021,Excellent,4,329.0,0.35,203.73
+Oppo,K9 5G 128GB,8,Qualcomm Snapdragon 768G,4300,6.43,2021,Excellent,4,279.0,0.35,176.89
+Oppo,K9 5G 256GB,8,Qualcomm Snapdragon 768G,4300,6.43,2021,Good,4,299.0,0.5,144.29
+Oppo,K7x 128GB,6,MediaTek Dimensity 720,5000,6.5,2020,Good,5,199.0,0.55,90.41
+Oppo,K7 5G 128GB,8,Qualcomm Snapdragon 765G,4025,6.4,2020,Excellent,5,279.0,0.4,167.42
+Oppo,K7 5G 256GB,8,Qualcomm Snapdragon 765G,4025,6.4,2020,Excellent,5,299.0,0.4,174.86
+Oppo,K11x 128GB,8,Qualcomm Snapdragon 695,5000,6.72,2023,Good,2,199.0,0.4,121.64
+Oppo,K11x 256GB,12,Qualcomm Snapdragon 695,5000,6.72,2023,Excellent,2,229.0,0.25,171.7
+Oppo,K11 128GB,8,Qualcomm Snapdragon 782G,5000,6.7,2023,regular,2,259.0,0.55,114.23
+Oppo,K11 256GB,12,Qualcomm Snapdragon 782G,5000,6.7,2023,Good,2,299.0,0.4,169.98
+Oppo,K10x 128GB,6,Qualcomm Snapdragon 695,5000,6.59,2022,Excellent,3,199.0,0.30000000000000004,142.0
+Oppo,K10x 256GB,8,Qualcomm Snapdragon 695,5000,6.59,2022,Excellent,3,229.0,0.30000000000000004,154.55
+Oppo,K10 5G 128GB,8,MediaTek Dimensity 8000-Max,5000,6.59,2022,regular,3,249.0,0.6000000000000001,95.65
+Oppo,K10 5G 256GB,12,MediaTek Dimensity 8000-Max,5000,6.59,2022,Good,3,279.0,0.45,153.5
+Oppo,K9x 128GB,6,MediaTek Dimensity 810,5000,6.5,2021,Good,4,199.0,0.5,101.65
+Oppo,K9x 256GB,8,MediaTek Dimensity 810,5000,6.5,2021,regular,4,229.0,0.65,80.61
+Oppo,K9 Pro 5G 128GB,8,MediaTek Dimensity 1200,4500,6.43,2021,regular,4,299.0,0.65,103.97
+Oppo,K9 Pro 5G 256GB,12,MediaTek Dimensity 1200,4500,6.43,2021,regular,4,329.0,0.65,114.45
+Oppo,K9 5G 128GB,8,Qualcomm Snapdragon 768G,4300,6.43,2021,Good,4,279.0,0.5,139.19
+Oppo,K9 5G 256GB,8,Qualcomm Snapdragon 768G,4300,6.43,2021,Good,4,299.0,0.5,148.96
+Oppo,K7x 128GB,6,MediaTek Dimensity 720,5000,6.5,2020,Excellent,5,199.0,0.4,118.11
+Oppo,K7 5G 128GB,8,Qualcomm Snapdragon 765G,4025,6.4,2020,Good,5,279.0,0.55,123.86
+Realme,GT 7 Pro 128GB,12,Qualcomm Snapdragon 8 Elite,6500,6.78,2024,Good,1,470.0,0.35,300.63
+Realme,GT 7 Pro 256GB,16,Qualcomm Snapdragon 8 Elite,6500,6.78,2024,Good,1,500.0,0.35,316.45
+Realme,GT 6 128GB,8,Qualcomm Snapdragon 8s Gen 3,5500,6.78,2023,regular,2,380.0,0.55,167.72
+Realme,GT 6 256GB,12,Qualcomm Snapdragon 8s Gen 3,5500,6.78,2023,Excellent,2,400.0,0.25,287.88
+Realme,GT 6 512GB,16,Qualcomm Snapdragon 8s Gen 3,5500,6.78,2023,Good,2,420.0,0.4,247.85
+Realme,GT 6T 128GB,8,Qualcomm Snapdragon 7 Plus Gen 3,5500,6.78,2023,Excellent,2,360.0,0.25,261.95
+Realme,GT 6T 256GB,8,Qualcomm Snapdragon 7 Plus Gen 3,5500,6.78,2023,Good,2,380.0,0.4,220.81
 Realme,14 Pro+ 5G 256GB,12,Qualcomm Snapdragon 7s Gen 3,6000,6.83,2025,Excellent,1,340.0,0.2,268.65
 Realme,14 Pro+ 5G 512GB,12,Qualcomm Snapdragon 7s Gen 3,6000,6.83,2025,Excellent,1,360.0,0.2,289.69
 Realme,14 Pro 5G 128GB,8,MediaTek Dimensity 7300 Energy,5800,6.7,2025,Excellent,1,320.0,0.2,255.69
 Realme,14 Pro 5G 256GB,8,MediaTek Dimensity 7300 Energy,5800,6.7,2025,Good,1,340.0,0.35,212.48
 Realme,14x 5G 128GB,6,Qualcomm Snapdragon 7s Gen 2,5500,6.6,2025,Good,1,270.0,0.35,170.26
 Realme,14x 5G 256GB,8,Qualcomm Snapdragon 7s Gen 2,5500,6.6,2025,Good,1,290.0,0.35,188.33
-Realme,13+ 5G 128GB,8,MediaTek Dimensity 7200,5000,6.5,2024,regular,2,250.0,0.55,109.15
-Realme,13+ 5G 256GB,8,MediaTek Dimensity 7200,5000,6.5,2024,Good,2,270.0,0.4,159.02
-Realme,13 5G 128GB,6,MediaTek Dimensity 6100+,5000,6.6,2024,Good,2,220.0,0.4,131.11
-Realme,13 5G 256GB,8,MediaTek Dimensity 6100+,5000,6.6,2024,regular,2,240.0,0.55,104.81
-Realme,13 Pro 5G 128GB,8,Qualcomm Snapdragon 7s Gen 2,5200,6.7,2024,Good,2,300.0,0.4,177.58
-Realme,13 Pro 5G 256GB,12,Qualcomm Snapdragon 7s Gen 2,5200,6.7,2024,regular,2,320.0,0.55,138.96
-Realme,13 Pro+ 5G 256GB,12,Qualcomm Snapdragon 7+ Gen 2,5500,6.78,2024,Excellent,2,360.0,0.25,263.51
-Realme,13 Pro+ 5G 512GB,16,Qualcomm Snapdragon 7+ Gen 2,5500,6.78,2024,regular,2,380.0,0.55,169.26
-Realme,P1 Speed 5G 128GB,8,MediaTek Dimensity 8100,5100,6.7,2024,Excellent,2,250.0,0.25,180.21
-Realme,P1 Speed 5G 256GB,12,MediaTek Dimensity 8100,5100,6.7,2024,regular,2,270.0,0.55,120.48
-Realme,P2 Pro 5G 256GB,12,Qualcomm Snapdragon 7+ Gen 3,5500,6.78,2024,Good,2,340.0,0.4,200.88
-Realme,P2 Pro 5G 512GB,16,Qualcomm Snapdragon 7+ Gen 3,5500,6.78,2024,regular,2,360.0,0.55,160.91
-Realme,P1 5G 128GB,6,MediaTek Dimensity 6100+,5000,6.6,2024,Excellent,2,200.0,0.25,148.25
-Realme,P1 5G 256GB,8,MediaTek Dimensity 6100+,5000,6.6,2024,Good,2,220.0,0.4,132.72
-Realme,P1 Pro 5G 128GB,8,Qualcomm Snapdragon 7s Gen 1,5200,6.7,2024,regular,2,270.0,0.55,119.91
-Realme,P1 Pro 5G 256GB,12,Qualcomm Snapdragon 7s Gen 1,5200,6.7,2024,Good,2,290.0,0.4,170.27
-Realme,Narzo 70 Turbo 5G 128GB,8,MediaTek Dimensity 810,5000,6.6,2024,Good,2,240.0,0.4,142.1
-Realme,Narzo 70 Turbo 5G 256GB,8,MediaTek Dimensity 810,5000,6.6,2024,Good,2,260.0,0.4,154.93
-Realme,Narzo N61 128GB,6,MediaTek Helio G99,5000,6.5,2024,Good,2,180.0,0.4,106.46
-Realme,Narzo N63 128GB,6,MediaTek Helio G88,5000,6.5,2024,Good,2,160.0,0.4,94.62
-Realme,Narzo N65 5G 128GB,8,MediaTek Dimensity 700,5000,6.6,2024,Good,2,210.0,0.4,122.78
-Realme,Narzo 70 5G 128GB,8,MediaTek Dimensity 810,5200,6.6,2024,regular,2,230.0,0.55,100.92
-Realme,C75 128GB,6,MediaTek Helio G85,5000,6.6,2024,Excellent,2,160.0,0.25,115.68
-Realme,C75 256GB,8,MediaTek Helio G85,5000,6.6,2024,Good,2,180.0,0.4,109.21
-Realme,C61 128GB,4,Unisoc T612,5000,6.5,2024,regular,2,130.0,0.55,56.53
-Realme,C67 128GB,6,MediaTek Helio G88,5000,6.6,2024,regular,2,170.0,0.55,74.56
-Realme,C67 256GB,8,MediaTek Helio G88,5000,6.6,2024,Good,2,190.0,0.4,111.06
-Realme,C65 128GB,6,Qualcomm Snapdragon 680,5000,6.6,2024,Good,2,160.0,0.4,95.85
-Realme,C65 256GB,8,Qualcomm Snapdragon 680,5000,6.6,2024,Good,2,180.0,0.4,105.9
-Realme,C63 128GB,6,MediaTek Helio G85,5000,6.6,2024,Excellent,2,150.0,0.25,112.92
-Realme,C55 128GB,6,MediaTek Helio G88,5000,6.72,2023,Good,3,170.0,0.45,91.15
-Realme,C55 256GB,8,MediaTek Helio G88,5000,6.72,2023,Good,3,190.0,0.45,103.37
-Realme,Note 60x 128GB,6,MediaTek Dimensity 6100+,5200,6.6,2024,Good,2,210.0,0.4,122.53
-Realme,Note 60 128GB,6,MediaTek Dimensity 810,5200,6.6,2024,Excellent,2,220.0,0.25,167.83
-Realme,Note 60 256GB,8,MediaTek Dimensity 810,5200,6.6,2024,regular,2,240.0,0.55,104.46
-Realme,Note 50 128GB,6,MediaTek Helio G99,5000,6.5,2024,regular,2,170.0,0.55,75.71
-Realme,GT 7 128GB,8,Qualcomm Snapdragon 8 Gen 2,5200,6.8,2024,Good,2,440.0,0.4,262.55
-Realme,GT 7 256GB,12,Qualcomm Snapdragon 8 Gen 2,5200,6.8,2024,Good,2,500.0,0.4,297.36
-Realme,Neo 7 128GB,8,MediaTek Dimensity 8200,5000,6.7,2024,Good,2,330.0,0.4,194.48
-Realme,Neo 7 256GB,12,MediaTek Dimensity 8200,5000,6.7,2024,regular,2,380.0,0.55,168.1
-Realme,P2 Pro 5G 128GB,8,MediaTek Dimensity 9200,5100,6.7,2024,Good,2,350.0,0.4,206.99
-Realme,P2 Pro 5G 256GB,12,MediaTek Dimensity 9200,5100,6.7,2024,Excellent,2,400.0,0.25,294.84
-Realme,Pad 64GB,4,MediaTek Helio G80,7100,10.4,2021,regular,5,200.0,0.7,59.97
-Realme,Pad 128GB,6,MediaTek Helio G80,7100,10.4,2021,regular,5,230.0,0.7,70.25
-Realme,Pad 2 128GB,6,MediaTek Helio G99,8360,11.5,2023,regular,3,280.0,0.6000000000000001,109.38
-Realme,Pad 2 256GB,8,MediaTek Helio G99,8360,11.5,2023,Good,3,320.0,0.45,169.74
-Realme,Pad 2 Lite 64GB,4,MediaTek Helio G85,7100,10.4,2023,Good,3,190.0,0.45,102.79
-Realme,Pad 2 Lite 128GB,6,MediaTek Helio G85,7100,10.4,2023,Good,3,210.0,0.45,118.24
-Realme,Pad X 64GB,4,Qualcomm Snapdragon 695,8340,11.0,2022,regular,4,310.0,0.65,105.56
-Realme,Pad X 128GB,6,Qualcomm Snapdragon 695,8340,11.0,2022,regular,4,350.0,0.65,123.67
-Realme,Pad Mini 32GB,3,Unisoc T616,6400,8.7,2022,Excellent,4,160.0,0.35,105.06
-Realme,Pad Mini 64GB,4,Unisoc T616,6400,8.7,2022,Excellent,4,180.0,0.35,114.27
-Realme,Pad Slim 64GB,4,MediaTek Helio G80,7100,10.4,2022,Good,4,200.0,0.5,99.35
-Realme,Pad Slim 128GB,6,MediaTek Helio G80,7100,10.4,2022,regular,4,220.0,0.65,77.73
-Realme,TechLife Pad Neo 64GB,4,MediaTek Helio G85,7200,10.5,2024,regular,2,210.0,0.55,92.55
-Realme,TechLife Pad Neo 128GB,6,MediaTek Helio G85,7200,10.5,2024,Excellent,2,230.0,0.25,169.39
-Xiaomi,Xiaomi 15 Pro 256GB,12,Snapdragon 8 Elite,6100,6.73,2024,Good,2,799.0,0.4,468.03
-Xiaomi,Xiaomi 15 Pro 512GB,16,Snapdragon 8 Elite,6100,6.73,2024,Good,2,899.0,0.4,523.1
-Xiaomi,Xiaomi 15 Pro 1TB,16,Snapdragon 8 Elite,6100,6.73,2024,regular,2,999.0,0.55,438.43
-Xiaomi,Xiaomi 15 256GB,12,Snapdragon 8 Elite,5400,6.36,2024,regular,2,699.0,0.55,304.06
-Xiaomi,Xiaomi 15 512GB,16,Snapdragon 8 Elite,5400,6.36,2024,regular,2,799.0,0.55,354.34
-Xiaomi,Xiaomi 14T Pro 256GB,12,Dimensity 9300+,5000,6.67,2024,Good,2,634.99,0.4,370.88
-Xiaomi,Xiaomi 14T Pro 512GB,12,Dimensity 9300+,5000,6.67,2024,Good,2,790.77,0.4,469.01
-Xiaomi,Xiaomi 14T Pro 1TB,12,Dimensity 9300+,5000,6.67,2024,Good,2,899.0,0.4,518.72
-Xiaomi,Xiaomi 14T 256GB,12,Dimensity 8300-Ultra,5000,6.67,2024,Excellent,2,599.0,0.25,444.74
-Xiaomi,Xiaomi 14T 512GB,12,Dimensity 8300-Ultra,5000,6.67,2024,regular,2,699.0,0.55,313.76
-Xiaomi,Xiaomi 14 Pro 256GB,12,Snapdragon 8 Gen 3,5000,6.73,2023,regular,3,799.0,0.6000000000000001,305.25
-Xiaomi,Xiaomi 14 Pro 512GB,12,Snapdragon 8 Gen 3,5000,6.73,2023,regular,3,899.0,0.6000000000000001,356.22
-Xiaomi,Xiaomi 14 256GB,12,Snapdragon 8 Gen 3,4610,6.36,2023,regular,3,699.0,0.6000000000000001,280.55
-Xiaomi,Xiaomi 14 512GB,12,Snapdragon 8 Gen 3,4610,6.36,2023,Good,3,799.0,0.45,424.88
-Xiaomi,Redmi Note 14 Pro+ 5G 128GB,8,Snapdragon 7s Gen 3,5110,6.67,2024,Good,2,374.9,0.4,227.21
-Xiaomi,Redmi Note 14 Pro+ 5G 256GB,12,Snapdragon 7s Gen 3,5110,6.67,2024,regular,2,399.0,0.55,177.99
-Xiaomi,Redmi Note 14 Pro+ 5G 512GB,16,Snapdragon 7s Gen 3,5110,6.67,2024,regular,2,429.0,0.55,188.11
-Xiaomi,Redmi Note 14 Pro 5G 128GB,8,MediaTek Dimensity 7300-Ultra,5500,6.67,2024,Good,2,349.0,0.4,206.08
-Xiaomi,Redmi Note 14 Pro 5G 256GB,12,MediaTek Dimensity 7300-Ultra,5500,6.67,2024,Good,2,379.0,0.4,225.89
-Xiaomi,Redmi Note 14 Pro 4G 128GB,6,Qualcomm Snapdragon 732G,5000,6.67,2024,Excellent,2,299.0,0.25,221.14
-Xiaomi,Redmi Note 14 Pro 4G 256GB,8,Qualcomm Snapdragon 732G,5000,6.67,2024,regular,2,329.0,0.55,147.03
-Xiaomi,Redmi Note 14 5G 128GB,6,MediaTek Dimensity 7025-Ultra,5000,6.67,2024,Good,2,279.0,0.4,162.58
-Xiaomi,Redmi Note 14 5G 256GB,8,MediaTek Dimensity 7025-Ultra,5000,6.67,2024,Good,2,309.0,0.4,183.09
-Xiaomi,Redmi Note 14 4G 128GB,4,Qualcomm Snapdragon 680,5000,6.67,2024,Good,2,249.0,0.4,143.99
-Xiaomi,Redmi Note 14 4G 256GB,6,Qualcomm Snapdragon 680,5000,6.67,2024,Good,2,279.0,0.4,164.61
-Xiaomi,Redmi 14C 5G 64GB,4,MediaTek Dimensity 700,5000,6.5,2024,Good,2,199.0,0.4,115.99
-Xiaomi,Redmi 14C 5G 128GB,6,MediaTek Dimensity 700,5000,6.5,2024,Excellent,2,229.0,0.25,167.28
-Lenovo,Legion Y70 128GB,8,Snapdragon 8+ Gen 1,5100,6.67,2022,Good,4,499.0,0.5,250.38
-Lenovo,Legion Y70 256GB,12,Snapdragon 8+ Gen 1,5100,6.67,2022,Good,4,549.0,0.5,274.88
-Lenovo,Legion Y70 512GB,16,Snapdragon 8+ Gen 1,5100,6.67,2022,Good,4,599.0,0.5,297.74
-Lenovo,K14 Plus 64GB,4,Unisoc T700,5000,6.5,2022,Good,4,199.0,0.5,96.38
-Lenovo,K14 Plus 128GB,6,Unisoc T700,5000,6.5,2022,regular,4,229.0,0.65,78.57
-Lenovo,K13 Pro 128GB,6,Snapdragon 662,5000,6.8,2021,Good,5,249.0,0.55,112.41
-Lenovo,K13 32GB,2,Unisoc SC9863A,5000,6.52,2021,Good,5,149.0,0.55,66.19
-Lenovo,K13 Note 64GB,4,Snapdragon 460,5000,6.5,2021,regular,5,199.0,0.7,60.88
-Lenovo,K10 Plus 64GB,4,Snapdragon 632,4050,6.22,2019,Good,7,179.0,0.65,62.08
-Lenovo,A6 Note 32GB,3,Helio P22,4000,6.09,2019,Excellent,7,149.0,0.5,73.6
-Lenovo,K10 Note 64GB,4,Snapdragon 710,4050,6.3,2019,Excellent,7,219.0,0.5,107.35
-Lenovo,K10 Note 128GB,6,Snapdragon 710,4050,6.3,2019,Good,7,249.0,0.65,86.02
-Lenovo,Z6 Pro 128GB,6,Snapdragon 855,4000,6.39,2019,Good,7,429.0,0.65,147.55
-Lenovo,Z6 Pro 256GB,8,Snapdragon 855,4000,6.39,2019,Good,7,479.0,0.65,166.92
-Lenovo,Z5 Pro 64GB,6,Snapdragon 710,3350,6.39,2018,Good,8,299.0,0.7,89.64
-Motorola,Edge 50 Fusion 128GB,8,Snapdragon 7 Gen 1,5000,6.7,2024,Excellent,2,499.0,0.25,364.22
-Motorola,Edge 50 Fusion 256GB,12,Snapdragon 7 Gen 1,5000,6.7,2024,Excellent,2,549.0,0.25,397.35
-Motorola,Edge 50 Pro 128GB,8,Snapdragon 7 Gen 3,4500,6.7,2024,Good,2,549.0,0.4,315.39
-Motorola,Edge 50 Pro 256GB,12,Snapdragon 7 Gen 3,4500,6.7,2024,Good,2,599.0,0.4,356.75
-Motorola,Razr 128GB,8,Snapdragon 8+ Gen 1,3500,6.7,2023,Good,3,999.0,0.45,532.11
-Motorola,Razr 256GB,12,Snapdragon 8+ Gen 1,3500,6.7,2023,Good,3,1099.0,0.45,575.86
-Motorola,G84 5G 128GB,8,Snapdragon 695,5000,6.5,2023,regular,3,299.0,0.6000000000000001,118.5
-Motorola,G84 5G 256GB,12,Snapdragon 695,5000,6.5,2023,Good,3,349.0,0.45,196.25
-Motorola,Moto G Stylus 64GB,4,MediaTek Helio G88,5000,6.8,2023,Good,3,199.0,0.45,107.8
-Motorola,Moto G Stylus 128GB,6,MediaTek Helio G88,5000,6.8,2023,Good,3,249.0,0.45,136.62
-Motorola,One Vision 3 128GB,6,Exynos 9609,3500,6.3,2024,Good,2,299.0,0.4,176.93
-Motorola,One Vision 3 256GB,8,Exynos 9609,3500,6.3,2024,Good,2,349.0,0.4,205.95
-Motorola,Edge 50 Lite 128GB,6,Snapdragon 695,5000,6.7,2024,regular,2,399.0,0.55,179.33
-Motorola,Edge 50 Lite 256GB,8,Snapdragon 695,5000,6.7,2024,regular,2,449.0,0.55,198.14
-Motorola,Moto E40 Plus 64GB,4,Unisoc T700,5000,6.5,2023,Excellent,3,199.0,0.30000000000000004,137.77
-Motorola,Moto E40 Plus 128GB,6,Unisoc T700,5000,6.5,2023,regular,3,229.0,0.6000000000000001,90.67
-Motorola,Moto G Power 64GB,4,Snapdragon 662,5000,6.6,2022,Good,4,249.0,0.5,121.38
-Motorola,Moto G Power 128GB,6,Snapdragon 662,5000,6.6,2022,Good,4,279.0,0.5,139.48
-Motorola,Moto G Play 32GB,3,MediaTek Helio G25,5000,6.5,2022,Good,4,149.0,0.5,73.19
-Motorola,Moto G Play 64GB,4,MediaTek Helio G25,5000,6.5,2022,regular,4,179.0,0.65,61.0
-Motorola,Moto G75 5G 128GB,8,Snapdragon 6 Gen 3,5000,6.78,2024,Good,2,320.0,0.4,190.67
-Motorola,Moto G75 5G 256GB,8,Snapdragon 6 Gen 3,5000,6.78,2024,Good,2,370.0,0.4,215.68
-Motorola,Moto S50 128GB,8,MediaTek Dimensity 8100,4500,6.7,2024,Good,2,300.0,0.4,177.38
-Motorola,Moto S50 256GB,12,MediaTek Dimensity 8100,4500,6.7,2024,Good,2,350.0,0.4,206.82
-Motorola,Edge 50 Neo 256GB,8,MediaTek Dimensity 7300,4310,6.4,2024,Excellent,2,400.0,0.25,300.39
-Motorola,Edge 50 Neo 512GB,12,MediaTek Dimensity 7300,4310,6.4,2024,Excellent,2,450.0,0.25,334.84
-Motorola,Moto G55 128GB,8,MediaTek Dimensity 7025,5000,6.49,2024,Excellent,2,270.0,0.25,199.39
-Motorola,Moto G55 256GB,8,MediaTek Dimensity 7025,5000,6.49,2024,Excellent,2,320.0,0.25,239.34
-Motorola,Moto G35 128GB,4,Unisoc T760,5000,6.72,2024,Excellent,2,200.0,0.25,150.88
-Motorola,Moto G35 256GB,8,Unisoc T760,5000,6.72,2024,Good,2,250.0,0.4,149.01
-Motorola,Moto G45 128GB,6,Snapdragon 6s Gen 3,5000,6.5,2024,Excellent,2,250.0,0.25,184.72
-Motorola,Moto G45 256GB,8,Snapdragon 6s Gen 3,5000,6.5,2024,Good,2,300.0,0.4,173.76
-Motorola,Edge 50 256GB,8,Snapdragon 7s Gen 2,4700,6.7,2024,regular,2,450.0,0.55,196.23
-Motorola,Edge 50 512GB,12,Snapdragon 7s Gen 2,4700,6.7,2024,Good,2,500.0,0.4,294.13
-Motorola,Razr 50 Ultra 512GB,12,Snapdragon 8+ Gen 1,4000,6.9,2024,Good,2,1199.0,0.4,702.03
-Motorola,Razr 50 256GB,8,Snapdragon 7 Gen 1,3800,6.7,2024,Excellent,2,999.0,0.25,735.91
-Motorola,Moto G85 128GB,8,Snapdragon 6s Gen 3,5000,6.67,2024,Excellent,2,320.0,0.25,236.6
-Motorola,Moto G85 256GB,12,Snapdragon 6s Gen 3,5000,6.67,2024,Excellent,2,370.0,0.25,275.54
-Motorola,S50 Neo 256GB,8,MediaTek Dimensity 7200,4300,6.5,2024,Excellent,2,300.0,0.25,221.39
-Motorola,S50 Neo 512GB,12,MediaTek Dimensity 7200,4300,6.5,2024,Good,2,350.0,0.4,208.38
-Motorola,Moto E14 64GB,4,Unisoc T606,5000,6.5,2024,Excellent,2,150.0,0.25,110.92
-Motorola,Moto E14 128GB,4,Unisoc T606,5000,6.5,2024,Excellent,2,180.0,0.25,128.97
-Motorola,Edge 256GB,8,Snapdragon 7s Gen 2,4700,6.7,2024,Excellent,2,450.0,0.25,327.68
-Motorola,Edge 512GB,12,Snapdragon 7s Gen 2,4700,6.7,2024,Good,2,500.0,0.4,294.85
-Motorola,Moto X50 Ultra 512GB,12,Snapdragon 8 Gen 3,5000,6.9,2024,Good,2,1499.0,0.4,869.59
-Motorola,Moto G Stylus 5G 256GB,6,Snapdragon 6 Gen 1,5000,6.8,2024,Good,2,300.0,0.4,178.92
-Motorola,Moto G Stylus 5G 512GB,8,Snapdragon 6 Gen 1,5000,6.8,2024,Good,2,350.0,0.4,211.67
-Motorola,Edge 50 Ultra 512GB,12,Snapdragon 8 Gen 3,5000,6.9,2024,Good,2,1499.0,0.4,902.35
-Motorola,Edge 30 Fusion 128GB,8,Snapdragon 888+ 5G,4400,6.55,2022,Excellent,4,699.0,0.35,446.08
-Motorola,Edge 30 Fusion 256GB,12,Snapdragon 888+ 5G,4400,6.55,2022,Good,4,749.0,0.5,377.26
-Motorola,Edge 30 Neo 128GB,6,Snapdragon 695 5G,4020,6.28,2022,Good,4,499.0,0.5,246.31
-Motorola,Edge 30 Neo 256GB,8,Snapdragon 695 5G,4020,6.28,2022,Excellent,4,549.0,0.35,349.69
-Motorola,Moto G82 5G 128GB,6,Snapdragon 695 5G,5000,6.6,2022,regular,4,399.0,0.65,136.27
-Motorola,Moto G82 5G 256GB,8,Snapdragon 695 5G,5000,6.6,2022,regular,4,449.0,0.65,154.08
-Motorola,Moto G62 5G 128GB,4,Snapdragon 480+ 5G,5000,6.5,2022,Excellent,4,349.0,0.35,222.13
-Motorola,Moto G62 5G 256GB,6,Snapdragon 480+ 5G,5000,6.5,2022,Good,4,399.0,0.5,197.02
-Motorola,Moto G42 128GB,4,Snapdragon 680 4G,5000,6.4,2022,regular,4,299.0,0.65,103.33
-Motorola,Moto G32 128GB,4,Snapdragon 680 4G,5000,6.5,2022,Good,4,279.0,0.5,137.41
-Motorola,Moto E32s 64GB,3,MediaTek Helio G37,5000,6.5,2022,Excellent,4,199.0,0.35,128.26
-Motorola,Moto E22i 32GB,2,MediaTek Helio G37,4020,6.5,2022,Good,4,179.0,0.5,89.76
-Motorola,Moto E22 64GB,4,MediaTek Helio G37,4020,6.5,2022,Good,4,199.0,0.5,99.42
-Motorola,Moto G22 64GB,4,MediaTek Helio G37,5000,6.5,2022,Good,4,249.0,0.5,119.86
-Huawei,P50,8,Snapdragon 888 4G,4100,6.5,2021,Good,5,699.0,0.55,297.78
-Huawei,P50 Pro,8,Snapdragon 888 4G,4360,6.6,2021,Good,5,899.0,0.55,404.15
-Huawei,P50 Pocket,8,Snapdragon 888 4G,4000,6.9,2021,Good,5,1299.0,0.55,563.8
-Huawei,Mate 40E,8,Kirin 990E 5G,4200,6.5,2021,Good,5,799.0,0.55,352.94
-Huawei,Mate X2,8,Kirin 9000 5G,4500,8.0,2021,Excellent,5,2699.0,0.4,1566.69
-Huawei,Nova 9,8,Snapdragon 778G 4G,4300,6.57,2021,Good,5,499.0,0.55,215.11
-Huawei,Nova 9 Pro,8,Snapdragon 778G 4G,4000,6.72,2021,Good,5,599.0,0.55,267.7
-Huawei,P50E,8,Snapdragon 778G 4G,4100,6.5,2022,regular,4,649.0,0.65,226.33
-Huawei,Mate Xs 2,8,Snapdragon 888 4G,4600,7.8,2022,Good,4,2499.0,0.5,1219.95
-Huawei,Mate 50,8,Snapdragon 8+ Gen 1 4G,4460,6.7,2022,Good,4,999.0,0.5,472.59
-Huawei,Mate 50 Pro,8,Snapdragon 8+ Gen 1 4G,4700,6.74,2022,Excellent,4,1199.0,0.35,761.27
-Huawei,Nova 10,8,Snapdragon 778G 4G,4000,6.67,2022,Good,4,499.0,0.5,247.22
-Huawei,Nova 10 Pro,8,Snapdragon 778G 4G,4500,6.78,2022,Good,4,599.0,0.5,288.36
-Huawei,Nova 10 SE,8,Snapdragon 680 4G,4500,6.67,2022,Good,4,399.0,0.5,197.06
-Huawei,P60,8,Snapdragon 8+ Gen 1 4G,4815,6.67,2023,Good,3,999.0,0.45,541.08
-Huawei,P60 Pro,12,Snapdragon 8+ Gen 1 4G,4815,6.67,2023,Good,3,1099.0,0.45,600.64
-Huawei,P60 Art,12,Snapdragon 8+ Gen 1 4G,5100,6.73,2023,Excellent,3,1299.0,0.30000000000000004,897.29
-Huawei,Mate X3,12,Snapdragon 8+ Gen 1 4G,4800,7.85,2023,Good,3,2499.0,0.45,1333.77
-Huawei,Mate 60,12,Kirin 9000S,4750,6.7,2023,Good,3,1099.0,0.45,606.23
-Huawei,Mate 60 Pro,12,Kirin 9000S,5000,6.82,2023,Good,3,1299.0,0.45,702.03
-Huawei,Mate 60 Pro+,12,Kirin 9000S,5200,6.82,2023,Excellent,3,1499.0,0.30000000000000004,1033.13
-Huawei,Nova 11,8,Snapdragon 778G 4G,4500,6.7,2023,regular,3,499.0,0.6000000000000001,193.81
-Huawei,Nova 11 Pro,8,Snapdragon 778G 4G,4500,6.78,2023,Good,3,599.0,0.45,322.32
-Huawei,Nova 11 Ultra,12,Snapdragon 778G 4G,4500,6.78,2023,Good,3,699.0,0.45,373.58
-Huawei,Pura 70,12,Kirin 9010,4900,6.8,2024,Good,2,999.0,0.4,588.85
-Huawei,Pura 70 Pro,12,Kirin 9010,5050,6.8,2024,Good,2,1099.0,0.4,666.44
-Huawei,Pura 70 Pro+,12,Kirin 9010,5050,6.8,2024,Excellent,2,1199.0,0.25,867.26
-Huawei,Pura 70 Ultra,16,Kirin 9010,5200,6.8,2024,Good,2,1299.0,0.4,748.84
-Huawei,Mate 70,12,Kirin 9010,4900,6.7,2024,Good,2,899.0,0.4,543.21
-Huawei,Mate 70 Pro,12,Kirin 9010,5000,6.8,2024,Good,2,999.0,0.4,588.53
-Huawei,Mate 70 Pro+,12,Kirin 9010,5000,6.8,2024,Good,2,1099.0,0.4,642.89
-Huawei,Mate X6,12,Kirin 9010,4800,7.93,2024,Excellent,2,2499.0,0.25,1875.37
-Huawei,Nova 12,8,Kirin 9000S,4500,6.7,2024,Good,2,499.0,0.4,292.19
-Huawei,Nova 12 Pro,8,Kirin 9000S,4500,6.78,2024,Good,2,599.0,0.4,363.85
-Huawei,Mate XT 256GB,12,Kirin 9010,5000,7.92,2024,Good,2,2599.0,0.4,1551.87
-Huawei,Mate XT 512GB,12,Kirin 9010,5000,7.92,2024,Good,2,2799.0,0.4,1641.92
-Huawei,Nova 13 256GB,8,Kirin 9000S,4600,6.7,2024,Good,2,529.0,0.4,322.91
-Huawei,Nova 13 512GB,8,Kirin 9000S,4600,6.7,2024,regular,2,599.0,0.55,263.06
-Huawei,Nova 13 Pro 256GB,8,Kirin 9000S,4600,6.78,2024,Good,2,649.0,0.4,387.89
-Huawei,Nova 13 Pro 512GB,8,Kirin 9000S,4600,6.78,2024,Good,2,729.0,0.4,432.8
-Nokia,G42 5G 128GB,4,Snapdragon 480+,5000,6.56,2023,Excellent,3,229.0,0.30000000000000004,161.03
-Nokia,G20 64GB,4,MediaTek G35,5050,6.52,2021,Excellent,5,169.0,0.4,102.25
-Nokia,G20 128GB,4,MediaTek G35,5050,6.52,2021,Good,5,189.0,0.55,83.82
-Nokia,C32 64GB,3,Unisoc SC9863A,5000,6.52,2023,Excellent,3,139.0,0.30000000000000004,94.74
-Nokia,C32 128GB,4,Unisoc SC9863A,5000,6.52,2023,Excellent,3,159.0,0.30000000000000004,110.4
-Nokia,G21 64GB,4,Unisoc T606,5050,6.5,2022,Good,4,169.0,0.5,82.37
-Nokia,G21 128GB,6,Unisoc T606,5050,6.5,2022,Excellent,4,189.0,0.35,124.72
-Nokia,C22 64GB,2,Unisoc SC9863A,5000,6.5,2023,regular,3,119.0,0.6000000000000001,46.98
-Nokia,C22 128GB,3,Unisoc SC9863A,5000,6.5,2023,Excellent,3,139.0,0.30000000000000004,95.31
-Nokia,G400 128GB,6,Snapdragon 480,5000,6.58,2022,Good,4,239.0,0.5,118.04
-Sony,Xperia 1 IV 256GB,12,Snapdragon 8 Gen 1,5000,6.5,2022,Good,4,1599.0,0.5,771.35
-Sony,Xperia 5 IV 128GB,8,Snapdragon 8 Gen 1,5000,6.1,2022,regular,4,999.0,0.65,339.31
-Sony,Xperia 10 IV 128GB,6,Snapdragon 695,5000,6.0,2022,Excellent,4,499.0,0.35,325.33
-Sony,Xperia 1 V 256GB,12,Snapdragon 8 Gen 2,5000,6.5,2023,Good,3,1699.0,0.45,911.23
-Sony,Xperia 5 V 128GB,8,Snapdragon 8 Gen 2,5000,6.1,2023,regular,3,1099.0,0.6000000000000001,426.1
-Sony,Xperia 10 V 128GB,6,Snapdragon 695,5000,6.1,2023,regular,3,599.0,0.6000000000000001,237.93
-Sony,Xperia 1 VI 256GB,12,Snapdragon 8 Gen 3,5000,6.5,2024,regular,2,1799.0,0.55,811.81
-Sony,Xperia 5 VI 128GB,8,Snapdragon 8 Gen 3,5000,6.1,2024,Good,2,1199.0,0.4,716.37
-Sony,Xperia 10 VI 128GB,6,Snapdragon 7 Gen 1,5000,6.1,2024,Excellent,2,699.0,0.25,524.22
-Nokia,T21,4,Unisoc T612,8200,10.4,2022,Good,4,39622.0,0.5,19288.94
-Huawei,MatePad Pro 12.2 512GB,12,Kirin 9000S,10100,12.2,2024,regular,2,999.0,0.55,433.22
-Huawei,MatePad Pro 13.2 512GB,12,Kirin 9000S,10100,13.2,2024,Good,2,877.0,0.4,530.16
-Google,Pixel 3a 64GB,4,Snapdragon 670,3000,5.6,2019,Good,7,399.0,0.65,136.88
-Google,Pixel 3a XL 64GB,4,Snapdragon 670,3700,6.0,2019,Good,7,479.0,0.65,164.5
-Google,Pixel 4 64GB,6,Snapdragon 855,2800,5.7,2019,Good,7,799.0,0.65,281.03
-Google,Pixel 4 XL 64GB,6,Snapdragon 855,3700,6.3,2019,Excellent,7,899.0,0.5,446.51
-Google,Pixel 4a 128GB,6,Snapdragon 730G,3140,5.8,2020,Good,6,349.0,0.6000000000000001,138.46
-Google,Pixel 4a 5G 128GB,6,Snapdragon 765G,3885,6.2,2020,Good,6,499.0,0.6000000000000001,203.09
-Google,Pixel 5 128GB,8,Snapdragon 765G,4080,6.0,2020,Good,6,699.0,0.6000000000000001,272.71
-Google,Pixel 5a 128GB,6,Snapdragon 765G,4680,6.34,2021,Good,5,449.0,0.55,201.83
-Google,Pixel 6 128GB,8,Google Tensor,4614,6.4,2021,Excellent,5,699.0,0.4,413.47
-Google,Pixel 6 Pro 256GB,12,Google Tensor,5003,6.71,2021,Good,5,899.0,0.55,400.11
-Google,Pixel 6a 128GB,6,Google Tensor,4410,6.1,2022,Good,4,449.0,0.5,226.28
-Google,Pixel 7 128GB,8,Google Tensor G2,4355,6.3,2022,Good,4,599.0,0.5,297.29
-Google,Pixel 7 Pro 256GB,12,Google Tensor G2,5000,6.7,2022,Excellent,4,899.0,0.35,580.3
-Google,Pixel 7a 128GB,8,Google Tensor G2,4385,6.1,2023,Good,3,499.0,0.45,274.75
-Google,Pixel 8 128GB,8,Google Tensor G3,4575,6.2,2023,Good,3,699.0,0.45,376.58
-Google,Pixel 8 Pro 256GB,12,Google Tensor G3,5050,6.7,2023,Excellent,3,999.0,0.30000000000000004,680.01
-Google,Pixel 8a 128GB,8,Google Tensor G3,4385,6.1,2024,Good,2,549.0,0.4,319.3
-Google,Pixel 9 128GB,8,Google Tensor G4,4600,6.3,2024,Excellent,2,799.0,0.25,572.59
-Google,Pixel 9 Pro 256GB,12,Google Tensor G4,5050,6.7,2024,Excellent,2,1099.0,0.25,837.31
-Google,Pixel 9 Pro XL 512GB,16,Google Tensor G4,5250,6.8,2024,regular,2,1299.0,0.55,566.11
-Google,Pixel 9 Pro Fold 512GB,16,Google Tensor G4,5500,7.6,2024,Good,2,1799.0,0.4,1059.63
-Tecno,Spark Go 1S 64GB,4,MediaTek Helio A22,5000,6.6,2024,regular,2,129.0,0.55,56.94
-Tecno,Megapad 11 256GB,8,MediaTek G99,8000,11.0,2024,Good,2,349.0,0.4,207.22
-Tecno,Pop 9 4G 64GB,3,Unisoc SC9863A,5000,6.52,2024,Good,2,99.0,0.4,59.24
-Tecno,Megapad 128GB,6,MediaTek Helio G80,7500,10.9,2024,Good,2,299.0,0.4,179.02
-Tecno,Camon 30S 256GB,8,MediaTek Dimensity 810,5200,6.8,2024,Good,2,499.0,0.4,292.29
-Tecno,Spark 30C 5G 128GB,6,MediaTek Dimensity 6100+,5000,6.6,2024,Good,2,199.0,0.4,117.31
-Tecno,Spark 30 5G 128GB,6,MediaTek Dimensity 6020,5000,6.6,2024,Good,2,229.0,0.4,135.92
-Tecno,Pop 9 64GB,3,Unisoc SC9832E,5000,6.52,2024,Good,2,89.0,0.4,52.4
-Tecno,Spark 30 Pro 256GB,8,MediaTek Helio G99,5200,6.8,2024,regular,2,269.0,0.55,122.15
-Tecno,Spark 30 128GB,4,MediaTek Helio G85,5000,6.6,2024,regular,2,179.0,0.55,79.93
-Tecno,Phantom V Fold2 512GB,12,MediaTek Dimensity 9200+,5500,7.85,2024,regular,2,1799.0,0.55,806.33
-Tecno,Phantom V Flip2 256GB,8,MediaTek Dimensity 8050,4300,6.9,2024,Excellent,2,999.0,0.25,745.46
-Tecno,Pova 6 Neo 5G 256GB,8,MediaTek Dimensity 810,6000,6.8,2024,Good,2,349.0,0.4,209.94
-Tecno,Spark 30C 128GB,4,MediaTek Helio G85,5000,6.6,2024,regular,2,149.0,0.55,66.23
-Tecno,Spark Go 1 64GB,3,Unisoc SC9863A,5000,6.52,2024,Excellent,2,99.0,0.25,71.69
-Tecno,Camon 30S Pro 512GB,12,MediaTek Dimensity 9200,5200,6.9,2024,Excellent,2,1099.0,0.25,816.83
-Tecno,Spark 20P 128GB,4,MediaTek Helio G85,5000,6.6,2024,Good,2,179.0,0.4,104.74
-Tecno,Spark 20 Pro 5G 256GB,8,MediaTek Dimensity 810,5200,6.8,2024,Good,2,329.0,0.4,192.87
-Tecno,Pova 6 Neo 256GB,8,MediaTek Helio G99,6000,6.8,2024,regular,2,299.0,0.55,133.72
-Tecno,Camon 30 Premier 512GB,12,MediaTek Dimensity 9200,5200,6.9,2024,Excellent,2,1199.0,0.25,902.46
-Tecno,Camon 30 Pro 512GB,12,MediaTek Dimensity 8200,5200,6.8,2024,Good,2,899.0,0.4,531.48
-Tecno,Camon 30 5G 256GB,8,MediaTek Dimensity 810,5000,6.7,2024,Good,2,499.0,0.4,296.3
-Tecno,Camon 30 128GB,6,MediaTek Helio G99,5000,6.7,2024,Excellent,2,349.0,0.25,264.51
-Tecno,Pova 6 Pro 512GB,12,MediaTek Dimensity 8100,6000,6.9,2024,Excellent,2,1099.0,0.25,814.86
-Tecno,Spark 20 Pro+ 256GB,8,MediaTek Helio G99,5200,6.8,2024,regular,2,269.0,0.55,123.96
-Tecno,Spark 20 Pro 128GB,6,MediaTek Helio G85,5000,6.6,2024,Good,2,199.0,0.4,118.62
-Tecno,Spark 20 128GB,4,MediaTek Helio G85,5000,6.6,2024,Good,2,179.0,0.4,102.95
-Tecno,Spark 20C 128GB,4,MediaTek Helio G85,5000,6.6,2024,Good,2,149.0,0.4,89.07
-Tecno,Spark Go 2024 64GB,3,Unisoc SC9863A,5000,6.52,2024,regular,2,99.0,0.55,44.14
-Tecno,Pop 8 64GB,3,Unisoc SC9832E,5000,6.52,2024,Good,2,89.0,0.4,53.63
-Tecno,Camon 20s Pro 5G 512GB,12,MediaTek Dimensity 9200,5200,6.9,2024,regular,2,1099.0,0.55,492.13
-Tecno,Camon 20s Pro 256GB,12,MediaTek Dimensity 810,5200,6.9,2024,Good,2,899.0,0.4,530.19
-Tecno,Camon 20s 256GB,8,MediaTek Helio G99,5000,6.7,2024,Good,2,449.0,0.4,260.41
-Tecno,Camon 20 Premier 512GB,12,MediaTek Dimensity 8200,5200,6.8,2024,Good,2,1049.0,0.4,617.99
-Tecno,Camon 20 Pro 5G 256GB,8,MediaTek Dimensity 810,5000,6.7,2024,Good,2,499.0,0.4,291.09
-Tecno,Camon 20 Pro 128GB,6,MediaTek Helio G99,5000,6.7,2024,Good,2,349.0,0.4,204.44
-Tecno,Camon 20 128GB,6,MediaTek Helio G99,5000,6.7,2024,Good,2,349.0,0.4,208.11
-Tecno,Pova 5G 512GB,8,MediaTek Dimensity 900,6000,6.9,2024,Good,2,699.0,0.4,423.61
-Tecno,Pova 5 256GB,8,MediaTek Helio G99,6000,6.8,2024,regular,2,329.0,0.55,146.71
-Infinix,Xpad,6,MediaTek Helio G99,7000,10.1,2024,Good,2,299.0,0.4,173.49
-Infinix,Xpad 5G,8,MediaTek Dimensity 810,8000,10.4,2024,Good,2,399.0,0.4,237.41
-Infinix,Xpad Lite,4,Unisoc T606,6000,9.7,2024,regular,2,219.0,0.55,98.84
-Infinix,Xpad Pro,12,MediaTek Dimensity 9200,9000,11.0,2024,Good,2,549.0,0.4,321.45
-Infinix,Hot 50,6,MediaTek Helio G85,5000,6.78,2024,Excellent,2,219.0,0.25,161.46
-Infinix,Hot 50i,4,Unisoc T606,5000,6.6,2024,regular,2,179.0,0.55,79.36
-Infinix,Hot 50 5G,8,MediaTek Dimensity 810,5200,6.78,2024,Good,2,289.0,0.4,168.76
-Infinix,Hot 50 Pro,8,MediaTek Helio G99,5000,6.8,2024,Good,2,269.0,0.4,160.55
-Infinix,Hot 50 Pro+,12,MediaTek Dimensity 9200,5300,6.9,2024,Excellent,2,379.0,0.25,279.47
-Infinix,GT 20 Pro,12,MediaTek Dimensity 8200,5500,6.9,2024,Good,2,449.0,0.4,267.05
-Infinix,Note 40X 5G,8,MediaTek Dimensity 7200,5200,6.8,2024,Good,2,349.0,0.4,203.47
-Infinix,Note 40S,8,MediaTek Helio G99,5000,6.78,2024,Good,2,279.0,0.4,163.79
-Infinix,Note 40 5G,8,MediaTek Dimensity 8100,5200,6.8,2024,regular,2,319.0,0.55,142.95
-Infinix,Note 40 Pro 5G,12,MediaTek Dimensity 9000,5300,6.8,2024,Good,2,399.0,0.4,234.47
-Infinix,Note 40 Racing Edition,12,MediaTek Dimensity 9200,5500,6.9,2024,Excellent,2,449.0,0.25,340.42
-Infinix,Hot 40,8,MediaTek Helio G88,5000,6.78,2023,Good,3,199.0,0.45,107.15
-Infinix,Hot 40i,4,Unisoc T606,5000,6.6,2023,Good,3,159.0,0.45,86.43
-Infinix,Hot 40 Pro,8,MediaTek Helio G99,5000,6.78,2023,Good,3,229.0,0.45,125.82
-Infinix,Zero 40,12,MediaTek Dimensity 8200,5000,6.78,2024,Excellent,2,349.0,0.25,252.25
-Infinix,Zero 40 5G,12,MediaTek Dimensity 8200,5000,6.78,2024,Good,2,379.0,0.4,217.98
-Infinix,Zero Flip,8,Qualcomm Snapdragon 778G,4500,6.7,2024,Good,2,399.0,0.4,230.33
-Infinix,Note 40,8,MediaTek Helio G99,5000,6.78,2024,regular,2,279.0,0.55,126.04
-Infinix,Note 40 Pro,12,MediaTek Dimensity 8100,5000,6.78,2024,Good,2,329.0,0.4,192.8
-Infinix,Hot 30 128GB,8,MediaTek Helio G88,5000,6.78,2023,regular,3,199.0,0.6000000000000001,81.46
-Infinix,Hot 30i 128GB,4,Unisoc T606,5000,6.6,2023,Excellent,3,159.0,0.30000000000000004,108.69
-Infinix,Hot 30i NFC 128GB,4,Unisoc T606,5000,6.6,2023,regular,3,159.0,0.6000000000000001,62.82
-Infinix,Hot 30 Play 128GB,4,MediaTek Helio G37,6000,6.82,2023,Excellent,3,179.0,0.30000000000000004,126.32
-Infinix,Hot 30 5G 128GB,8,MediaTek Dimensity 810,5000,6.78,2023,Good,3,239.0,0.45,133.43
-Infinix,Zero 30 256GB,8,MediaTek Dimensity 8020,5000,6.78,2023,Good,3,349.0,0.45,195.01
-Infinix,Zero 30 5G 256GB,12,MediaTek Dimensity 8020,5000,6.78,2023,Excellent,3,379.0,0.30000000000000004,266.13
-Infinix,GT 10 Pro 256GB,8,MediaTek Dimensity 8050,5000,6.67,2023,Good,3,399.0,0.45,219.53
-Infinix,Hot 12 128GB,6,MediaTek Helio G85,5000,6.82,2022,Good,4,179.0,0.5,88.95
-Infinix,Hot 12 Play 128GB,4,Unisoc T610,6000,6.82,2022,Good,4,159.0,0.5,79.24
-Infinix,Hot 12 Pro 128GB,8,Unisoc T616,5000,6.6,2022,Good,4,199.0,0.5,97.18
-Infinix,Hot 12i 64GB,4,MediaTek Helio A22,5000,6.6,2022,Good,4,139.0,0.5,67.6
-Infinix,Hot 20 128GB,6,MediaTek Helio G85,5000,6.82,2022,Good,4,199.0,0.5,98.0
-Infinix,Hot 20 Play 128GB,4,MediaTek Helio G37,6000,6.82,2022,Good,4,159.0,0.5,78.1
-Infinix,Hot 20s 128GB,8,MediaTek Helio G96,5000,6.78,2022,Good,4,219.0,0.5,107.11
-Infinix,Hot 20 5G 128GB,6,MediaTek Dimensity 810,5000,6.6,2022,Excellent,4,239.0,0.35,154.64
-Infinix,Hot 20i 64GB,4,MediaTek Helio G25,5000,6.6,2022,regular,4,139.0,0.65,48.62
-Infinix,Hot 10T 128GB,4,MediaTek Helio G70,5000,6.82,2021,Good,5,149.0,0.55,66.13
-Infinix,Hot 10S 128GB,6,MediaTek Helio G85,6000,6.82,2021,Good,5,169.0,0.55,76.59
-Infinix,Hot 10S NFC 128GB,6,MediaTek Helio G85,6000,6.82,2021,Good,5,179.0,0.55,77.96
-Infinix,Hot 10 Lite 64GB,3,MediaTek Helio A25,5000,6.6,2020,regular,6,109.0,0.7,32.11
-Infinix,Hot 10 Play 64GB,4,MediaTek Helio G25,6000,6.82,2021,Excellent,5,139.0,0.4,81.25
-Infinix,Hot 11 128GB,4,MediaTek Helio G70,5200,6.6,2021,Good,5,159.0,0.55,68.47
-Infinix,Hot 11 Play 128GB,4,MediaTek Helio G35,6000,6.82,2021,Good,5,169.0,0.55,74.81
-Infinix,Hot 11s 128GB,6,MediaTek Helio G88,5000,6.78,2021,Good,5,189.0,0.55,83.62
-Infinix,Smart HD 32GB,2,MediaTek Helio A20,5000,6.1,2020,Excellent,6,79.0,0.45000000000000007,43.78
-Infinix,Note 8i 128GB,6,MediaTek Helio G80,5200,6.78,2020,regular,6,199.0,0.7,59.37
-Infinix,Hot 10 Lite 64GB,3,MediaTek Helio A25,5000,6.6,2020,regular,6,109.0,0.7,31.71
-Infinix,Note 8 128GB,6,MediaTek Helio G80,5200,6.95,2020,Good,6,229.0,0.6000000000000001,92.77
-Infinix,Zero 8i 128GB,8,MediaTek Helio G90T,4500,6.85,2020,Good,6,249.0,0.6000000000000001,99.93
-Infinix,Hot 10 128GB,4,MediaTek Helio G70,5200,6.78,2020,regular,6,159.0,0.7,47.4
-Infinix,Zero 8 128GB,8,MediaTek Helio G90T,4500,6.85,2020,Good,6,279.0,0.6000000000000001,109.55
-Infinix,Smart 5 64GB,3,MediaTek Helio A20,5000,6.6,2020,Excellent,6,99.0,0.45000000000000007,52.85
-Honor,9X Lite,4,Kirin 710F,3750,6.5,2020,Good,6,219.0,0.6000000000000001,85.8
-Honor,30,8,Kirin 985 5G,4000,6.53,2020,Good,6,449.0,0.6000000000000001,179.84
-Honor,30 Pro,8,Kirin 990 5G,4000,6.57,2020,Good,6,599.0,0.6000000000000001,242.78
-Honor,30 Pro+,12,Kirin 990 5G,4000,6.57,2020,Good,6,699.0,0.6000000000000001,281.88
-Honor,30S,6,Kirin 820 5G,4000,6.5,2020,regular,6,349.0,0.7,102.36
-Honor,X10,6,Kirin 820 5G,4300,6.63,2020,regular,6,319.0,0.7,92.66
-Honor,X10 Max,8,MediaTek Dimensity 800,5000,7.09,2020,Good,6,379.0,0.6000000000000001,149.65
-Honor,Play 4,6,MediaTek Dimensity 800,4300,6.81,2020,Excellent,6,349.0,0.45000000000000007,183.98
-Honor,Play 4 Pro,8,Kirin 990 5G,4200,6.57,2020,regular,6,549.0,0.7,163.03
-Honor,10X Lite,4,Kirin 710A,5000,6.67,2020,regular,6,229.0,0.7,67.52
-Honor,V40,8,MediaTek Dimensity 1000+,4000,6.72,2021,Excellent,5,599.0,0.4,351.5
-Honor,50,8,Qualcomm Snapdragon 778G,4300,6.57,2021,regular,5,549.0,0.7,158.29
-Honor,50 Pro,8,Qualcomm Snapdragon 778G,4000,6.72,2021,regular,5,649.0,0.7,193.28
-Honor,50 SE,8,MediaTek Dimensity 900,4000,6.78,2021,Good,5,449.0,0.55,197.4
-Honor,X20,6,MediaTek Dimensity 900,4300,6.67,2021,Good,5,379.0,0.55,165.0
-Honor,X20 SE,6,MediaTek Dimensity 700,4000,6.6,2021,Good,5,299.0,0.55,126.73
-Honor,Play 5,8,MediaTek Dimensity 800U,3800,6.53,2021,Excellent,5,319.0,0.4,188.45
-Honor,Play 5T,6,Unisoc T610,5000,6.5,2021,Good,5,219.0,0.55,99.69
-Honor,Magic3,8,Qualcomm Snapdragon 888,4600,6.76,2021,regular,5,899.0,0.7,272.38
-Honor,Magic3 Pro,8,Qualcomm Snapdragon 888+,4600,6.76,2021,Excellent,5,1099.0,0.4,644.99
-Honor,Magic3 Pro+,12,Qualcomm Snapdragon 888+,4600,6.76,2021,Good,5,1299.0,0.55,570.5
-Honor,60,8,Qualcomm Snapdragon 778G,4800,6.67,2021,Good,5,549.0,0.55,245.08
-Honor,60 Pro,8,Qualcomm Snapdragon 778G+,4800,6.78,2021,Good,5,649.0,0.55,283.3
-Honor,60 SE,8,MediaTek Dimensity 900,4300,6.67,2021,regular,5,449.0,0.7,133.29
-Honor,X30,6,Qualcomm Snapdragon 695,4800,6.81,2021,Good,5,379.0,0.55,169.95
-Honor,X30i,6,MediaTek Dimensity 810,4000,6.7,2021,Good,5,299.0,0.55,135.01
-Honor,X30 Max,8,MediaTek Dimensity 900,5000,7.09,2021,Good,5,499.0,0.55,220.84
-Honor,Play 6,6,MediaTek MT6762G Helio G25,5000,6.52,2022,Good,4,179.0,0.5,87.88
-Honor,Play 6T,6,MediaTek Dimensity 700,5000,6.74,2022,Good,4,229.0,0.5,111.27
-Honor,Magic4,8,Qualcomm Snapdragon 8 Gen 1,4800,6.81,2022,Good,4,899.0,0.5,437.18
-Honor,Magic4 Pro,8,Qualcomm Snapdragon 8 Gen 1,4600,6.81,2022,Excellent,4,1099.0,0.35,701.21
-Honor,Magic4 Ultimate,12,Qualcomm Snapdragon 8 Gen 1,4600,6.81,2022,Excellent,4,1299.0,0.35,836.34
-Honor,Magic V,12,Qualcomm Snapdragon 8 Gen 1,4750,7.9,2022,Good,4,1799.0,0.5,898.33
-Honor,70,8,Qualcomm Snapdragon 778G+,4800,6.67,2022,Good,4,549.0,0.5,267.08
-Honor,70 Pro,8,MediaTek Dimensity 8000,4500,6.78,2022,regular,4,699.0,0.65,246.46
-Honor,70 Pro+,12,MediaTek Dimensity 9000,4500,6.78,2022,Good,4,799.0,0.5,391.88
-Honor,X40,6,Qualcomm Snapdragon 695,5100,6.67,2022,Good,4,299.0,0.5,147.21
-Honor,X40i,6,MediaTek Dimensity 700,4000,6.7,2022,Good,4,279.0,0.5,135.84
-Honor,Play 7,4,MediaTek Helio G37,5200,6.74,2023,Excellent,3,159.0,0.30000000000000004,105.58
-Honor,Play 7T,6,MediaTek Dimensity 6020,5200,6.74,2023,Good,3,199.0,0.45,109.26
-Honor,Magic5,8,Qualcomm Snapdragon 8 Gen 2,5100,6.81,2023,Excellent,3,999.0,0.30000000000000004,696.54
-Honor,Magic5 Pro,12,Qualcomm Snapdragon 8 Gen 2,5100,6.81,2023,regular,3,1199.0,0.6000000000000001,470.38
-Honor,Magic5 Ultimate,16,Qualcomm Snapdragon 8 Gen 2,5450,6.81,2023,Excellent,3,1399.0,0.30000000000000004,965.59
-Honor,Magic Vs,12,Qualcomm Snapdragon 8+ Gen 1,5000,7.9,2023,Good,3,1699.0,0.45,927.67
-Honor,80,8,Qualcomm Snapdragon 782G,4800,6.67,2022,Excellent,4,549.0,0.35,343.13
-Honor,80 Pro,12,Qualcomm Snapdragon 8+ Gen 1,4800,6.78,2022,regular,4,799.0,0.65,273.24
-Honor,80 SE,8,MediaTek Dimensity 900,4600,6.67,2022,Good,4,399.0,0.5,198.88
-Honor,X50,6,Qualcomm Snapdragon 6 Gen 1,5800,6.78,2023,Good,3,299.0,0.45,158.89
-Honor,X50i,6,MediaTek Dimensity 6020,4500,6.7,2023,Excellent,3,249.0,0.30000000000000004,172.45
-Honor,Play 8,4,MediaTek Helio G36,5000,6.52,2023,Good,3,149.0,0.45,79.05
-Honor,Play 8T,6,MediaTek Dimensity 6100+,5200,6.74,2023,Good,3,189.0,0.45,103.12
-Honor,Magic6,8,Qualcomm Snapdragon 8 Gen 3,5200,6.81,2024,regular,2,1099.0,0.55,486.87
-Honor,Magic6 Pro,12,Qualcomm Snapdragon 8 Gen 3,5500,6.81,2024,Good,2,1299.0,0.4,748.83
-Honor,Magic6 Ultimate,16,Qualcomm Snapdragon 8 Gen 3,5550,6.81,2024,Excellent,2,1499.0,0.25,1127.03
-Honor,Magic V2,12,Qualcomm Snapdragon 8 Gen 2,5000,7.92,2024,Excellent,2,1899.0,0.25,1387.19
-Honor,90,12,Qualcomm Snapdragon 7 Gen 1,5000,6.7,2023,Good,3,599.0,0.45,320.5
-Honor,90 Pro,12,Qualcomm Snapdragon 8+ Gen 1,5000,6.78,2023,Good,3,699.0,0.45,379.84
-Honor,90 SE,8,MediaTek Dimensity 900,4600,6.67,2023,Excellent,3,399.0,0.30000000000000004,279.92
-Honor,X60,6,Qualcomm Snapdragon 6 Gen 1,5800,6.78,2023,Good,3,299.0,0.45,159.48
-Honor,X60i,6,MediaTek Dimensity 6020,4500,6.7,2023,Good,3,249.0,0.45,135.02
-Honor,Play 9,4,MediaTek Helio G36,5000,6.52,2023,Good,3,149.0,0.45,81.25
-Honor,Play 9T,6,MediaTek Dimensity 6100+,5200,6.74,2023,Good,3,189.0,0.45,103.47
-Honor,Magic7,8,Qualcomm Snapdragon 8 Gen 3,5200,6.81,2024,Good,2,1099.0,0.4,651.25
-Honor,Magic7 Pro,12,Qualcomm Snapdragon 8 Gen 3,5500,6.81,2024,Good,2,1299.0,0.4,763.42
-Honor,Magic7 Ultimate,16,Qualcomm Snapdragon 8 Gen 3,5550,6.81,2024,Excellent,2,1499.0,0.25,1093.43
-Honor,Magic V3,12,Qualcomm Snapdragon 8 Gen 2,5000,7.92,2024,Excellent,2,1899.0,0.25,1404.73
-Honor,Pad 6,4,Qualcomm Snapdragon 662,5100,10.1,2020,regular,6,199.0,0.7,57.84
-Honor,Pad X6,3,MediaTek MT8768T,5100,9.7,2020,regular,6,159.0,0.7,44.89
-Honor,Pad 7,4,MediaTek Helio G80,5100,10.1,2021,Good,5,229.0,0.55,102.18
-Honor,Tablet V7,6,MediaTek Dimensity 800,7250,10.4,2021,Good,5,399.0,0.55,179.29
-Honor,Tablet V7 Pro,8,MediaTek Dimensity 1300T,7250,11.0,2021,Good,5,499.0,0.55,213.22
-Honor,Pad 8,6,Qualcomm Snapdragon 680,7250,12.0,2022,Good,4,299.0,0.5,144.99
-Honor,Pad X8,4,MediaTek Helio G80,5100,10.1,2022,Excellent,4,189.0,0.35,122.15
-Honor,Pad X8 Lite,3,MediaTek MT8786,5000,9.7,2022,Excellent,4,149.0,0.35,98.39
-Honor,Pad V8,6,MediaTek Dimensity 8020,7250,11.0,2023,Good,3,449.0,0.45,243.32
-Honor,Pad V8 Pro,8,MediaTek Dimensity 9000,8500,12.1,2023,Good,3,649.0,0.45,347.7
-Honor,Pad 9,8,Qualcomm Snapdragon 6 Gen 1,8300,12.1,2024,Excellent,2,399.0,0.25,293.94
-Honor,Pad 9 Pro,12,MediaTek Dimensity 8100,9000,12.6,2024,Good,2,499.0,0.4,301.08
-Honor,Pad X9,6,Qualcomm Snapdragon 685,7250,11.5,2023,Good,3,299.0,0.45,160.39
-Honor,Pad X8 Pro,4,MediaTek Helio G80,5100,10.1,2023,Good,3,189.0,0.45,101.14
-Honor,MagicPad 13,12,Qualcomm Snapdragon 8+ Gen 1,10000,13.0,2023,Excellent,3,799.0,0.30000000000000004,546.86
-Honor,MagicPad 2,16,Qualcomm Snapdragon 8 Gen 2,10500,13.2,2024,Excellent,2,899.0,0.25,654.49
-Honor,Pad X8a,4,MediaTek MT8786,5000,9.7,2023,Good,3,149.0,0.45,80.87
-Honor,Pad X8a Kids Edition,3,MediaTek MT8786,5100,9.7,2023,Excellent,3,129.0,0.30000000000000004,91.15
-Honor,Pad X9 Pro,8,Qualcomm Snapdragon 7s Gen 2,8000,11.6,2024,Good,2,399.0,0.4,236.97
-Honor,Pad V9,8,MediaTek Dimensity 9000,8500,12.1,2024,Good,2,649.0,0.4,382.09
-Honor,Pad GT Pro,12,Qualcomm Snapdragon 8 Gen 3,10500,13.5,2024,Excellent,2,999.0,0.25,734.73
-Honor,Pad X10,6,Qualcomm Snapdragon 685,8850,12.1,2024,Good,2,399.0,0.4,230.2
-Honor,Pad X10 Pro,8,Qualcomm Snapdragon 7s Gen 2,9000,12.6,2024,Good,2,499.0,0.4,298.88
-Honor,MagicPad 3,12,Qualcomm Snapdragon 8 Gen 3,10500,13.0,2024,regular,2,799.0,0.55,353.74
-Honor,Pad V10,8,MediaTek Dimensity 9000,8500,12.1,2024,regular,2,649.0,0.55,286.88
-POCO,F2 Pro 128GB,6,Snapdragon 865,4700,6.67,2020,Good,6,499.0,0.6000000000000001,206.17
-POCO,M2 Pro 64GB,4,Snapdragon 720G,5000,6.67,2020,Good,6,199.0,0.6000000000000001,78.76
-POCO,X3 NFC 128GB,6,Snapdragon 732G,5160,6.67,2020,Good,6,229.0,0.6000000000000001,89.19
-POCO,M3 64GB,4,Snapdragon 662,6000,6.53,2020,Good,6,149.0,0.6000000000000001,58.32
-POCO,F3 128GB,6,Snapdragon 870,4520,6.67,2021,regular,5,349.0,0.7,104.93
-POCO,X3 Pro 128GB,6,Snapdragon 860,5160,6.67,2021,Excellent,5,249.0,0.4,147.41
-POCO,M3 Pro 5G 64GB,4,MediaTek Dimensity 700,5000,6.5,2021,Excellent,5,199.0,0.4,115.03
-POCO,F3 GT 128GB,6,MediaTek Dimensity 1200,5065,6.67,2021,Good,5,399.0,0.55,179.33
-POCO,X3 GT 128GB,6,MediaTek Dimensity 1100,5000,6.6,2021,Excellent,5,279.0,0.4,163.21
-POCO,M4 Pro 5G 128GB,4,MediaTek Dimensity 810,5000,6.6,2021,Excellent,5,219.0,0.4,133.12
-POCO,F4 128GB,6,Snapdragon 870,4500,6.67,2022,Good,4,349.0,0.5,174.71
-POCO,F4 GT 128GB,8,Snapdragon 8 Gen 1,4700,6.67,2022,Good,4,499.0,0.5,244.08
-POCO,X4 Pro 5G 128GB,6,Snapdragon 695,5000,6.67,2022,regular,4,299.0,0.65,105.09
-POCO,M4 Pro 128GB,6,MediaTek Helio G96,5000,6.43,2022,regular,4,219.0,0.65,75.58
-POCO,M5 128GB,4,MediaTek Helio G99,5000,6.58,2022,Good,4,199.0,0.5,99.28
-POCO,M5s 128GB,4,MediaTek Helio G95,5000,6.43,2022,Good,4,229.0,0.5,113.62
-POCO,F5 128GB,6,Snapdragon 7+ Gen 2,5000,6.67,2023,Good,3,349.0,0.45,186.63
-POCO,F5 Pro 256GB,8,Snapdragon 8+ Gen 1,5160,6.67,2023,Good,3,499.0,0.45,267.68
-POCO,X5 128GB,6,Snapdragon 695,5000,6.67,2023,Good,3,279.0,0.45,153.52
-POCO,X5 Pro 128GB,6,Snapdragon 778G,5000,6.67,2023,Good,3,329.0,0.45,177.33
-POCO,M6 64GB,4,MediaTek Helio G88,5000,6.58,2023,Good,3,199.0,0.45,107.15
-POCO,M6 Pro 128GB,6,Snapdragon 4 Gen 1,5000,6.79,2023,Good,3,219.0,0.45,116.92
-POCO,X6 128GB,6,MediaTek Dimensity 8100,5000,6.67,2024,Good,2,349.0,0.4,207.59
-POCO,X6 Pro 256GB,8,MediaTek Dimensity 8300,5000,6.67,2024,Good,2,399.0,0.4,243.22
-POCO,F6 128GB,6,Snapdragon 8 Gen 2,5000,6.67,2024,regular,2,449.0,0.55,195.78
-POCO,F6 Pro 256GB,8,Snapdragon 8+ Gen 2,5160,6.67,2024,Good,2,549.0,0.4,324.58
-POCO,C65 64GB,4,MediaTek Helio G85,5000,6.5,2024,Excellent,2,149.0,0.25,112.44
+Realme,13+ 5G 128GB,8,MediaTek Dimensity 7200,5000,6.5,2024,regular,1,250.0,0.5,121.28
+Realme,13+ 5G 256GB,8,MediaTek Dimensity 7200,5000,6.5,2024,Good,1,270.0,0.35,172.28
+Realme,13 5G 128GB,6,MediaTek Dimensity 6100+,5000,6.6,2024,Good,1,220.0,0.35,142.03
+Realme,13 5G 256GB,8,MediaTek Dimensity 6100+,5000,6.6,2024,regular,1,240.0,0.5,116.46
+Realme,13 Pro 5G 128GB,8,Qualcomm Snapdragon 7s Gen 2,5200,6.7,2024,Good,1,300.0,0.35,192.38
+Realme,13 Pro 5G 256GB,12,Qualcomm Snapdragon 7s Gen 2,5200,6.7,2024,regular,1,320.0,0.5,154.4
+Realme,13 Pro+ 5G 256GB,12,Qualcomm Snapdragon 7+ Gen 2,5500,6.78,2024,Excellent,1,360.0,0.2,281.08
+Realme,13 Pro+ 5G 512GB,16,Qualcomm Snapdragon 7+ Gen 2,5500,6.78,2024,regular,1,380.0,0.5,188.06
+Realme,P1 Speed 5G 128GB,8,MediaTek Dimensity 8100,5100,6.7,2024,Excellent,1,250.0,0.2,192.22
+Realme,P1 Speed 5G 256GB,12,MediaTek Dimensity 8100,5100,6.7,2024,regular,1,270.0,0.5,133.87
+Realme,P2 Pro 5G 256GB,12,Qualcomm Snapdragon 7+ Gen 3,5500,6.78,2024,Good,1,340.0,0.35,217.62
+Realme,P2 Pro 5G 512GB,16,Qualcomm Snapdragon 7+ Gen 3,5500,6.78,2024,regular,1,360.0,0.5,178.79
+Realme,P1 5G 128GB,6,MediaTek Dimensity 6100+,5000,6.6,2024,Excellent,1,200.0,0.2,158.14
+Realme,P1 5G 256GB,8,MediaTek Dimensity 6100+,5000,6.6,2024,Good,1,220.0,0.35,143.78
+Realme,P1 Pro 5G 128GB,8,Qualcomm Snapdragon 7s Gen 1,5200,6.7,2024,regular,1,270.0,0.5,133.23
+Realme,P1 Pro 5G 256GB,12,Qualcomm Snapdragon 7s Gen 1,5200,6.7,2024,Good,1,290.0,0.35,184.46
+Realme,Narzo 70 Turbo 5G 128GB,8,MediaTek Dimensity 810,5000,6.6,2024,Good,1,240.0,0.35,153.95
+Realme,Narzo 70 Turbo 5G 256GB,8,MediaTek Dimensity 810,5000,6.6,2024,Good,1,260.0,0.35,167.84
+Realme,Narzo N61 128GB,6,MediaTek Helio G99,5000,6.5,2024,Good,1,180.0,0.35,115.33
+Realme,Narzo N63 128GB,6,MediaTek Helio G88,5000,6.5,2024,Good,1,160.0,0.35,102.5
+Realme,Narzo N65 5G 128GB,8,MediaTek Dimensity 700,5000,6.6,2024,Good,1,210.0,0.35,133.02
+Realme,Narzo 70 5G 128GB,8,MediaTek Dimensity 810,5200,6.6,2024,regular,1,230.0,0.5,112.13
+Realme,C75 128GB,6,MediaTek Helio G85,5000,6.6,2024,Excellent,1,160.0,0.2,123.39
+Realme,C75 256GB,8,MediaTek Helio G85,5000,6.6,2024,Good,1,180.0,0.35,118.32
+Realme,C61 128GB,4,Unisoc T612,5000,6.5,2024,regular,1,130.0,0.5,62.81
+Realme,C67 128GB,6,MediaTek Helio G88,5000,6.6,2024,regular,1,170.0,0.5,82.84
+Realme,C67 256GB,8,MediaTek Helio G88,5000,6.6,2024,Good,1,190.0,0.35,120.32
+Realme,C65 128GB,6,Qualcomm Snapdragon 680,5000,6.6,2024,Good,1,160.0,0.35,103.84
+Realme,C65 256GB,8,Qualcomm Snapdragon 680,5000,6.6,2024,Good,1,180.0,0.35,114.73
+Realme,C63 128GB,6,MediaTek Helio G85,5000,6.6,2024,Excellent,1,150.0,0.2,120.45
+Realme,C55 128GB,6,MediaTek Helio G88,5000,6.72,2023,Good,2,170.0,0.4,99.44
+Realme,C55 256GB,8,MediaTek Helio G88,5000,6.72,2023,Good,2,190.0,0.4,112.77
+Realme,Note 60x 128GB,6,MediaTek Dimensity 6100+,5200,6.6,2024,Good,1,210.0,0.35,132.74
+Realme,Note 60 128GB,6,MediaTek Dimensity 810,5200,6.6,2024,Excellent,1,220.0,0.2,179.02
+Realme,Note 60 256GB,8,MediaTek Dimensity 810,5200,6.6,2024,regular,1,240.0,0.5,116.06
+Realme,Note 50 128GB,6,MediaTek Helio G99,5000,6.5,2024,regular,1,170.0,0.5,84.12
+Realme,GT 7 128GB,8,Qualcomm Snapdragon 8 Gen 2,5200,6.8,2024,Good,1,440.0,0.35,284.43
+Realme,GT 7 256GB,12,Qualcomm Snapdragon 8 Gen 2,5200,6.8,2024,Good,1,500.0,0.35,322.14
+Realme,Neo 7 128GB,8,MediaTek Dimensity 8200,5000,6.7,2024,Good,1,330.0,0.35,210.69
+Realme,Neo 7 256GB,12,MediaTek Dimensity 8200,5000,6.7,2024,regular,1,380.0,0.5,186.78
+Realme,P2 Pro 5G 128GB,8,MediaTek Dimensity 9200,5100,6.7,2024,Good,1,350.0,0.35,224.24
+Realme,P2 Pro 5G 256GB,12,MediaTek Dimensity 9200,5100,6.7,2024,Excellent,1,400.0,0.2,314.49
+Realme,Pad 64GB,4,MediaTek Helio G80,7100,10.4,2021,regular,4,200.0,0.65,69.96
+Realme,Pad 128GB,6,MediaTek Helio G80,7100,10.4,2021,regular,4,230.0,0.65,81.96
+Realme,Pad 2 128GB,6,MediaTek Helio G99,8360,11.5,2023,regular,2,280.0,0.55,123.06
+Realme,Pad 2 256GB,8,MediaTek Helio G99,8360,11.5,2023,Good,2,320.0,0.4,185.17
+Realme,Pad 2 Lite 64GB,4,MediaTek Helio G85,7100,10.4,2023,Good,2,190.0,0.4,112.14
+Realme,Pad 2 Lite 128GB,6,MediaTek Helio G85,7100,10.4,2023,Good,2,210.0,0.4,128.99
+Realme,Pad X 64GB,4,Qualcomm Snapdragon 695,8340,11.0,2022,regular,3,310.0,0.6000000000000001,120.65
+Realme,Pad X 128GB,6,Qualcomm Snapdragon 695,8340,11.0,2022,regular,3,350.0,0.6000000000000001,141.34
+Realme,Pad Mini 32GB,3,Unisoc T616,6400,8.7,2022,Excellent,3,160.0,0.30000000000000004,113.14
+Realme,Pad Mini 64GB,4,Unisoc T616,6400,8.7,2022,Excellent,3,180.0,0.30000000000000004,123.06
+Realme,Pad Slim 64GB,4,MediaTek Helio G80,7100,10.4,2022,Good,3,200.0,0.45,109.29
+Realme,Pad Slim 128GB,6,MediaTek Helio G80,7100,10.4,2022,regular,3,220.0,0.6000000000000001,88.83
+Realme,TechLife Pad Neo 64GB,4,MediaTek Helio G85,7200,10.5,2024,regular,1,210.0,0.5,102.83
+Realme,TechLife Pad Neo 128GB,6,MediaTek Helio G85,7200,10.5,2024,Excellent,1,230.0,0.2,180.68
+Xiaomi,Xiaomi 15 Pro 256GB,12,Snapdragon 8 Elite,6100,6.73,2024,Good,1,799.0,0.35,507.03
+Xiaomi,Xiaomi 15 Pro 512GB,16,Snapdragon 8 Elite,6100,6.73,2024,Good,1,899.0,0.35,566.69
+Xiaomi,Xiaomi 15 Pro 1TB,16,Snapdragon 8 Elite,6100,6.73,2024,regular,1,999.0,0.5,487.14
+Xiaomi,Xiaomi 15 256GB,12,Snapdragon 8 Elite,5400,6.36,2024,regular,1,699.0,0.5,337.84
+Xiaomi,Xiaomi 15 512GB,16,Snapdragon 8 Elite,5400,6.36,2024,regular,1,799.0,0.5,393.71
+Xiaomi,Xiaomi 14T Pro 256GB,12,Dimensity 9300+,5000,6.67,2024,Good,1,634.99,0.35,401.79
+Xiaomi,Xiaomi 14T Pro 512GB,12,Dimensity 9300+,5000,6.67,2024,Good,1,790.77,0.35,508.09
+Xiaomi,Xiaomi 14T Pro 1TB,12,Dimensity 9300+,5000,6.67,2024,Good,1,899.0,0.35,561.95
+Xiaomi,Xiaomi 14T 256GB,12,Dimensity 8300-Ultra,5000,6.67,2024,Excellent,1,599.0,0.2,474.39
+Xiaomi,Xiaomi 14T 512GB,12,Dimensity 8300-Ultra,5000,6.67,2024,regular,1,699.0,0.5,348.63
+Xiaomi,Xiaomi 14 Pro 256GB,12,Snapdragon 8 Gen 3,5000,6.73,2023,regular,2,799.0,0.55,343.4
+Xiaomi,Xiaomi 14 Pro 512GB,12,Snapdragon 8 Gen 3,5000,6.73,2023,regular,2,899.0,0.55,400.75
+Xiaomi,Xiaomi 14 256GB,12,Snapdragon 8 Gen 3,4610,6.36,2023,regular,2,699.0,0.55,315.62
+Xiaomi,Xiaomi 14 512GB,12,Snapdragon 8 Gen 3,4610,6.36,2023,Good,2,799.0,0.4,463.51
+Xiaomi,Redmi Note 14 Pro+ 5G 128GB,8,Snapdragon 7s Gen 3,5110,6.67,2024,Good,1,374.9,0.35,246.14
+Xiaomi,Redmi Note 14 Pro+ 5G 256GB,12,Snapdragon 7s Gen 3,5110,6.67,2024,regular,1,399.0,0.5,197.76
+Xiaomi,Redmi Note 14 Pro+ 5G 512GB,16,Snapdragon 7s Gen 3,5110,6.67,2024,regular,1,429.0,0.5,209.01
+Xiaomi,Redmi Note 14 Pro 5G 128GB,8,MediaTek Dimensity 7300-Ultra,5500,6.67,2024,Good,1,349.0,0.35,223.26
+Xiaomi,Redmi Note 14 Pro 5G 256GB,12,MediaTek Dimensity 7300-Ultra,5500,6.67,2024,Good,1,379.0,0.35,244.72
+Xiaomi,Redmi Note 14 Pro 4G 128GB,6,Qualcomm Snapdragon 732G,5000,6.67,2024,Excellent,1,299.0,0.2,235.88
+Xiaomi,Redmi Note 14 Pro 4G 256GB,8,Qualcomm Snapdragon 732G,5000,6.67,2024,regular,1,329.0,0.5,163.36
+Xiaomi,Redmi Note 14 5G 128GB,6,MediaTek Dimensity 7025-Ultra,5000,6.67,2024,Good,1,279.0,0.35,176.13
+Xiaomi,Redmi Note 14 5G 256GB,8,MediaTek Dimensity 7025-Ultra,5000,6.67,2024,Good,1,309.0,0.35,198.35
+Xiaomi,Redmi Note 14 4G 128GB,4,Qualcomm Snapdragon 680,5000,6.67,2024,Good,1,249.0,0.35,155.99
+Xiaomi,Redmi Note 14 4G 256GB,6,Qualcomm Snapdragon 680,5000,6.67,2024,Good,1,279.0,0.35,178.33
+Xiaomi,Redmi 14C 5G 64GB,4,MediaTek Dimensity 700,5000,6.5,2024,Good,1,199.0,0.35,125.66
+Xiaomi,Redmi 14C 5G 128GB,6,MediaTek Dimensity 700,5000,6.5,2024,Excellent,1,229.0,0.2,178.43
+Lenovo,Legion Y70 128GB,8,Snapdragon 8+ Gen 1,5100,6.67,2022,Good,3,499.0,0.45,275.42
+Lenovo,Legion Y70 256GB,12,Snapdragon 8+ Gen 1,5100,6.67,2022,Good,3,549.0,0.45,302.36
+Lenovo,Legion Y70 512GB,16,Snapdragon 8+ Gen 1,5100,6.67,2022,Good,3,599.0,0.45,327.52
+Lenovo,K14 Plus 64GB,4,Unisoc T700,5000,6.5,2022,Good,3,199.0,0.45,106.01
+Lenovo,K14 Plus 128GB,6,Unisoc T700,5000,6.5,2022,regular,3,229.0,0.6000000000000001,89.79
+Lenovo,K13 Pro 128GB,6,Snapdragon 662,5000,6.8,2021,Good,4,249.0,0.5,124.9
+Lenovo,K13 32GB,2,Unisoc SC9863A,5000,6.52,2021,Good,4,149.0,0.5,73.54
+Lenovo,K13 Note 64GB,4,Snapdragon 460,5000,6.5,2021,regular,4,199.0,0.65,71.03
+Lenovo,K10 Plus 64GB,4,Snapdragon 632,4050,6.22,2019,Good,6,179.0,0.6000000000000001,70.95
+Lenovo,A6 Note 32GB,3,Helio P22,4000,6.09,2019,Excellent,6,149.0,0.45000000000000007,80.96
+Lenovo,K10 Note 64GB,4,Snapdragon 710,4050,6.3,2019,Excellent,6,219.0,0.45000000000000007,118.08
+Lenovo,K10 Note 128GB,6,Snapdragon 710,4050,6.3,2019,Good,6,249.0,0.6000000000000001,98.31
+Lenovo,Z6 Pro 128GB,6,Snapdragon 855,4000,6.39,2019,Good,6,429.0,0.6000000000000001,168.63
+Lenovo,Z6 Pro 256GB,8,Snapdragon 855,4000,6.39,2019,Good,6,479.0,0.6000000000000001,190.76
+Lenovo,Z5 Pro 64GB,6,Snapdragon 710,3350,6.39,2018,Good,7,299.0,0.65,104.58
+Motorola,Edge 50 Fusion 128GB,8,Snapdragon 7 Gen 1,5000,6.7,2024,Excellent,1,499.0,0.2,388.51
+Motorola,Edge 50 Fusion 256GB,12,Snapdragon 7 Gen 1,5000,6.7,2024,Excellent,1,549.0,0.2,423.84
+Motorola,Edge 50 Pro 128GB,8,Snapdragon 7 Gen 3,4500,6.7,2024,Good,1,549.0,0.35,341.67
+Motorola,Edge 50 Pro 256GB,12,Snapdragon 7 Gen 3,4500,6.7,2024,Good,1,599.0,0.35,386.48
+Motorola,Razr 128GB,8,Snapdragon 8+ Gen 1,3500,6.7,2023,Good,2,999.0,0.4,580.49
+Motorola,Razr 256GB,12,Snapdragon 8+ Gen 1,3500,6.7,2023,Good,2,1099.0,0.4,628.21
+Motorola,G84 5G 128GB,8,Snapdragon 695,5000,6.5,2023,regular,2,299.0,0.55,133.32
+Motorola,G84 5G 256GB,12,Snapdragon 695,5000,6.5,2023,Good,2,349.0,0.4,214.09
+Motorola,Moto G Stylus 64GB,4,MediaTek Helio G88,5000,6.8,2023,Good,2,199.0,0.4,117.6
+Motorola,Moto G Stylus 128GB,6,MediaTek Helio G88,5000,6.8,2023,Good,2,249.0,0.4,149.04
+Motorola,One Vision 3 128GB,6,Exynos 9609,3500,6.3,2024,Good,1,299.0,0.35,191.67
+Motorola,One Vision 3 256GB,8,Exynos 9609,3500,6.3,2024,Good,1,349.0,0.35,223.11
+Motorola,Edge 50 Lite 128GB,6,Snapdragon 695,5000,6.7,2024,regular,1,399.0,0.5,199.26
+Motorola,Edge 50 Lite 256GB,8,Snapdragon 695,5000,6.7,2024,regular,1,449.0,0.5,220.16
+Motorola,Moto E40 Plus 64GB,4,Unisoc T700,5000,6.5,2023,Excellent,2,199.0,0.25,147.61
+Motorola,Moto E40 Plus 128GB,6,Unisoc T700,5000,6.5,2023,regular,2,229.0,0.55,102.0
+Motorola,Moto G Power 64GB,4,Snapdragon 662,5000,6.6,2022,Good,3,249.0,0.45,133.52
+Motorola,Moto G Power 128GB,6,Snapdragon 662,5000,6.6,2022,Good,3,279.0,0.45,153.43
+Motorola,Moto G Play 32GB,3,MediaTek Helio G25,5000,6.5,2022,Good,3,149.0,0.45,80.51
+Motorola,Moto G Play 64GB,4,MediaTek Helio G25,5000,6.5,2022,regular,3,179.0,0.6000000000000001,69.71
+Motorola,Moto G75 5G 128GB,8,Snapdragon 6 Gen 3,5000,6.78,2024,Good,1,320.0,0.35,206.55
+Motorola,Moto G75 5G 256GB,8,Snapdragon 6 Gen 3,5000,6.78,2024,Good,1,370.0,0.35,233.65
+Motorola,Moto S50 128GB,8,MediaTek Dimensity 8100,4500,6.7,2024,Good,1,300.0,0.35,192.16
+Motorola,Moto S50 256GB,12,MediaTek Dimensity 8100,4500,6.7,2024,Good,1,350.0,0.35,224.06
+Motorola,Edge 50 Neo 256GB,8,MediaTek Dimensity 7300,4310,6.4,2024,Excellent,1,400.0,0.2,320.41
+Motorola,Edge 50 Neo 512GB,12,MediaTek Dimensity 7300,4310,6.4,2024,Excellent,1,450.0,0.2,357.16
+Motorola,Moto G55 128GB,8,MediaTek Dimensity 7025,5000,6.49,2024,Excellent,1,270.0,0.2,212.68
+Motorola,Moto G55 256GB,8,MediaTek Dimensity 7025,5000,6.49,2024,Excellent,1,320.0,0.2,255.3
+Motorola,Moto G35 128GB,4,Unisoc T760,5000,6.72,2024,Excellent,1,200.0,0.2,160.94
+Motorola,Moto G35 256GB,8,Unisoc T760,5000,6.72,2024,Good,1,250.0,0.35,161.42
+Motorola,Moto G45 128GB,6,Snapdragon 6s Gen 3,5000,6.5,2024,Excellent,1,250.0,0.2,197.03
+Motorola,Moto G45 256GB,8,Snapdragon 6s Gen 3,5000,6.5,2024,Good,1,300.0,0.35,188.24
+Motorola,Edge 50 256GB,8,Snapdragon 7s Gen 2,4700,6.7,2024,regular,1,450.0,0.5,218.03
+Motorola,Edge 50 512GB,12,Snapdragon 7s Gen 2,4700,6.7,2024,Good,1,500.0,0.35,318.64
+Motorola,Razr 50 Ultra 512GB,12,Snapdragon 8+ Gen 1,4000,6.9,2024,Good,1,1199.0,0.35,760.53
+Motorola,Razr 50 256GB,8,Snapdragon 7 Gen 1,3800,6.7,2024,Excellent,1,999.0,0.2,784.97
+Motorola,Moto G85 128GB,8,Snapdragon 6s Gen 3,5000,6.67,2024,Excellent,1,320.0,0.2,252.38
+Motorola,Moto G85 256GB,12,Snapdragon 6s Gen 3,5000,6.67,2024,Excellent,1,370.0,0.2,293.91
+Motorola,S50 Neo 256GB,8,MediaTek Dimensity 7200,4300,6.5,2024,Excellent,1,300.0,0.2,236.15
+Motorola,S50 Neo 512GB,12,MediaTek Dimensity 7200,4300,6.5,2024,Good,1,350.0,0.35,225.75
+Motorola,Moto E14 64GB,4,Unisoc T606,5000,6.5,2024,Excellent,1,150.0,0.2,118.32
+Motorola,Moto E14 128GB,4,Unisoc T606,5000,6.5,2024,Excellent,1,180.0,0.2,137.57
+Motorola,Edge 256GB,8,Snapdragon 7s Gen 2,4700,6.7,2024,Excellent,1,450.0,0.2,349.53
+Motorola,Edge 512GB,12,Snapdragon 7s Gen 2,4700,6.7,2024,Good,1,500.0,0.35,319.42
+Motorola,Moto X50 Ultra 512GB,12,Snapdragon 8 Gen 3,5000,6.9,2024,Good,1,1499.0,0.35,942.05
+Motorola,Moto G Stylus 5G 256GB,6,Snapdragon 6 Gen 1,5000,6.8,2024,Good,1,300.0,0.35,193.83
+Motorola,Moto G Stylus 5G 512GB,8,Snapdragon 6 Gen 1,5000,6.8,2024,Good,1,350.0,0.35,229.31
+Motorola,Edge 50 Ultra 512GB,12,Snapdragon 8 Gen 3,5000,6.9,2024,Good,1,1499.0,0.35,977.55
+Motorola,Edge 30 Fusion 128GB,8,Snapdragon 888+ 5G,4400,6.55,2022,Excellent,3,699.0,0.30000000000000004,480.39
+Motorola,Edge 30 Fusion 256GB,12,Snapdragon 888+ 5G,4400,6.55,2022,Good,3,749.0,0.45,414.98
+Motorola,Edge 30 Neo 128GB,6,Snapdragon 695 5G,4020,6.28,2022,Good,3,499.0,0.45,270.95
+Motorola,Edge 30 Neo 256GB,8,Snapdragon 695 5G,4020,6.28,2022,Excellent,3,549.0,0.30000000000000004,376.59
+Motorola,Moto G82 5G 128GB,6,Snapdragon 695 5G,5000,6.6,2022,regular,3,399.0,0.6000000000000001,155.74
+Motorola,Moto G82 5G 256GB,8,Snapdragon 695 5G,5000,6.6,2022,regular,3,449.0,0.6000000000000001,176.09
+Motorola,Moto G62 5G 128GB,4,Snapdragon 480+ 5G,5000,6.5,2022,Excellent,3,349.0,0.30000000000000004,239.21
+Motorola,Moto G62 5G 256GB,6,Snapdragon 480+ 5G,5000,6.5,2022,Good,3,399.0,0.45,216.72
+Motorola,Moto G42 128GB,4,Snapdragon 680 4G,5000,6.4,2022,regular,3,299.0,0.6000000000000001,118.09
+Motorola,Moto G32 128GB,4,Snapdragon 680 4G,5000,6.5,2022,Good,3,279.0,0.45,151.16
+Motorola,Moto E32s 64GB,3,MediaTek Helio G37,5000,6.5,2022,Excellent,3,199.0,0.30000000000000004,138.12
+Motorola,Moto E22i 32GB,2,MediaTek Helio G37,4020,6.5,2022,Good,3,179.0,0.45,98.73
+Motorola,Moto E22 64GB,4,MediaTek Helio G37,4020,6.5,2022,Good,3,199.0,0.45,109.37
+Motorola,Moto G22 64GB,4,MediaTek Helio G37,5000,6.5,2022,Good,3,249.0,0.45,131.85
+Huawei,P50,8,Snapdragon 888 4G,4100,6.5,2021,Good,4,699.0,0.5,330.87
+Huawei,P50 Pro,8,Snapdragon 888 4G,4360,6.6,2021,Good,4,899.0,0.5,449.06
+Huawei,P50 Pocket,8,Snapdragon 888 4G,4000,6.9,2021,Good,4,1299.0,0.5,626.44
+Huawei,Mate 40E,8,Kirin 990E 5G,4200,6.5,2021,Good,4,799.0,0.5,392.16
+Huawei,Mate X2,8,Kirin 9000 5G,4500,8.0,2021,Excellent,4,2699.0,0.35,1697.24
+Huawei,Nova 9,8,Snapdragon 778G 4G,4300,6.57,2021,Good,4,499.0,0.5,239.01
+Huawei,Nova 9 Pro,8,Snapdragon 778G 4G,4000,6.72,2021,Good,4,599.0,0.5,297.44
+Huawei,P50E,8,Snapdragon 778G 4G,4100,6.5,2022,regular,3,649.0,0.6000000000000001,258.66
+Huawei,Mate Xs 2,8,Snapdragon 888 4G,4600,7.8,2022,Good,3,2499.0,0.45,1341.95
+Huawei,Mate 50,8,Snapdragon 8+ Gen 1 4G,4460,6.7,2022,Good,3,999.0,0.45,519.85
+Huawei,Mate 50 Pro,8,Snapdragon 8+ Gen 1 4G,4700,6.74,2022,Excellent,3,1199.0,0.30000000000000004,819.83
+Huawei,Nova 10,8,Snapdragon 778G 4G,4000,6.67,2022,Good,3,499.0,0.45,271.95
+Huawei,Nova 10 Pro,8,Snapdragon 778G 4G,4500,6.78,2022,Good,3,599.0,0.45,317.2
+Huawei,Nova 10 SE,8,Snapdragon 680 4G,4500,6.67,2022,Good,3,399.0,0.45,216.76
+Huawei,P60,8,Snapdragon 8+ Gen 1 4G,4815,6.67,2023,Good,2,999.0,0.4,590.27
+Huawei,P60 Pro,12,Snapdragon 8+ Gen 1 4G,4815,6.67,2023,Good,2,1099.0,0.4,655.24
+Huawei,P60 Art,12,Snapdragon 8+ Gen 1 4G,5100,6.73,2023,Excellent,2,1299.0,0.25,961.38
+Huawei,Mate X3,12,Snapdragon 8+ Gen 1 4G,4800,7.85,2023,Good,2,2499.0,0.4,1455.02
+Huawei,Mate 60,12,Kirin 9000S,4750,6.7,2023,Good,2,1099.0,0.4,661.34
+Huawei,Mate 60 Pro,12,Kirin 9000S,5000,6.82,2023,Good,2,1299.0,0.4,765.86
+Huawei,Mate 60 Pro+,12,Kirin 9000S,5200,6.82,2023,Excellent,2,1499.0,0.25,1106.93
+Huawei,Nova 11,8,Snapdragon 778G 4G,4500,6.7,2023,regular,2,499.0,0.55,218.04
+Huawei,Nova 11 Pro,8,Snapdragon 778G 4G,4500,6.78,2023,Good,2,599.0,0.4,351.62
+Huawei,Nova 11 Ultra,12,Snapdragon 778G 4G,4500,6.78,2023,Good,2,699.0,0.4,407.54
+Huawei,Pura 70,12,Kirin 9010,4900,6.8,2024,Good,1,999.0,0.35,637.93
+Huawei,Pura 70 Pro,12,Kirin 9010,5050,6.8,2024,Good,1,1099.0,0.35,721.98
+Huawei,Pura 70 Pro+,12,Kirin 9010,5050,6.8,2024,Excellent,1,1199.0,0.2,925.07
+Huawei,Pura 70 Ultra,16,Kirin 9010,5200,6.8,2024,Good,1,1299.0,0.35,811.25
+Huawei,Mate 70,12,Kirin 9010,4900,6.7,2024,Good,1,899.0,0.35,588.48
+Huawei,Mate 70 Pro,12,Kirin 9010,5000,6.8,2024,Good,1,999.0,0.35,637.57
+Huawei,Mate 70 Pro+,12,Kirin 9010,5000,6.8,2024,Good,1,1099.0,0.35,696.47
+Huawei,Mate X6,12,Kirin 9010,4800,7.93,2024,Excellent,1,2499.0,0.2,2000.4
+Huawei,Nova 12,8,Kirin 9000S,4500,6.7,2024,Good,1,499.0,0.35,316.54
+Huawei,Nova 12 Pro,8,Kirin 9000S,4500,6.78,2024,Good,1,599.0,0.35,394.17
+Huawei,Mate XT 256GB,12,Kirin 9010,5000,7.92,2024,Good,1,2599.0,0.35,1681.19
+Huawei,Mate XT 512GB,12,Kirin 9010,5000,7.92,2024,Good,1,2799.0,0.35,1778.74
+Huawei,Nova 13 256GB,8,Kirin 9000S,4600,6.7,2024,Good,1,529.0,0.35,349.82
+Huawei,Nova 13 512GB,8,Kirin 9000S,4600,6.7,2024,regular,1,599.0,0.5,292.29
+Huawei,Nova 13 Pro 256GB,8,Kirin 9000S,4600,6.78,2024,Good,1,649.0,0.35,420.22
+Huawei,Nova 13 Pro 512GB,8,Kirin 9000S,4600,6.78,2024,Good,1,729.0,0.35,468.87
+Nokia,G42 5G 128GB,4,Snapdragon 480+,5000,6.56,2023,Excellent,2,229.0,0.25,172.53
+Nokia,G20 64GB,4,MediaTek G35,5050,6.52,2021,Excellent,4,169.0,0.35,110.78
+Nokia,G20 128GB,4,MediaTek G35,5050,6.52,2021,Good,4,189.0,0.5,93.13
+Nokia,C32 64GB,3,Unisoc SC9863A,5000,6.52,2023,Excellent,2,139.0,0.25,101.51
+Nokia,C32 128GB,4,Unisoc SC9863A,5000,6.52,2023,Excellent,2,159.0,0.25,118.28
+Nokia,G21 64GB,4,Unisoc T606,5050,6.5,2022,Good,3,169.0,0.45,90.61
+Nokia,G21 128GB,6,Unisoc T606,5050,6.5,2022,Excellent,3,189.0,0.30000000000000004,134.31
+Nokia,C22 64GB,2,Unisoc SC9863A,5000,6.5,2023,regular,2,119.0,0.55,52.86
+Nokia,C22 128GB,3,Unisoc SC9863A,5000,6.5,2023,Excellent,2,139.0,0.25,102.11
+Nokia,G400 128GB,6,Snapdragon 480,5000,6.58,2022,Good,3,239.0,0.45,129.84
+Sony,Xperia 1 IV 256GB,12,Snapdragon 8 Gen 1,5000,6.5,2022,Good,3,1599.0,0.45,848.49
+Sony,Xperia 5 IV 128GB,8,Snapdragon 8 Gen 1,5000,6.1,2022,regular,3,999.0,0.6000000000000001,387.78
+Sony,Xperia 10 IV 128GB,6,Snapdragon 695,5000,6.0,2022,Excellent,3,499.0,0.30000000000000004,350.35
+Sony,Xperia 1 V 256GB,12,Snapdragon 8 Gen 2,5000,6.5,2023,Good,2,1699.0,0.4,994.06
+Sony,Xperia 5 V 128GB,8,Snapdragon 8 Gen 2,5000,6.1,2023,regular,2,1099.0,0.55,479.37
+Sony,Xperia 10 V 128GB,6,Snapdragon 695,5000,6.1,2023,regular,2,599.0,0.55,267.68
+Sony,Xperia 1 VI 256GB,12,Snapdragon 8 Gen 3,5000,6.5,2024,regular,1,1799.0,0.5,902.01
+Sony,Xperia 5 VI 128GB,8,Snapdragon 8 Gen 3,5000,6.1,2024,Good,1,1199.0,0.35,776.06
+Sony,Xperia 10 VI 128GB,6,Snapdragon 7 Gen 1,5000,6.1,2024,Excellent,1,699.0,0.2,559.17
+Nokia,T21,4,Unisoc T612,8200,10.4,2022,Good,3,39622.0,0.45,21217.84
+Huawei,MatePad Pro 12.2 512GB,12,Kirin 9000S,10100,12.2,2024,regular,1,999.0,0.5,481.35
+Huawei,MatePad Pro 13.2 512GB,12,Kirin 9000S,10100,13.2,2024,Good,1,877.0,0.35,574.34
+Google,Pixel 3a 64GB,4,Snapdragon 670,3000,5.6,2019,Good,6,399.0,0.6000000000000001,156.43
+Google,Pixel 3a XL 64GB,4,Snapdragon 670,3700,6.0,2019,Good,6,479.0,0.6000000000000001,188.01
+Google,Pixel 4 64GB,6,Snapdragon 855,2800,5.7,2019,Good,6,799.0,0.6000000000000001,321.17
+Google,Pixel 4 XL 64GB,6,Snapdragon 855,3700,6.3,2019,Excellent,6,899.0,0.45000000000000007,491.16
+Google,Pixel 4a 128GB,6,Snapdragon 730G,3140,5.8,2020,Good,5,349.0,0.55,155.77
+Google,Pixel 4a 5G 128GB,6,Snapdragon 765G,3885,6.2,2020,Good,5,499.0,0.55,228.47
+Google,Pixel 5 128GB,8,Snapdragon 765G,4080,6.0,2020,Good,5,699.0,0.55,306.8
+Google,Pixel 5a 128GB,6,Snapdragon 765G,4680,6.34,2021,Good,4,449.0,0.5,224.26
+Google,Pixel 6 128GB,8,Google Tensor,4614,6.4,2021,Excellent,4,699.0,0.35,447.92
+Google,Pixel 6 Pro 256GB,12,Google Tensor,5003,6.71,2021,Good,4,899.0,0.5,444.57
+Google,Pixel 6a 128GB,6,Google Tensor,4410,6.1,2022,Good,3,449.0,0.45,248.91
+Google,Pixel 7 128GB,8,Google Tensor G2,4355,6.3,2022,Good,3,599.0,0.45,327.02
+Google,Pixel 7 Pro 256GB,12,Google Tensor G2,5000,6.7,2022,Excellent,3,899.0,0.30000000000000004,624.94
+Google,Pixel 7a 128GB,8,Google Tensor G2,4385,6.1,2023,Good,2,499.0,0.4,299.73
+Google,Pixel 8 128GB,8,Google Tensor G3,4575,6.2,2023,Good,2,699.0,0.4,410.81
+Google,Pixel 8 Pro 256GB,12,Google Tensor G3,5050,6.7,2023,Excellent,2,999.0,0.25,728.58
+Google,Pixel 8a 128GB,8,Google Tensor G3,4385,6.1,2024,Good,1,549.0,0.35,345.9
+Google,Pixel 9 128GB,8,Google Tensor G4,4600,6.3,2024,Excellent,1,799.0,0.2,610.76
+Google,Pixel 9 Pro 256GB,12,Google Tensor G4,5050,6.7,2024,Excellent,1,1099.0,0.2,893.13
+Google,Pixel 9 Pro XL 512GB,16,Google Tensor G4,5250,6.8,2024,regular,1,1299.0,0.5,629.01
+Google,Pixel 9 Pro Fold 512GB,16,Google Tensor G4,5500,7.6,2024,Good,1,1799.0,0.35,1147.93
+Tecno,Spark Go 1S 64GB,4,MediaTek Helio A22,5000,6.6,2024,regular,1,129.0,0.5,63.26
+Tecno,Megapad 11 256GB,8,MediaTek G99,8000,11.0,2024,Good,1,349.0,0.35,224.49
+Tecno,Pop 9 4G 64GB,3,Unisoc SC9863A,5000,6.52,2024,Good,1,99.0,0.35,64.17
+Tecno,Megapad 128GB,6,MediaTek Helio G80,7500,10.9,2024,Good,1,299.0,0.35,193.94
+Tecno,Camon 30S 256GB,8,MediaTek Dimensity 810,5200,6.8,2024,Good,1,499.0,0.35,316.65
+Tecno,Spark 30C 5G 128GB,6,MediaTek Dimensity 6100+,5000,6.6,2024,Good,1,199.0,0.35,127.09
+Tecno,Spark 30 5G 128GB,6,MediaTek Dimensity 6020,5000,6.6,2024,Good,1,229.0,0.35,147.25
+Tecno,Pop 9 64GB,3,Unisoc SC9832E,5000,6.52,2024,Good,1,89.0,0.35,56.77
+Tecno,Spark 30 Pro 256GB,8,MediaTek Helio G99,5200,6.8,2024,regular,1,269.0,0.5,135.73
+Tecno,Spark 30 128GB,4,MediaTek Helio G85,5000,6.6,2024,regular,1,179.0,0.5,88.82
+Tecno,Phantom V Fold2 512GB,12,MediaTek Dimensity 9200+,5500,7.85,2024,regular,1,1799.0,0.5,895.92
+Tecno,Phantom V Flip2 256GB,8,MediaTek Dimensity 8050,4300,6.9,2024,Excellent,1,999.0,0.2,795.16
+Tecno,Pova 6 Neo 5G 256GB,8,MediaTek Dimensity 810,6000,6.8,2024,Good,1,349.0,0.35,227.44
+Tecno,Spark 30C 128GB,4,MediaTek Helio G85,5000,6.6,2024,regular,1,149.0,0.5,73.58
+Tecno,Spark Go 1 64GB,3,Unisoc SC9863A,5000,6.52,2024,Excellent,1,99.0,0.2,76.47
+Tecno,Camon 30S Pro 512GB,12,MediaTek Dimensity 9200,5200,6.9,2024,Excellent,1,1099.0,0.2,871.28
+Tecno,Spark 20P 128GB,4,MediaTek Helio G85,5000,6.6,2024,Good,1,179.0,0.35,113.47
+Tecno,Spark 20 Pro 5G 256GB,8,MediaTek Dimensity 810,5200,6.8,2024,Good,1,329.0,0.35,208.95
+Tecno,Pova 6 Neo 256GB,8,MediaTek Helio G99,6000,6.8,2024,regular,1,299.0,0.5,148.57
+Tecno,Camon 30 Premier 512GB,12,MediaTek Dimensity 9200,5200,6.9,2024,Excellent,1,1199.0,0.2,962.63
+Tecno,Camon 30 Pro 512GB,12,MediaTek Dimensity 8200,5200,6.8,2024,Good,1,899.0,0.35,575.77
+Tecno,Camon 30 5G 256GB,8,MediaTek Dimensity 810,5000,6.7,2024,Good,1,499.0,0.35,320.99
+Tecno,Camon 30 128GB,6,MediaTek Helio G99,5000,6.7,2024,Excellent,1,349.0,0.2,282.14
+Tecno,Pova 6 Pro 512GB,12,MediaTek Dimensity 8100,6000,6.9,2024,Excellent,1,1099.0,0.2,869.19
+Tecno,Spark 20 Pro+ 256GB,8,MediaTek Helio G99,5200,6.8,2024,regular,1,269.0,0.5,137.73
+Tecno,Spark 20 Pro 128GB,6,MediaTek Helio G85,5000,6.6,2024,Good,1,199.0,0.35,128.51
+Tecno,Spark 20 128GB,4,MediaTek Helio G85,5000,6.6,2024,Good,1,179.0,0.35,111.53
+Tecno,Spark 20C 128GB,4,MediaTek Helio G85,5000,6.6,2024,Good,1,149.0,0.35,96.49
+Tecno,Spark Go 2024 64GB,3,Unisoc SC9863A,5000,6.52,2024,regular,1,99.0,0.5,49.04
+Tecno,Pop 8 64GB,3,Unisoc SC9832E,5000,6.52,2024,Good,1,89.0,0.35,58.1
+Tecno,Camon 20s Pro 5G 512GB,12,MediaTek Dimensity 9200,5200,6.9,2024,regular,1,1099.0,0.5,546.81
+Tecno,Camon 20s Pro 256GB,12,MediaTek Dimensity 810,5200,6.9,2024,Good,1,899.0,0.35,574.37
+Tecno,Camon 20s 256GB,8,MediaTek Helio G99,5000,6.7,2024,Good,1,449.0,0.35,282.11
+Tecno,Camon 20 Premier 512GB,12,MediaTek Dimensity 8200,5200,6.8,2024,Good,1,1049.0,0.35,669.48
+Tecno,Camon 20 Pro 5G 256GB,8,MediaTek Dimensity 810,5000,6.7,2024,Good,1,499.0,0.35,315.35
+Tecno,Camon 20 Pro 128GB,6,MediaTek Helio G99,5000,6.7,2024,Good,1,349.0,0.35,221.47
+Tecno,Camon 20 128GB,6,MediaTek Helio G99,5000,6.7,2024,Good,1,349.0,0.35,225.45
+Tecno,Pova 5G 512GB,8,MediaTek Dimensity 900,6000,6.9,2024,Good,1,699.0,0.35,458.92
+Tecno,Pova 5 256GB,8,MediaTek Helio G99,6000,6.8,2024,regular,1,329.0,0.5,163.01
+Infinix,Xpad,6,MediaTek Helio G99,7000,10.1,2024,Good,1,299.0,0.35,187.95
+Infinix,Xpad 5G,8,MediaTek Dimensity 810,8000,10.4,2024,Good,1,399.0,0.35,257.19
+Infinix,Xpad Lite,4,Unisoc T606,6000,9.7,2024,regular,1,219.0,0.5,109.82
+Infinix,Xpad Pro,12,MediaTek Dimensity 9200,9000,11.0,2024,Good,1,549.0,0.35,348.23
+Infinix,Hot 50,6,MediaTek Helio G85,5000,6.78,2024,Excellent,1,219.0,0.2,172.22
+Infinix,Hot 50i,4,Unisoc T606,5000,6.6,2024,regular,1,179.0,0.5,88.18
+Infinix,Hot 50 5G,8,MediaTek Dimensity 810,5200,6.78,2024,Good,1,289.0,0.35,182.82
+Infinix,Hot 50 Pro,8,MediaTek Helio G99,5000,6.8,2024,Good,1,269.0,0.35,173.93
+Infinix,Hot 50 Pro+,12,MediaTek Dimensity 9200,5300,6.9,2024,Excellent,1,379.0,0.2,298.1
+Infinix,GT 20 Pro,12,MediaTek Dimensity 8200,5500,6.9,2024,Good,1,449.0,0.35,289.31
+Infinix,Note 40X 5G,8,MediaTek Dimensity 7200,5200,6.8,2024,Good,1,349.0,0.35,220.43
+Infinix,Note 40S,8,MediaTek Helio G99,5000,6.78,2024,Good,1,279.0,0.35,177.44
+Infinix,Note 40 5G,8,MediaTek Dimensity 8100,5200,6.8,2024,regular,1,319.0,0.5,158.84
+Infinix,Note 40 Pro 5G,12,MediaTek Dimensity 9000,5300,6.8,2024,Good,1,399.0,0.35,254.01
+Infinix,Note 40 Racing Edition,12,MediaTek Dimensity 9200,5500,6.9,2024,Excellent,1,449.0,0.2,363.12
+Infinix,Hot 40,8,MediaTek Helio G88,5000,6.78,2023,Good,2,199.0,0.4,116.89
+Infinix,Hot 40i,4,Unisoc T606,5000,6.6,2023,Good,2,159.0,0.4,94.29
+Infinix,Hot 40 Pro,8,MediaTek Helio G99,5000,6.78,2023,Good,2,229.0,0.4,137.26
+Infinix,Zero 40,12,MediaTek Dimensity 8200,5000,6.78,2024,Excellent,1,349.0,0.2,269.07
+Infinix,Zero 40 5G,12,MediaTek Dimensity 8200,5000,6.78,2024,Good,1,379.0,0.35,236.15
+Infinix,Zero Flip,8,Qualcomm Snapdragon 778G,4500,6.7,2024,Good,1,399.0,0.35,249.52
+Infinix,Note 40,8,MediaTek Helio G99,5000,6.78,2024,regular,1,279.0,0.5,140.05
+Infinix,Note 40 Pro,12,MediaTek Dimensity 8100,5000,6.78,2024,Good,1,329.0,0.35,208.87
+Infinix,Hot 30 128GB,8,MediaTek Helio G88,5000,6.78,2023,regular,2,199.0,0.55,91.64
+Infinix,Hot 30i 128GB,4,Unisoc T606,5000,6.6,2023,Excellent,2,159.0,0.25,116.45
+Infinix,Hot 30i NFC 128GB,4,Unisoc T606,5000,6.6,2023,regular,2,159.0,0.55,70.67
+Infinix,Hot 30 Play 128GB,4,MediaTek Helio G37,6000,6.82,2023,Excellent,2,179.0,0.25,135.34
+Infinix,Hot 30 5G 128GB,8,MediaTek Dimensity 810,5000,6.78,2023,Good,2,239.0,0.4,145.56
+Infinix,Zero 30 256GB,8,MediaTek Dimensity 8020,5000,6.78,2023,Good,2,349.0,0.4,212.73
+Infinix,Zero 30 5G 256GB,12,MediaTek Dimensity 8020,5000,6.78,2023,Excellent,2,379.0,0.25,285.14
+Infinix,GT 10 Pro 256GB,8,MediaTek Dimensity 8050,5000,6.67,2023,Good,2,399.0,0.4,239.49
+Infinix,Hot 12 128GB,6,MediaTek Helio G85,5000,6.82,2022,Good,3,179.0,0.45,97.85
+Infinix,Hot 12 Play 128GB,4,Unisoc T610,6000,6.82,2022,Good,3,159.0,0.45,87.16
+Infinix,Hot 12 Pro 128GB,8,Unisoc T616,5000,6.6,2022,Good,3,199.0,0.45,106.9
+Infinix,Hot 12i 64GB,4,MediaTek Helio A22,5000,6.6,2022,Good,3,139.0,0.45,74.36
+Infinix,Hot 20 128GB,6,MediaTek Helio G85,5000,6.82,2022,Good,3,199.0,0.45,107.8
+Infinix,Hot 20 Play 128GB,4,MediaTek Helio G37,6000,6.82,2022,Good,3,159.0,0.45,85.92
+Infinix,Hot 20s 128GB,8,MediaTek Helio G96,5000,6.78,2022,Good,3,219.0,0.45,117.82
+Infinix,Hot 20 5G 128GB,6,MediaTek Dimensity 810,5000,6.6,2022,Excellent,3,239.0,0.30000000000000004,166.54
+Infinix,Hot 20i 64GB,4,MediaTek Helio G25,5000,6.6,2022,regular,3,139.0,0.6000000000000001,55.56
+Infinix,Hot 10T 128GB,4,MediaTek Helio G70,5000,6.82,2021,Good,4,149.0,0.5,73.48
+Infinix,Hot 10S 128GB,6,MediaTek Helio G85,6000,6.82,2021,Good,4,169.0,0.5,85.11
+Infinix,Hot 10S NFC 128GB,6,MediaTek Helio G85,6000,6.82,2021,Good,4,179.0,0.5,86.62
+Infinix,Hot 10 Lite 64GB,3,MediaTek Helio A25,5000,6.6,2020,regular,5,109.0,0.7,32.11
+Infinix,Hot 10 Play 64GB,4,MediaTek Helio G25,6000,6.82,2021,Excellent,4,139.0,0.35,88.02
+Infinix,Hot 11 128GB,4,MediaTek Helio G70,5200,6.6,2021,Good,4,159.0,0.5,76.08
+Infinix,Hot 11 Play 128GB,4,MediaTek Helio G35,6000,6.82,2021,Good,4,169.0,0.5,83.13
+Infinix,Hot 11s 128GB,6,MediaTek Helio G88,5000,6.78,2021,Good,4,189.0,0.5,92.91
+Infinix,Smart HD 32GB,2,MediaTek Helio A20,5000,6.1,2020,Excellent,5,79.0,0.4,47.77
+Infinix,Note 8i 128GB,6,MediaTek Helio G80,5200,6.78,2020,regular,5,199.0,0.7,59.37
+Infinix,Hot 10 Lite 64GB,3,MediaTek Helio A25,5000,6.6,2020,regular,5,109.0,0.7,31.71
+Infinix,Note 8 128GB,6,MediaTek Helio G80,5200,6.95,2020,Good,5,229.0,0.55,104.37
+Infinix,Zero 8i 128GB,8,MediaTek Helio G90T,4500,6.85,2020,Good,5,249.0,0.55,112.42
+Infinix,Hot 10 128GB,4,MediaTek Helio G70,5200,6.78,2020,regular,5,159.0,0.7,47.4
+Infinix,Zero 8 128GB,8,MediaTek Helio G90T,4500,6.85,2020,Good,5,279.0,0.55,123.24
+Infinix,Smart 5 64GB,3,MediaTek Helio A20,5000,6.6,2020,Excellent,5,99.0,0.4,57.65
+Honor,9X Lite,4,Kirin 710F,3750,6.5,2020,Good,5,219.0,0.55,96.52
+Honor,30,8,Kirin 985 5G,4000,6.53,2020,Good,5,449.0,0.55,202.32
+Honor,30 Pro,8,Kirin 990 5G,4000,6.57,2020,Good,5,599.0,0.55,273.13
+Honor,30 Pro+,12,Kirin 990 5G,4000,6.57,2020,Good,5,699.0,0.55,317.11
+Honor,30S,6,Kirin 820 5G,4000,6.5,2020,regular,5,349.0,0.7,102.36
+Honor,X10,6,Kirin 820 5G,4300,6.63,2020,regular,5,319.0,0.7,92.66
+Honor,X10 Max,8,MediaTek Dimensity 800,5000,7.09,2020,Good,5,379.0,0.55,168.35
+Honor,Play 4,6,MediaTek Dimensity 800,4300,6.81,2020,Excellent,5,349.0,0.4,200.7
+Honor,Play 4 Pro,8,Kirin 990 5G,4200,6.57,2020,regular,5,549.0,0.7,163.03
+Honor,10X Lite,4,Kirin 710A,5000,6.67,2020,regular,5,229.0,0.7,67.52
+Honor,V40,8,MediaTek Dimensity 1000+,4000,6.72,2021,Excellent,4,599.0,0.35,380.79
+Honor,50,8,Qualcomm Snapdragon 778G,4300,6.57,2021,regular,4,549.0,0.65,184.67
+Honor,50 Pro,8,Qualcomm Snapdragon 778G,4000,6.72,2021,regular,4,649.0,0.65,225.49
+Honor,50 SE,8,MediaTek Dimensity 900,4000,6.78,2021,Good,4,449.0,0.5,219.34
+Honor,X20,6,MediaTek Dimensity 900,4300,6.67,2021,Good,4,379.0,0.5,183.33
+Honor,X20 SE,6,MediaTek Dimensity 700,4000,6.6,2021,Good,4,299.0,0.5,140.82
+Honor,Play 5,8,MediaTek Dimensity 800U,3800,6.53,2021,Excellent,4,319.0,0.35,204.15
+Honor,Play 5T,6,Unisoc T610,5000,6.5,2021,Good,4,219.0,0.5,110.77
+Honor,Magic3,8,Qualcomm Snapdragon 888,4600,6.76,2021,regular,4,899.0,0.65,317.77
+Honor,Magic3 Pro,8,Qualcomm Snapdragon 888+,4600,6.76,2021,Excellent,4,1099.0,0.35,698.74
+Honor,Magic3 Pro+,12,Qualcomm Snapdragon 888+,4600,6.76,2021,Good,4,1299.0,0.5,633.89
+Honor,60,8,Qualcomm Snapdragon 778G,4800,6.67,2021,Good,4,549.0,0.5,272.31
+Honor,60 Pro,8,Qualcomm Snapdragon 778G+,4800,6.78,2021,Good,4,649.0,0.5,314.77
+Honor,60 SE,8,MediaTek Dimensity 900,4300,6.67,2021,regular,4,449.0,0.65,155.5
+Honor,X30,6,Qualcomm Snapdragon 695,4800,6.81,2021,Good,4,379.0,0.5,188.84
+Honor,X30i,6,MediaTek Dimensity 810,4000,6.7,2021,Good,4,299.0,0.5,150.01
+Honor,X30 Max,8,MediaTek Dimensity 900,5000,7.09,2021,Good,4,499.0,0.5,245.38
+Honor,Play 6,6,MediaTek MT6762G Helio G25,5000,6.52,2022,Good,3,179.0,0.45,96.67
+Honor,Play 6T,6,MediaTek Dimensity 700,5000,6.74,2022,Good,3,229.0,0.45,122.4
+Honor,Magic4,8,Qualcomm Snapdragon 8 Gen 1,4800,6.81,2022,Good,3,899.0,0.45,480.9
+Honor,Magic4 Pro,8,Qualcomm Snapdragon 8 Gen 1,4600,6.81,2022,Excellent,3,1099.0,0.30000000000000004,755.15
+Honor,Magic4 Ultimate,12,Qualcomm Snapdragon 8 Gen 1,4600,6.81,2022,Excellent,3,1299.0,0.30000000000000004,900.67
+Honor,Magic V,12,Qualcomm Snapdragon 8 Gen 1,4750,7.9,2022,Good,3,1799.0,0.45,988.17
+Honor,70,8,Qualcomm Snapdragon 778G+,4800,6.67,2022,Good,3,549.0,0.45,293.78
+Honor,70 Pro,8,MediaTek Dimensity 8000,4500,6.78,2022,regular,3,699.0,0.6000000000000001,281.67
+Honor,70 Pro+,12,MediaTek Dimensity 9000,4500,6.78,2022,Good,3,799.0,0.45,431.07
+Honor,X40,6,Qualcomm Snapdragon 695,5100,6.67,2022,Good,3,299.0,0.45,161.93
+Honor,X40i,6,MediaTek Dimensity 700,4000,6.7,2022,Good,3,279.0,0.45,149.43
+Honor,Play 7,4,MediaTek Helio G37,5200,6.74,2023,Excellent,2,159.0,0.25,113.12
+Honor,Play 7T,6,MediaTek Dimensity 6020,5200,6.74,2023,Good,2,199.0,0.4,119.19
+Honor,Magic5,8,Qualcomm Snapdragon 8 Gen 2,5100,6.81,2023,Excellent,2,999.0,0.25,746.29
+Honor,Magic5 Pro,12,Qualcomm Snapdragon 8 Gen 2,5100,6.81,2023,regular,2,1199.0,0.55,529.18
+Honor,Magic5 Ultimate,16,Qualcomm Snapdragon 8 Gen 2,5450,6.81,2023,Excellent,2,1399.0,0.25,1034.57
+Honor,Magic Vs,12,Qualcomm Snapdragon 8+ Gen 1,5000,7.9,2023,Good,2,1699.0,0.4,1012.0
+Honor,80,8,Qualcomm Snapdragon 782G,4800,6.67,2022,Excellent,3,549.0,0.30000000000000004,369.53
+Honor,80 Pro,12,Qualcomm Snapdragon 8+ Gen 1,4800,6.78,2022,regular,3,799.0,0.6000000000000001,312.27
+Honor,80 SE,8,MediaTek Dimensity 900,4600,6.67,2022,Good,3,399.0,0.45,218.77
+Honor,X50,6,Qualcomm Snapdragon 6 Gen 1,5800,6.78,2023,Good,2,299.0,0.4,173.33
+Honor,X50i,6,MediaTek Dimensity 6020,4500,6.7,2023,Excellent,2,249.0,0.25,184.77
+Honor,Play 8,4,MediaTek Helio G36,5000,6.52,2023,Good,2,149.0,0.4,86.24
+Honor,Play 8T,6,MediaTek Dimensity 6100+,5200,6.74,2023,Good,2,189.0,0.4,112.49
+Honor,Magic6,8,Qualcomm Snapdragon 8 Gen 3,5200,6.81,2024,regular,1,1099.0,0.5,540.96
+Honor,Magic6 Pro,12,Qualcomm Snapdragon 8 Gen 3,5500,6.81,2024,Good,1,1299.0,0.35,811.23
+Honor,Magic6 Ultimate,16,Qualcomm Snapdragon 8 Gen 3,5550,6.81,2024,Excellent,1,1499.0,0.2,1202.16
+Honor,Magic V2,12,Qualcomm Snapdragon 8 Gen 2,5000,7.92,2024,Excellent,1,1899.0,0.2,1479.67
+Honor,90,12,Qualcomm Snapdragon 7 Gen 1,5000,6.7,2023,Good,2,599.0,0.4,349.64
+Honor,90 Pro,12,Qualcomm Snapdragon 8+ Gen 1,5000,6.78,2023,Good,2,699.0,0.4,414.37
+Honor,90 SE,8,MediaTek Dimensity 900,4600,6.67,2023,Excellent,2,399.0,0.25,299.92
+Honor,X60,6,Qualcomm Snapdragon 6 Gen 1,5800,6.78,2023,Good,2,299.0,0.4,173.98
+Honor,X60i,6,MediaTek Dimensity 6020,4500,6.7,2023,Good,2,249.0,0.4,147.3
+Honor,Play 9,4,MediaTek Helio G36,5000,6.52,2023,Good,2,149.0,0.4,88.63
+Honor,Play 9T,6,MediaTek Dimensity 6100+,5200,6.74,2023,Good,2,189.0,0.4,112.88
+Honor,Magic7,8,Qualcomm Snapdragon 8 Gen 3,5200,6.81,2024,Good,1,1099.0,0.35,705.53
+Honor,Magic7 Pro,12,Qualcomm Snapdragon 8 Gen 3,5500,6.81,2024,Good,1,1299.0,0.35,827.04
+Honor,Magic7 Ultimate,16,Qualcomm Snapdragon 8 Gen 3,5550,6.81,2024,Excellent,1,1499.0,0.2,1166.33
+Honor,Magic V3,12,Qualcomm Snapdragon 8 Gen 2,5000,7.92,2024,Excellent,1,1899.0,0.2,1498.38
+Honor,Pad 6,4,Qualcomm Snapdragon 662,5100,10.1,2020,regular,5,199.0,0.7,57.84
+Honor,Pad X6,3,MediaTek MT8768T,5100,9.7,2020,regular,5,159.0,0.7,44.89
+Honor,Pad 7,4,MediaTek Helio G80,5100,10.1,2021,Good,4,229.0,0.5,113.53
+Honor,Tablet V7,6,MediaTek Dimensity 800,7250,10.4,2021,Good,4,399.0,0.5,199.21
+Honor,Tablet V7 Pro,8,MediaTek Dimensity 1300T,7250,11.0,2021,Good,4,499.0,0.5,236.91
+Honor,Pad 8,6,Qualcomm Snapdragon 680,7250,12.0,2022,Good,3,299.0,0.45,159.49
+Honor,Pad X8,4,MediaTek Helio G80,5100,10.1,2022,Excellent,3,189.0,0.30000000000000004,131.54
+Honor,Pad X8 Lite,3,MediaTek MT8786,5000,9.7,2022,Excellent,3,149.0,0.30000000000000004,105.95
+Honor,Pad V8,6,MediaTek Dimensity 8020,7250,11.0,2023,Good,2,449.0,0.4,265.44
+Honor,Pad V8 Pro,8,MediaTek Dimensity 9000,8500,12.1,2023,Good,2,649.0,0.4,379.31
+Honor,Pad 9,8,Qualcomm Snapdragon 6 Gen 1,8300,12.1,2024,Excellent,1,399.0,0.2,313.54
+Honor,Pad 9 Pro,12,MediaTek Dimensity 8100,9000,12.6,2024,Good,1,499.0,0.35,326.17
+Honor,Pad X9,6,Qualcomm Snapdragon 685,7250,11.5,2023,Good,2,299.0,0.4,174.97
+Honor,Pad X8 Pro,4,MediaTek Helio G80,5100,10.1,2023,Good,2,189.0,0.4,110.34
+Honor,MagicPad 13,12,Qualcomm Snapdragon 8+ Gen 1,10000,13.0,2023,Excellent,2,799.0,0.25,585.92
+Honor,MagicPad 2,16,Qualcomm Snapdragon 8 Gen 2,10500,13.2,2024,Excellent,1,899.0,0.2,698.13
+Honor,Pad X8a,4,MediaTek MT8786,5000,9.7,2023,Good,2,149.0,0.4,88.22
+Honor,Pad X8a Kids Edition,3,MediaTek MT8786,5100,9.7,2023,Excellent,2,129.0,0.25,97.66
+Honor,Pad X9 Pro,8,Qualcomm Snapdragon 7s Gen 2,8000,11.6,2024,Good,1,399.0,0.35,256.72
+Honor,Pad V9,8,MediaTek Dimensity 9000,8500,12.1,2024,Good,1,649.0,0.35,413.93
+Honor,Pad GT Pro,12,Qualcomm Snapdragon 8 Gen 3,10500,13.5,2024,Excellent,1,999.0,0.2,783.71
+Honor,Pad X10,6,Qualcomm Snapdragon 685,8850,12.1,2024,Good,1,399.0,0.35,249.38
+Honor,Pad X10 Pro,8,Qualcomm Snapdragon 7s Gen 2,9000,12.6,2024,Good,1,499.0,0.35,323.78
+Honor,MagicPad 3,12,Qualcomm Snapdragon 8 Gen 3,10500,13.0,2024,regular,1,799.0,0.5,393.04
+Honor,Pad V10,8,MediaTek Dimensity 9000,8500,12.1,2024,regular,1,649.0,0.5,318.75
+POCO,F2 Pro 128GB,6,Snapdragon 865,4700,6.67,2020,Good,5,499.0,0.55,231.94
+POCO,M2 Pro 64GB,4,Snapdragon 720G,5000,6.67,2020,Good,5,199.0,0.55,88.61
+POCO,X3 NFC 128GB,6,Snapdragon 732G,5160,6.67,2020,Good,5,229.0,0.55,100.34
+POCO,M3 64GB,4,Snapdragon 662,6000,6.53,2020,Good,5,149.0,0.55,65.62
+POCO,F3 128GB,6,Snapdragon 870,4520,6.67,2021,regular,4,349.0,0.65,122.42
+POCO,X3 Pro 128GB,6,Snapdragon 860,5160,6.67,2021,Excellent,4,249.0,0.35,159.7
+POCO,M3 Pro 5G 64GB,4,MediaTek Dimensity 700,5000,6.5,2021,Excellent,4,199.0,0.35,124.62
+POCO,F3 GT 128GB,6,MediaTek Dimensity 1200,5065,6.67,2021,Good,4,399.0,0.5,199.26
+POCO,X3 GT 128GB,6,MediaTek Dimensity 1100,5000,6.6,2021,Excellent,4,279.0,0.35,176.81
+POCO,M4 Pro 5G 128GB,4,MediaTek Dimensity 810,5000,6.6,2021,Excellent,4,219.0,0.35,144.21
+POCO,F4 128GB,6,Snapdragon 870,4500,6.67,2022,Good,3,349.0,0.45,192.18
+POCO,F4 GT 128GB,8,Snapdragon 8 Gen 1,4700,6.67,2022,Good,3,499.0,0.45,268.49
+POCO,X4 Pro 5G 128GB,6,Snapdragon 695,5000,6.67,2022,regular,3,299.0,0.6000000000000001,120.1
+POCO,M4 Pro 128GB,6,MediaTek Helio G96,5000,6.43,2022,regular,3,219.0,0.6000000000000001,86.38
+POCO,M5 128GB,4,MediaTek Helio G99,5000,6.58,2022,Good,3,199.0,0.45,109.21
+POCO,M5s 128GB,4,MediaTek Helio G95,5000,6.43,2022,Good,3,229.0,0.45,124.98
+POCO,F5 128GB,6,Snapdragon 7+ Gen 2,5000,6.67,2023,Good,2,349.0,0.4,203.6
+POCO,F5 Pro 256GB,8,Snapdragon 8+ Gen 1,5160,6.67,2023,Good,2,499.0,0.4,292.02
+POCO,X5 128GB,6,Snapdragon 695,5000,6.67,2023,Good,2,279.0,0.4,167.48
+POCO,X5 Pro 128GB,6,Snapdragon 778G,5000,6.67,2023,Good,2,329.0,0.4,193.45
+POCO,M6 64GB,4,MediaTek Helio G88,5000,6.58,2023,Good,2,199.0,0.4,116.89
+POCO,M6 Pro 128GB,6,Snapdragon 4 Gen 1,5000,6.79,2023,Good,2,219.0,0.4,127.55
+POCO,X6 128GB,6,MediaTek Dimensity 8100,5000,6.67,2024,Good,1,349.0,0.35,224.89
+POCO,X6 Pro 256GB,8,MediaTek Dimensity 8300,5000,6.67,2024,Good,1,399.0,0.35,263.48
+POCO,F6 128GB,6,Snapdragon 8 Gen 2,5000,6.67,2024,regular,1,449.0,0.5,217.54
+POCO,F6 Pro 256GB,8,Snapdragon 8+ Gen 2,5160,6.67,2024,Good,1,549.0,0.35,351.63
+POCO,C65 64GB,4,MediaTek Helio G85,5000,6.5,2024,Excellent,1,149.0,0.2,119.94
 POCO,X7 128GB,6,MediaTek Dimensity 8200,5000,6.67,2025,regular,1,329.0,0.5,161.84
 POCO,X7 Pro 256GB,8,MediaTek Dimensity 8400,6000,6.67,2025,Good,1,399.0,0.35,257.22
-POCO,M7 5G 128GB,6,MediaTek Dimensity 7025,5110,6.67,2024,regular,2,229.0,0.55,99.86
-Poco,Pad 5G 128GB,8,Snapdragon 7s Gen 2,10000,12.1,2024,Good,2,280.0,0.4,166.56
-Poco,Pad 5G 256GB,8,Snapdragon 7s Gen 2,10000,12.1,2024,Good,2,300.0,0.4,176.79
-Samsung,Galaxy Z Fold6 256GB,12,Snapdragon 8 Gen 3,4400,7.6,2024,Excellent,2,1899.0,0.25,1423.95
-Samsung,Galaxy Z Fold6 512GB,12,Snapdragon 8 Gen 3,4400,7.6,2024,Good,2,1719.0,0.4,1034.3
-Samsung,Galaxy Z Fold6 1TB,12,Snapdragon 8 Gen 3,4400,7.6,2024,Good,2,2259.0,0.4,1387.72
+POCO,M7 5G 128GB,6,MediaTek Dimensity 7025,5110,6.67,2024,regular,1,229.0,0.5,110.96
+Poco,Pad 5G 128GB,8,Snapdragon 7s Gen 2,10000,12.1,2024,Good,1,280.0,0.35,180.44
+Poco,Pad 5G 256GB,8,Snapdragon 7s Gen 2,10000,12.1,2024,Good,1,300.0,0.35,191.53
+Samsung,Galaxy Z Fold6 256GB,12,Snapdragon 8 Gen 3,4400,7.6,2024,Excellent,1,1899.0,0.2,1518.87
+Samsung,Galaxy Z Fold6 512GB,12,Snapdragon 8 Gen 3,4400,7.6,2024,Good,1,1719.0,0.35,1120.49
+Samsung,Galaxy Z Fold6 1TB,12,Snapdragon 8 Gen 3,4400,7.6,2024,Good,1,2259.0,0.35,1503.36

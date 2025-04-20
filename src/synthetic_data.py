@@ -22,7 +22,7 @@ conditions = ['Excellent', 'Good', 'regular']
 df['Condition'] = np.random.choice(conditions, size=len(df), p=[0.20, 0.60, 0.20])
 
 #Generate the years of use for the phones
-df['age_years'] = (CURRENT_YEAR - df['Launched Year'] + 1).astype(int)
+df['age_years'] = (CURRENT_YEAR - df['Launched Year']).astype(int)
 df['age_years'] = df['age_years'].clip(lower=1)  # Ensure age is minimum 1
 
 #2. Calculate the price depreciation based on the condition and age of the phone
