@@ -4,19 +4,20 @@ from data_preprocessing import prepare_features, train_test_split
 from linear_regression import LinearRegression
 
 def train_and_evaluate():
-    # Cargar y preparar datos
+    # load and prepare the dataset
     df = pd.read_csv('../data/refurbished_phones.csv')
-    features = ['RAM', 'age_years', 'Launched Price (USA)']
+    features = ['RAM', 'age_years', 'Battery Capacity', 'Screen Size', 'Condition_Encoded', 'Launched Price (USA)']
     X, y = prepare_features(df, features, target='refurbished_price')
     
-    # Dividir en train/test
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+    # separate training and testing data
+    # 80% training and 20% testing
+    X_train, y_train, X_test, y_test = train_test_split(X, y, test_size=0.2)
     
-    # Entrenar modelo
-    model = LinearRegression(learning_rate=0.1, epochs=500)
+    # Train the model
+    model = LinearRegression(learning_rate=0.01, epochs=1000)
     model.fit(X_train, y_train)
     
-    # Evaluar
+    # Evaluate the model
     y_pred_train = model.predict(X_train)
     y_pred_test = model.predict(X_test)
     
@@ -26,7 +27,7 @@ def train_and_evaluate():
     print(f"R² Train: {model.r2_score(y_train, y_pred_train):.2f}")
     print(f"R² Test: {model.r2_score(y_test, y_pred_test):.2f}")
     
-    # Visualización
+    # Viz
     plt.plot(model.loss_history)
     plt.title("Convergencia del Gradiente Descendente")
     plt.xlabel("Época")
