@@ -1,10 +1,11 @@
 import matplotlib.pyplot as plt
-from .data_preprocessing import load_data, prepare_features, train_test_split
+import pandas as pd
+from .data_preprocessing import prepare_features, train_test_split
 from .linear_regression import LinearRegression
 
 def train_and_evaluate():
     # Cargar y preparar datos
-    df = load_data('../data/refurbished_phones.csv')
+    df = pd.read_csv('../data/refurbished_phones.csv')
     features = ['RAM', 'age_years', 'Launched Price (USA)']
     X, y = prepare_features(df, features, target='refurbished_price')
     
