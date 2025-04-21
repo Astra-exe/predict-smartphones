@@ -37,7 +37,7 @@ condition_discount = {
 base_discount = df['Condition'].map(condition_discount) + (df['age_years'] * 0.05)
 
 # Non-linear noise for price drop
-noise = np.random.normal(-0.15, 0.25, len(df))  # -15% to +25% noise
+noise = np.random.normal(-0.15, 0.25, len(df))  # -5% to +15% noise
 df['price_drop'] = np.clip(base_discount + noise, 0.10, 0.70)  # realistic range of 10% to 70%
 
 # Calculate the depreciated price
