@@ -1,8 +1,8 @@
 import numpy as np
 
 class LinearRegression:
-    def __init__(self, learnging_rate=0.01, epochs=1000):
-        self.lr = learnging_rate
+    def __init__(self, learning_rate=0.01, epochs=1000):
+        self.lr = learning_rate
         self.epochs = epochs
         self.theta = None #Model weights
         self.loss_history = []

@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
-from .data_preprocessing import prepare_features, train_test_split
-from .linear_regression import LinearRegression
+from data_preprocessing import prepare_features, train_test_split
+from linear_regression import LinearRegression
 
 def train_and_evaluate():
     # Cargar y preparar datos

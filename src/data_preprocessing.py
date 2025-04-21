@@ -16,7 +16,7 @@ def prepare_features(df, features, target):
 
 #separate training and testing data
 def train_test_split(X, y, test_size=0.2):
-    indexes = np.r_andom.permutation(X.shape[0])
+    indexes = np.random.permutation(X.shape[0])
     test_samples = int(X.shape[0] * test_size)
 
     X_train = X[indexes[:-test_samples]]
