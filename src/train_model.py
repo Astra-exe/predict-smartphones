@@ -6,7 +6,7 @@ from linear_regression import LinearRegression
 def train_and_evaluate():
     # load and prepare the dataset
     df = pd.read_csv('../data/refurbished_phones.csv')
-    features = ['RAM', 'age_years', 'Battery Capacity', 'Screen Size', 'Condition_Encoded', 'Launched Price (USA)']
+    features = ['RAM', 'age_years', 'Battery Capacity', 'Condition_Encoded', 'Launched Price (USA)']
     X, y = prepare_features(df, features, target='refurbished_price')
     
     # separate training and testing data
