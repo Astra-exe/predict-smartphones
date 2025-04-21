@@ -33,9 +33,12 @@ condition_discount = {
     'regular': 0.45
 }
 
-#Add 5% discount for each year of use
-df['price_drop'] = df['Condition'].map(condition_discount) + (df['age_years'] * 0.05)
-df['price_drop'] = np.clip(df['price_drop'], 0, 0.70)  # Ensure max discount is 70%
+# Calculate the base discount based on condition and age
+base_discount = df['Condition'].map(condition_discount) + (df['age_years'] * 0.05)
+
+# Non-linear noise for price drop
+noise = np.random.normal(-0.15, 0.25, len(df))  # -15% to +25% noise
+df['price_drop'] = np.clip(base_discount + noise, 0.10, 0.70)  # realistic range of 10% to 70%
 
 # Calculate the depreciated price
 df['refurbished_price'] = df['Launched Price (USA)'] * (1 - df['price_drop'])
