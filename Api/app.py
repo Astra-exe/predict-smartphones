@@ -4,7 +4,7 @@ from prediction import PricePredictor
 import os
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"/predict": {"origins": "*"}})
 
 #load the model
 prerdictor = PricePredictor('model_params.npz')
@@ -13,27 +13,24 @@ prerdictor = PricePredictor('model_params.npz')
 def predict():
     try:
         data = request.get_json()
-
-        #verify the fields from the request
-        required_fields = ['RAM', 'age_years', 'Battery Capacity', 'Condition', 'Launched Price (USA)']
-        if not all(field in data for field in required_fields):
-            return jsonify({"error": "Hay campos faltantes"}), 400
+        print("Datos recibidos:", data)
         
         #make sure the data is in the correct format
         input_data = {
-            "RAM": float(data['RAM']),
-            "age_years": float(data['age_years']),
-            "Battery Capacity": float(data['Battery Capacity']),
+            "RAM": int(data['RAM']),
+            "age_years": int(data['age_years']),
+            "Battery Capacity": int(data['Battery_Capacity']),
             "Condition": data['Condition'],
-            "Launched Price (USA)": float(data['Launched Price (USA)'])
+            "Launched Price (USA)": int(data['Launched_Price_USA'])
         }
 
         #make the prediction
         prediction = prerdictor.predict(input_data)
-        prediction = round(prediction, 2)
-        return jsonify({"predicted_price": prediction}), 200
+        return jsonify({'predicted_price': round(float(prediction), 2)}), 200
+    
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        app.logger.error(f"Error: {str(e)}")
+        return jsonify({'error': 'Error interno del servidor'}), 500
 
 if __name__ == '__main__':
     app.run(debug=True, port=3000)
