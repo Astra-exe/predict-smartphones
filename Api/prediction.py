@@ -30,12 +30,11 @@ class PricePredictor:
         X = self.preprocess_input(input_data)
         return X.dot(self.theta)[0][0]
 
-# Ejemplo de uso
+# xample usage
 if __name__ == "__main__":
     predictor = PricePredictor('model_params.npz')
     
-    # Ejemplo de input (debe coincidir con las features)
-    nuevo_telefono = {
+    new_phone = {
         "RAM": 6,
         "age_years": 2,
         "Battery Capacity": 4000,
@@ -43,5 +42,5 @@ if __name__ == "__main__":
         "Launched Price (USA)": 699
     }
     
-    prediccion = predictor.predict(nuevo_telefono)
+    prediccion = predictor.predict(new_phone)
     print(f"Precio estimado: ${prediccion:.2f}")
