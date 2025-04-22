@@ -1,13 +1,14 @@
 import matplotlib.pyplot as plt
 import pandas as pd
+import numpy as np
 from data_preprocessing import prepare_features, train_test_split
 from linear_regression import LinearRegression
 
-def train_and_evaluate():
+def train_and_evaluate(save_model=True):
     # load and prepare the dataset
     df = pd.read_csv('../data/refurbished_phones.csv')
     features = ['RAM', 'age_years', 'Battery Capacity', 'Condition_Encoded', 'Launched Price (USA)']
-    X, y = prepare_features(df, features, target='refurbished_price')
+    X, y, X_mean, X_std = prepare_features(df, features, target='refurbished_price')
     
     # separate training and testing data
     # 80% training and 20% testing
@@ -26,13 +27,24 @@ def train_and_evaluate():
     print(f"MSE Test: {model.mse(y_test, y_pred_test):.2f}")
     print(f"R² Train: {model.r2_score(y_train, y_pred_train):.2f}")
     print(f"R² Test: {model.r2_score(y_test, y_pred_test):.2f}")
-    
+
+    # Save the model if required
+    if save_model:
+        np.savez(
+            'model_params.npz',
+            theta=model.theta,
+            X_mean=X_mean,
+            X_std=X_std,
+            features=features
+        )
+
     # Viz
     plt.plot(model.loss_history)
     plt.title("Convergencia del Gradiente Descendente")
     plt.xlabel("Época")
     plt.ylabel("MSE")
     plt.show()
+
 
 if __name__ == "__main__":
     train_and_evaluate()
