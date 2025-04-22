@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Phone Price Predictor</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="main-content">
+        <div class="container">
+            <h1>📱Price predictor📱</h1>
+            <p class="subtitle">Nuestro algoritmo de <span class="neon-text">Machine Learning</span> calcula el precio más razonable para tu dispositivo móvil usando modelos de regresión avanzados. ¡Ingresa los specs y descubre el valor real!</p>
+            
+            <div class="form-container">
+                <div class="input-group">
+                    <label>RAM (GB):</label>
+                    <input type="number" id="ram" step="0.1" required>
+                </div>
+                
+                <div class="input-group">
+                    <label>Tiempo de uso (años):</label>
+                    <input type="number" id="age" step="0.1" required>
+                </div>
+                
+                <div class="input-group">
+                    <label>Capacidad de batería (mAh):</label>
+                    <input type="number" id="battery" required>
+                </div>
+                
+                <div class="input-group">
+                    <label>Condición:</label>
+                    <select id="condition">
+                        <option value="Excelente">Excelente</option>
+                        <option value="Bueno">Bueno</option>
+                        <option value="regular">Regular</option>
+                    </select>
+                </div>
+                
+                <div class="input-group">
+                    <label>Precio original (en dólares):</label>
+                    <input type="number" id="price" required>
+                </div>
+                <div class="input-group">
+                    <button onclick="predictPrice()">CALCULAR PRECIO</button>
+                </div>
+                
+                <div id="result" class="result-container"></div>
+            </div>
+        </div>
+    </div>
+    
+    <footer class="cyber-footer">
+        Creado con ❤️ por <a href="https://github.com/astra-exe" target="_blank" rel="noopener" class="neon-link">Astra</a>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
